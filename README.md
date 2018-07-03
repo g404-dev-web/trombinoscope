@@ -19,8 +19,10 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Créez un effet de transition sur ce filtre au survol de la souris sur votre avatar
 * Modifiez vos informations personelles
 * Avant de publier, prenez garde aux commentaires html !
-* ...
 * Exécuter un _pull-request_ sur le projet Github
+
+### Extra
+* Appliquez une transformation 3D sur votre avatar, sisible au :hover avec une transition non linéaire
 
 ## Accomplissement
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
