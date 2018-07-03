@@ -22,10 +22,6 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * ...
 * Exécuter un _pull-request_ sur le projet Github
 
-## Extra
-* Créer votre page personnelle liée à votre avatar !
-* Le fichier styleguide.html pourra vous donner de l'inspiration, mais créez et placez votre propre fichier votre_nom.html au bon endroit
-
 ## Accomplissement
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
 
