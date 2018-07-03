@@ -1,0 +1,30 @@
+version: '3'
+services:
+  web:
+    image: httpd:2.4
+    container_name: trombinoscope
+    depends_on:
+      - node
+    ports:
+      - "8080:80"
+    volumes:
+      - ./public-html:/usr/local/apache2/htdocs/
+    command: > 
+      bash -c "echo -e '\033[0;32mSERVER READY ON http://localhost:8080\033[0m' && httpd-foreground"
+
+  node:
+    image: "node:8"
+    working_dir: /application
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./:/application
+    ports:
+      - "8000:8000"
+    command: >
+      bash -c "npm install express --save 
+      && npm install nodemailer --save
+      && npm install nodemon --save
+      && npm install body-parser --save
+      && npm install node-sass --save
+      && npm start"
