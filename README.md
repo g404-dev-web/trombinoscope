@@ -23,7 +23,7 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 
 ## Extra
 * Créer votre page personnelle liée à votre avatar !
-* Le fichier styleguide.html pourra vous donner de l'inspiration, mais créez et placez bien votre propre fichier html
+* Le fichier styleguide.html pourra vous donner de l'inspiration, mais créez et placez votre propre fichier votre_nom.html au bon endroit
 
 ## Accomplissement
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
