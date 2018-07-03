@@ -11,14 +11,15 @@ Server will be ready on http://localhost:8080
 
 ## Mission
 Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promotion sur la page d'accueil existante visible à l'adresse suivante https://simplon-roanne.com/
-* Prenez vous en selfie !
-* Redimensionnez la en 300px par 300px
-* Intégrez la ensuite au template fournis (un id avec votre nom doit être renseigné
-* Appliquez un filtres css3 de votre choix
-* Modifiez vos informations d'identité
+* Prenez vous en selfie ! (avec votre téléphone ou votre webcam)
+* Redimensionnez la photo en 300px par 300px
+* Modifiez la structure HTML existante dans la page index.html pour y afficher votre photo
+* la balise html englobante de votre avatar devra avoir un id avec votre nom 
+* Appliquez un filtre CSS3 de votre choix
+* Modifiez vos informations personelles
 * Avant de publier, prenez garde aux commentaires html !
 * ...
-* Exécuter un pull-request sur le projet Github
+* Exécuter un _pull-request_ sur le projet Github
 
 ## Extra
 * Créer votre page personnelle liée à votre avatar !
