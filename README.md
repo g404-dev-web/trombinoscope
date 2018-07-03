@@ -16,6 +16,7 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Modifiez la structure HTML existante dans la page index.html pour y afficher votre photo
 * la balise html englobante de votre avatar devra avoir un id avec votre nom 
 * Appliquez un filtre CSS3 de votre choix
+* Créez un effet de transition sur ce filtre au survol de la souris sur votre avatar
 * Modifiez vos informations personelles
 * Avant de publier, prenez garde aux commentaires html !
 * ...
@@ -31,3 +32,4 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 ## Recherches utiles
 * _getting started with Bootstrap 4_
 * _débuter avec Sass Scss_
+* _How to apply Css3 filters_
