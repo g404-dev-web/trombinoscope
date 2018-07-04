@@ -15,7 +15,7 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Redimensionnez la photo en 300px par 300px
 * Modifiez la structure HTML existante dans la page index.html pour y afficher votre photo
 * la balise html englobante <a> de votre avatar devra avoir un id avec votre nom 
-* Ouvrez le fichier trombi.scss, attention les fichiers CSS sont les fichiers générés par le compileur SASS (il ne faut pas les éditer)
+* Ouvrez le fichier trombi.scss et éditez le, attention les fichiers CSS sont les fichiers générés par le compileur SASS (il ne faut pas les éditer)
 * Ajouter la ligne d'appel du fichier trombi.css dans le fichier index.html
 * Appliquez un filtre CSS3 de votre choix
 * Créez un effet de transition sur ce filtre au survol de la souris sur votre avatar
