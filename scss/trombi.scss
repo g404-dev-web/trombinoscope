@@ -1,4 +1,32 @@
 
+#mfg .card-img {
+    filter: grayscale(130%);
+}
+
+#mfg .card:hover {
+    border: 2px solid grey;
+    transform: rotateX(360deg);
+    animation-delay: 5s;
+    animation-timing-function: ease-in-out;
+    transition: 3s;
+    
+    //animation: rotating 5s linear infinite;
+}
+
+#mfg .card-img:hover {
+  transition-delay: 2s;
+  filter: none;
+}
+/*@keyframes rotating {
+    from{
+        transform: rotateX(0deg);
+    }
+    to{
+        transform: rotateX(180deg);
+    }
+}*/
+
+
 #toto {
     -webkit-filter: contrast(4);
     filter: contrast(2);
@@ -161,4 +189,3 @@ transition:  all 1s;
         transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
         transition: 0.5s;
 }
-
