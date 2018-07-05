@@ -1,0 +1,9 @@
+#tiffany {
+  filter: grayscale(0%);
+  transition: all 300ms; }
+
+#tiffany:hover {
+  filter: grayscale(100%); 
+  transform: rotate(1turn); }
+
+/*# sourceMappingURL=trombi.css.map */
