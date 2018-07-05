@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 /* Noir et blanc */
 #wa {
 	filter: grayscale(100%);
@@ -11,3 +12,37 @@
   transition: .5s ease-in-out;
 
 }
+=======
+#yver img{
+    
+    filter: contrast(50%);;
+    transition: all 1s;
+    transition-timing-function: ease-in-out;
+
+#loic img{
+    filter: grayscale(100%);
+    transition: all 1s;
+    &:hover {
+        transform: rotate(360deg) rotateX(360deg);
+        
+      } 
+  }
+
+
+#jg {
+    filter: sepia(50%);
+    transform: rotateX(-360deg) scale3d(1, 1, 1);
+    transition: 0.5s;
+}
+#jg:hover {
+    filter: sepia(100%);
+    transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
+    transition: 0.5s;
+}
+
+#yver img:hover{
+
+    filter: contrast(150%);
+    transform: rotate(10turn);
+}
+>>>>>>> c9fe8498f63e9e05f63556d2d5ff1a2cc1f441c4
