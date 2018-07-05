@@ -39,7 +39,9 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Votre code est mergé avec succès dans le projet
 * Vous avez créé une page personnelle mergée dans le projet
 
-## Recherches utiles
+## Recherches obligatoires
 * _getting started with Bootstrap 4_
 * _débuter avec Sass Scss_
 * _How to apply Css3 filters_
+* _Css grid system_
+* _How to Use Sass Variables/Extends/Mixins/Functions_
