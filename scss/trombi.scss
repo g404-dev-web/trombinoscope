@@ -1,8 +1,6 @@
 #Celine img{
-    
     filter: sepia(100%);
     transition: all 2s;
-
 }
 #Celine img:hover {
     -webkit-transform: rotateX(150deg); /* Safari */
@@ -20,13 +18,11 @@
         opacity: 1;
         transform: scale3D(1.1,1.1,1.1);}
 
-#marine img
-    {
+#marine img{
         filter: saturate(250%);
         transition: 1s;
     }
-#marine img:hover
-    {
+#marine img:hover{
         filter: saturate(100%);
         transform: rotate(360deg);
         transition: 1s;
@@ -35,8 +31,7 @@
 #yver img{
     filter: contrast(50%);
     transition: all 1s;
-    transition-timing-function: ease-in-out;
-}
+    transition-timing-function: ease-in-out;}
 #yver img:hover{
     filter: contrast(150%);
     transform: rotate(10turn);
