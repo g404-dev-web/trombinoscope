@@ -53,6 +53,20 @@
   transition: all 0.4s;
 }
 
+/* Noir et blanc */
+#wa {
+	filter: grayscale(100%);
+	transition: .5s ease-in-out;
+}
+
+#wa:hover {
+  filter: grayscale(0%);
+  transform: rotateY(360deg) rotateZ(360deg);
+  transition: .5s ease-in-out;
+
+}
+
+
 #florent:hover {
     filter: sepia(100%);
     transform:rotateX(360deg);
@@ -78,6 +92,7 @@ transition:  all 1s;
 
 #yver img {
     filter: contrast(50%);
+
     transition: all 1s;
     transition-timing-function: ease-in-out;
 }
@@ -112,4 +127,3 @@ transition:  all 1s;
         transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
         transition: 0.5s;
 }
-
