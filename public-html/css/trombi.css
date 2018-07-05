@@ -1,0 +1,11 @@
+/* Noir et blanc */
+#wa {
+  filter: grayscale(100%);
+  transition: .5s ease-in-out; }
+
+#wa:hover {
+  filter: grayscale(0%);
+  transform: rotateY(360deg) rotateZ(360deg);
+  transition: .5s ease-in-out; }
+
+/*# sourceMappingURL=trombi.css.map */
