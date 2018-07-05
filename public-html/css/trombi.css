@@ -26,6 +26,15 @@
   transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
   transition: 0.5s; }
 
+#marine img {
+  filter: saturate(250%);
+  transition: 1s; }
+
+#marine img:hover {
+  filter: saturate(100%);
+  transform: rotate(360deg);
+  transition: 1s; }
+
 #yver img {
   filter: contrast(50%);
   transition: all 1s;

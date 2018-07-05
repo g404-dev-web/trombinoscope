@@ -5,14 +5,30 @@
 }
 #alexselfie:hover{
         opacity: 1;
-        transform: scale3D(1.1,1.1,1.1);
+        transform: scale3D(1.1,1.1,1.1);}
+
+#marine img
+    {
+        filter: saturate(250%);
+        transition: 1s;
+    }
+
+#marine img:hover
+    {
+        filter: saturate(100%);
+        transform: rotate(360deg);
+        transition: 1s;
     }
 
 #yver img{
-    
     filter: contrast(50%);;
     transition: all 1s;
     transition-timing-function: ease-in-out;
+}
+#yver img:hover{
+    filter: contrast(150%);
+    transform: rotate(10turn);
+}
 
 #loic img{
     filter: grayscale(100%);
@@ -33,8 +49,5 @@
     transition: 0.5s;
 }
 
-#yver img:hover{
-    filter: contrast(150%);
-    transform: rotate(10turn);
-}
+
 
