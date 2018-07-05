@@ -1,0 +1,24 @@
+#mfg .card-img {
+  filter: grayscale(130%); }
+
+#mfg .card:hover {
+  border: 2px solid grey;
+  transform: rotateX(360deg);
+  animation-delay: 5s;
+  animation-timing-function: ease-in-out;
+  transition: 3s; }
+
+#mfg .card-img:hover {
+  transition-delay: 2s;
+  filter: none; }
+
+/*@keyframes rotating {
+    from{
+        transform: rotateX(0deg);
+    }
+    to{
+        transform: rotateX(180deg);
+    }
+}*/
+
+/*# sourceMappingURL=trombi.css.map */
