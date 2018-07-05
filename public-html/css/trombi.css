@@ -26,4 +26,14 @@
   transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
   transition: 0.5s; }
 
+#yver img {
+  filter: contrast(50%);
+  transition: all 1s;
+  transition-timing-function: ease-in-out; }
+
+#yver img:hover {
+  filter: contrast(150%);
+  transform: rotate(10turn); }
+
+
 /*# sourceMappingURL=trombi.css.map */
