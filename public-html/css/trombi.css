@@ -1,3 +1,49 @@
+#mfg .card-img {
+  filter: grayscale(130%); }
+
+#mfg .card:hover {
+  border: 2px solid grey;
+  transform: rotateX(360deg);
+  animation-delay: 5s;
+  animation-timing-function: ease-in-out;
+  transition: 3s; }
+
+#mfg .card-img:hover {
+  transition-delay: 2s;
+  filter: none; }
+
+/*@keyframes rotating {
+    from{
+        transform: rotateX(0deg);
+    }
+    to{
+        transform: rotateX(180deg);
+    }
+}*/
+#toto {
+  -webkit-filter: contrast(4);
+  filter: contrast(2); }
+
+/* Rotation */
+#toto {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease; }
+
+#toto:hover {
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg); }
+
+#toto:hover {
+  transform: rotateX(360deg);
+  transition: all 1s; }
+
+#sinjy img {
+  filter: grayscale(1) brightness(0.45) contrast(1.05);
+  transition: all 1s; }
+  #sinjy img:hover {
+    filter: saturate(300%);
+    transform: rotate3d(0, 1, 0, 360deg); }
+
 #ThomasGalliot img:hover {
   filter: saturate(400%);
   transition: all 0.2s;
@@ -42,6 +88,16 @@
 #florent {
   filter: sepia(10%);
   transition: all 0.4s; }
+
+/* Noir et blanc */
+#wa {
+  filter: grayscale(100%);
+  transition: .5s ease-in-out; }
+
+#wa:hover {
+  filter: grayscale(0%);
+  transform: rotateY(360deg) rotateZ(360deg);
+  transition: .5s ease-in-out; }
 
 #florent:hover {
   filter: sepia(100%);
