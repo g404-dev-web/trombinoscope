@@ -1,0 +1,8 @@
+#sinjy img {
+  filter: grayscale(1) brightness(0.45) contrast(1.05);
+  transition: all 1s; }
+  #sinjy img:hover {
+    filter: saturate(300%);
+    transform: rotate3d(0, 1, 0, 360deg); }
+
+/*# sourceMappingURL=trombi.css.map */
