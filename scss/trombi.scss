@@ -1,29 +1,8 @@
-
 #yver img{
     
     filter: contrast(50%);;
     transition: all 1s;
     transition-timing-function: ease-in-out;
-
-#loic img{
-    filter: grayscale(100%);
-    transition: all 1s;
-    &:hover {
-        transform: rotate(360deg) rotateX(360deg);
-        
-      } 
-  }
-
-
-#jg {
-    filter: sepia(50%);
-    transform: rotateX(-360deg) scale3d(1, 1, 1);
-    transition: 0.5s;
-}
-#jg:hover {
-    filter: sepia(100%);
-    transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
-    transition: 0.5s;
 }
 
 #yver img:hover{
