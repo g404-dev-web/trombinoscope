@@ -1,5 +1,54 @@
+#ThomasGalliot img:hover {
+    filter: saturate(400%);
+    transition: all 0.2s;
+    transform: translate3d(10px, 10px, 10px);
+}
 
-<<<<<<< HEAD
+#tiffany {
+    filter: grayscale(0%);
+    transition: all 300ms;
+}
+
+#tiffany:hover {
+    filter: grayscale(100%);
+}
+
+#Celine img {
+    filter: sepia(100%);
+    transition: all 2s;
+}
+
+#Celine img:hover {
+    -webkit-transform: rotateX(150deg);
+    /* Safari */
+    transform: rotateX(150deg);
+    filter: sepia(0%);
+    transition: all 3s;
+}
+
+#alexselfie {
+    filter: sepia(80%);
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+#alexselfie:hover {
+    opacity: 1;
+    transform: scale3D(1.1, 1.1, 1.1);
+}
+
+#marine img {
+    filter: saturate(250%);
+    transition: 1s;
+}
+
+#marine img:hover {
+    filter: saturate(100%);
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+
 #estelle{
     height: auto;
 	float: left;
@@ -18,37 +67,36 @@ transition:  all 1s;
     filter: sepia(70%) blur(1px);
 }
 
-=======
-#yver img{
-    
-    filter: contrast(50%);;
+
+#yver img {
+    filter: contrast(50%);
     transition: all 1s;
     transition-timing-function: ease-in-out;
+}
 
-#loic img{
+#yver img:hover {
+    filter: contrast(150%);
+    transform: rotate(10turn);
+}
+
+#loic img {
     filter: grayscale(100%);
     transition: all 1s;
     &:hover {
         transform: rotate(360deg) rotateX(360deg);
-        
-      } 
-  }
-
+    }
+}
 
 #jg {
     filter: sepia(50%);
     transform: rotateX(-360deg) scale3d(1, 1, 1);
     transition: 0.5s;
 }
+
 #jg:hover {
     filter: sepia(100%);
     transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
     transition: 0.5s;
+
 }
 
-#yver img:hover{
-
-    filter: contrast(150%);
-    transform: rotate(10turn);
-}
->>>>>>> c9fe8498f63e9e05f63556d2d5ff1a2cc1f441c4
