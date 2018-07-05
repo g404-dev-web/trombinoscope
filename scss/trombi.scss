@@ -1,10 +1,10 @@
-    #marine img
+#marine img
     {
         filter: saturate(250%);
         transition: 1s;
     }
 
-    #marine img:hover
+#marine img:hover
     {
         filter: saturate(100%);
         transform: rotate(360deg);
