@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "trombi.css",
+	"sources": [
+		"../../scss/trombi.scss"
+	],
+	"names": [],
+	"mappings": "AAAI,AAAA,OAAO,CAAC,GAAG,CACX;EAEI,MAAM,EAAE,cAAc;EACtB,UAAU,EAAE,EAAE,GAEjB;;AAED,AAAA,OAAO,CAAC,GAAG,AAAA,MAAM,CACjB;EACI,MAAM,EAAE,cAAc;EACtB,SAAS,EAAE,cAAc;EACzB,UAAU,EAAE,EAAE,GACjB"
+}
