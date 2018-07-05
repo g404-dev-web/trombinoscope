@@ -1,0 +1,10 @@
+#loic img{
+    filter: grayscale(100%);
+    transition: all 1s;
+    &:hover {
+        transform: rotate(360deg) rotateX(360deg);
+        
+      } 
+  }
+
+ 
