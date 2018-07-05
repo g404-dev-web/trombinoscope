@@ -1,0 +1,9 @@
+#jenn .card-img {
+  filter: blur(10px) contrast(80%);
+  transform: rotate(-0.5turn);
+  transition: all 1s; }
+  #jenn .card-img:hover {
+    filter: blur(0px) contrast(120%);
+    transform: rotate(1turn); }
+
+/*# sourceMappingURL=trombi.css.map */
