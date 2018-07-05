@@ -1,4 +1,26 @@
 
+#toto {
+    -webkit-filter: contrast(4);
+    filter: contrast(2);
+}
+
+/* Rotation */
+#toto   {
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+   
+  #toto:hover  {
+    -webkit-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+  }
+#toto:hover {
+
+    transform: rotateX(360deg);
+    transition: all 1s;
+}
+
+
 #sinjy img {
     filter: grayscale(1) brightness(0.45) contrast(1.05); 
     transition: all 1s;
