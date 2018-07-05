@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Celine img{
     
     filter: sepia(100%);
@@ -10,9 +9,46 @@
     transform: rotateX(150deg);    
     filter: sepia(0%);
     transition: all 3s;
-
 }
-=======
+
+#alexselfie{
+  filter: sepia(80%);
+  opacity: 0.6;
+  transition: 0.3s;
+}
+#alexselfie:hover{
+        opacity: 1;
+        transform: scale3D(1.1,1.1,1.1);}
+
+#marine img
+    {
+        filter: saturate(250%);
+        transition: 1s;
+    }
+#marine img:hover
+    {
+        filter: saturate(100%);
+        transform: rotate(360deg);
+        transition: 1s;
+    }
+
+#yver img{
+    filter: contrast(50%);;
+    transition: all 1s;
+    transition-timing-function: ease-in-out;
+}
+#yver img:hover{
+    filter: contrast(150%);
+    transform: rotate(10turn);
+}
+
+#loic img{
+    filter: grayscale(100%);
+    transition: all 1s;
+    &:hover {
+        transform: rotate(360deg) rotateX(360deg);
+      } 
+  }
 
 #jg {
     filter: sepia(50%);
@@ -25,16 +61,3 @@
     transition: 0.5s;
 }
 
-#fernandes {
-    filter: sepia(100%);
-    transform: rotateX(-180deg) rotateY(-180deg) rotateX(-180deg) rotateY(-180deg) scale3d(1, 1, 1);
-    transition: 0.5s;
-}
-
-#fernandes:hover {
-        filter: sepia(0%); 
-        transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
-        transition: 0.5s;
-}
-
->>>>>>> 4d4f53e9907f05fb3b798614713e22a5b25ba917
