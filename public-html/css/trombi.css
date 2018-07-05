@@ -1,3 +1,8 @@
+#ThomasGalliot img:hover {
+  filter: saturate(400%);
+  transition: all 0.2s;
+  transform: translate3d(10px, 10px, 10px); }
+
 #tiffany {
   filter: grayscale(0%);
   transition: all 300ms; }
@@ -62,6 +67,5 @@
 #yver img:hover {
   filter: contrast(150%);
   transform: rotate(10turn); }
-
 
 /*# sourceMappingURL=trombi.css.map */
