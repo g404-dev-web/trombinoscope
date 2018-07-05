@@ -8,6 +8,81 @@
   transform: rotateX(360deg); }
 =======
 
+#estelle {
+  height: auto;
+  float: left;
+  margin-bottom: 1.65em;
+  margin-left: 3%;
+  box-sizing: border-box;
+  list-style: none; }
+
+#estelle img {
+  filter: sepia(100%) blur(90px);
+  transition: all 1s; }
+
+#estelle img:hover {
+  transform: scale(1.3);
+  transition: all 1s;
+  filter: sepia(70%) blur(1px); }
+
+#ThomasGalliot img:hover {
+  filter: saturate(400%);
+  transition: all 0.2s;
+  transform: translate3d(10px, 10px, 10px); }
+
+#tiffany {
+  filter: grayscale(0%);
+  transition: all 300ms; }
+
+#tiffany:hover {
+  filter: grayscale(100%); }
+
+#Celine img {
+  filter: sepia(100%);
+  transition: all 2s; }
+
+#Celine img:hover {
+  -webkit-transform: rotateX(150deg);
+  /* Safari */
+  transform: rotateX(150deg);
+  filter: sepia(0%);
+  transition: all 3s; }
+
+#alexselfie {
+  filter: sepia(80%);
+  opacity: 0.6;
+  transition: 0.3s; }
+
+#alexselfie:hover {
+  opacity: 1;
+  transform: scale3D(1.1, 1.1, 1.1); }
+
+#marine img {
+  filter: saturate(250%);
+  transition: 1s; }
+
+#marine img:hover {
+  filter: saturate(100%);
+  transform: rotate(360deg);
+  transition: 1s; }
+
+
+#yver img {
+  filter: contrast(50%);
+  transition: all 1s;
+  transition-timing-function: ease-in-out; }
+
+#yver img:hover {
+  filter: contrast(150%);
+  transform: rotate(10turn); }
+
+
+#loic img {
+  filter: grayscale(100%);
+  transition: all 1s; }
+  #loic img:hover {
+    transform: rotate(360deg) rotateX(360deg); }
+
 #jg {
   filter: sepia(50%);
   transform: rotateX(-360deg) scale3d(1, 1, 1);
@@ -16,15 +91,6 @@
 #jg:hover {
   filter: sepia(100%);
   transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
-
-#fernandes {
-  filter: sepia(100%);
-  transform: rotateX(-180deg) rotateY(-180deg) rotateX(-180deg) rotateY(-180deg) scale3d(1, 1, 1);
-  transition: 0.5s; }
-
-#fernandes:hover {
-  filter: sepia(0%);
-  transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
   transition: 0.5s; }
 >>>>>>> 97c5b50ee48aab2b272db4cc21c2dff7f4cd828a
 
