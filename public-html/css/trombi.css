@@ -1,0 +1,11 @@
+#jg {
+  filter: sepia(50%);
+  transform: rotateX(-360deg) scale3d(1, 1, 1);
+  transition: 0.5s; }
+
+#jg:hover {
+  filter: sepia(100%);
+  transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
+  transition: 0.5s; }
+
+/*# sourceMappingURL=trombi.css.map */
