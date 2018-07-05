@@ -7,4 +7,13 @@
   transform: rotate(360deg);
   transition: 1s; }
 
+#yver img {
+  filter: contrast(50%);
+  transition: all 1s;
+  transition-timing-function: ease-in-out; }
+
+#yver img:hover {
+  filter: contrast(150%);
+  transform: rotate(10turn); }
+
 /*# sourceMappingURL=trombi.css.map */
