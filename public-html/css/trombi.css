@@ -1,8 +1,30 @@
+<<<<<<< HEAD
 #sinjy img {
   filter: grayscale(1) brightness(0.45) contrast(1.05);
   transition: all 1s; }
   #sinjy img:hover {
     filter: saturate(300%);
     transform: rotate3d(0, 1, 0, 360deg); }
+=======
+
+#jg {
+  filter: sepia(50%);
+  transform: rotateX(-360deg) scale3d(1, 1, 1);
+  transition: 0.5s; }
+
+#jg:hover {
+  filter: sepia(100%);
+  transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
+
+#fernandes {
+  filter: sepia(100%);
+  transform: rotateX(-180deg) rotateY(-180deg) rotateX(-180deg) rotateY(-180deg) scale3d(1, 1, 1);
+  transition: 0.5s; }
+
+#fernandes:hover {
+  filter: sepia(0%);
+  transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
+  transition: 0.5s; }
+>>>>>>> 97c5b50ee48aab2b272db4cc21c2dff7f4cd828a
 
 /*# sourceMappingURL=trombi.css.map */
