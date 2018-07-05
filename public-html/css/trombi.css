@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#florent {
+  filter: sepia(10%);
+  transition: all 0.4s; }
+
+#florent:hover {
+  filter: sepia(100%);
+  transform: rotateX(360deg); }
+=======
 
 #estelle {
   height: auto;
@@ -83,5 +92,6 @@
   filter: sepia(100%);
   transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
   transition: 0.5s; }
+>>>>>>> 97c5b50ee48aab2b272db4cc21c2dff7f4cd828a
 
 /*# sourceMappingURL=trombi.css.map */
