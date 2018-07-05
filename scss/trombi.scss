@@ -1,4 +1,14 @@
 
+#loic img{
+    filter: grayscale(100%);
+    transition: all 1s;
+    &:hover {
+        transform: rotate(360deg) rotateX(360deg);
+        
+      } 
+  }
+
+
 #jg {
     filter: sepia(50%);
     transform: rotateX(-360deg) scale3d(1, 1, 1);
