@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-#florent {
-  filter: sepia(10%);
-  transition: all 0.4s; }
-
-#florent:hover {
-  filter: sepia(100%);
-  transform: rotateX(360deg); }
-=======
-
-#estelle {
-  height: auto;
-  float: left;
-  margin-bottom: 1.65em;
-  margin-left: 3%;
-  box-sizing: border-box;
-  list-style: none; }
-
-#estelle img {
-  filter: sepia(100%) blur(90px);
-  transition: all 1s; }
-
-#estelle img:hover {
-  transform: scale(1.3);
-  transition: all 1s;
-  filter: sepia(70%) blur(1px); }
-
 #ThomasGalliot img:hover {
   filter: saturate(400%);
   transition: all 0.2s;
@@ -66,6 +39,28 @@
   transform: rotate(360deg);
   transition: 1s; }
 
+#florent {
+  filter: sepia(10%);
+  transition: all 0.4s; }
+
+#florent:hover {
+  filter: sepia(100%);
+  transform: rotateX(360deg); }
+  #florent:hover #estelle {
+    height: auto;
+    float: left;
+    margin-bottom: 1.65em;
+    margin-left: 3%;
+    box-sizing: border-box;
+    list-style: none; }
+  #florent:hover img {
+    filter: sepia(100%) blur(90px);
+    transition: all 1s; }
+
+#estelle img:hover {
+  transform: scale(1.3);
+  transition: all 1s;
+  filter: sepia(70%) blur(1px); }
 
 #yver img {
   filter: contrast(50%);
@@ -75,7 +70,6 @@
 #yver img:hover {
   filter: contrast(150%);
   transform: rotate(10turn); }
-
 
 #loic img {
   filter: grayscale(100%);
@@ -92,6 +86,10 @@
   filter: sepia(100%);
   transform: rotateX(360deg) scale3d(1.5, 1.5, 1.5);
   transition: 0.5s; }
->>>>>>> 97c5b50ee48aab2b272db4cc21c2dff7f4cd828a
+
+#fernandes:hover {
+  filter: sepia(0%);
+  transform: rotateX(180deg) rotateY(180deg) rotateX(180deg) rotateY(180deg) scale3d(1.5, 1.5, 1.5);
+  transition: 0.5s; }
 
 /*# sourceMappingURL=trombi.css.map */
