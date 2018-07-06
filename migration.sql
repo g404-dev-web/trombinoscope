@@ -27,4 +27,20 @@ CREATE TABLE `students` (
 
 INSERT INTO `students` (`id`, `firstname`, `lastname`) VALUES
 (1,	'Jennifer',	'Paratte'),
-(2, 'Céline', 'Guyot');
+(2,	'Céline',	'Guyot'),
+(3,	'Marie-France',	'Gauthier'),
+(4,	'Arnaud',	'Dussart'),
+(5,	'Wilfried',	'Artus'),
+(6,	'Yvérick',	'Da Costa'),
+(7,	'Florent',	'Ferlay'),
+(8,	'Stéphane',	'Fernandes'),
+(9,	'Thomas',	'Galliot'),
+(10,	'Jeremy',	'Gauthier'),
+(11,	'Marine',	'Gontard'),
+(12,	'Tiffany',	'Gouttenoire'),
+(13,	'Estelle',	'Grange'),
+(14,	'Alexandre',	'Loretzin'),
+(15,	'Jeremy',	'Marconnes'),
+(16,	'Loïc',	'Neyron'),
+(17,	'Kevin',	'Sinjy-Chinredy'),
+(18,	'Morgan',	'Vallicelli');
