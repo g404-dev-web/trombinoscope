@@ -39,7 +39,7 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Appliquez les normes responsives à votre page personnelle en utilisant les class de la grid existante
 * Votre page personnelle devrait contenir une photo et des liens vers github+linkedin
 
-### Recherches associées
+#### Recherches associées
 * _getting started with Bootstrap 4_
 * _Css grid system_
 * _How to Use Sass Variables/Extends/Mixins/Functions_
@@ -50,13 +50,13 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Tout le JS est déjà codé, il ne manque plus que la requete d'insertion en BDD
 * Le compteur de like doit s'incrémenter à chaque requête validée
 
-### Admin base de données
+#### Admin base de données
 L'interface grapique pour éditer la base données MySQL est sur http://localhost:8085
 host : trombinoscope-mysql
 user : root
 pwd : p4ssword
 
-### Executer le script d'insertion en BDD des positions
+#### Executer le script d'insertion en BDD des positions
 ```
 docker exec -i -t trombinoscope-mysql sh -c "mysql -u root -p < migration.sql"
 ```
