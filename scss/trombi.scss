@@ -1,3 +1,80 @@
+/Trombi jerem/
+.tada:hover {
+    -webkit-animation-name: tada;
+    animation-name: tada;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+@-webkit-keyframes tada {
+    0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+    10%,
+    20% {
+        -webkit-transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+    }
+    30%,
+    50%,
+    70%,
+    90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    }
+    40%,
+    60%,
+    80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+@keyframes tada {
+    0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+    10%,
+    20% {
+        -webkit-transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(0.9, 0.9, 0.9) rotate3d(0, 0, 1, -3deg);
+    }
+    30%,
+    50%,
+    70%,
+    90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    }
+    40%,
+    60%,
+    80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+/* fin trombi Jérémy_M*/
+
+#jenn.card-img{     
+    filter: blur(10px) contrast(80%);     
+    transform: rotate(-0.5turn);     
+    transition: all 1s;      
+        &:hover{         
+            filter: blur(0px) contrast(120%);         
+            transform: rotate(1turn);               
+    }      
+}
+
 #wa {
     filter: grayscale(100%);
     transition: .5s ease-in-out;
@@ -24,19 +101,10 @@
   transition-delay: 2s;
   filter: none; }
 
-/*@keyframes rotating {
-    from{
-        transform: rotateX(0deg);
-    }
-    to{
-        transform: rotateX(180deg);
-    }
-}*/
 #toto {
   -webkit-filter: contrast(4);
   filter: contrast(2); }
 
-/* Rotation */
 #toto {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease; }
@@ -96,7 +164,7 @@
   filter: sepia(100%);
   transform: rotateX(360deg); }
 
- #estelle {
+#estelle {
     height: auto;
     float: left;
     margin-bottom: 1.65em;
