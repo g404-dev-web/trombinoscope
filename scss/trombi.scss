@@ -33,7 +33,7 @@
     transform: rotateX(720deg) scale3d(1.2, 1.2, 1.2);
 }
 
-/Trombi jerem/
+
 .tada:hover {
     -webkit-animation-name: tada;
     animation-name: tada;
@@ -165,7 +165,7 @@
   transition: all 300ms; }
 #tiffany:hover {
   filter: grayscale(100%); 
-  transform: rotateX(360deg); }
+  transform: rotateX(360deg); } 
 
 #Celine img {
   filter: sepia(100%);
@@ -177,13 +177,17 @@
   filter: sepia(0%);
   transition: all 3s; }
 
-#alexselfie {
+
+/*ALEX*/
+#alexselfie img{
   filter: sepia(80%);
-  opacity: 0.6;
-  transition: 0.3s; }
-#alexselfie:hover {
+  opacity: 0.6;}
+#alexselfie img:hover {
   opacity: 1;
-  transform: scale3d(1.5, 1.5, 1.5); }
+  transform: scale3d(1.1, 1.1, 1.1);
+  transition: all 0.3s;
+}
+
 
 #marine img {
   filter: saturate(250%);
