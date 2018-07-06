@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    margin-left: 333px;
+    margin-left: 490px;
 }
 
 li {
@@ -36,7 +36,8 @@ h2.moi {
     color: white;
     margin-top: 100px;
     font-family: monospace;
-    font-size: 30px;
+    font-size: 40px;
+    font-family: "purisa", sans-serif;
 }
 
 .propos {
