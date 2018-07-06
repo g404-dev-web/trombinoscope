@@ -62,6 +62,10 @@ docker exec -i -t trombinoscope-mysql sh -c "mysql -u root -p < migration.sql"
 ```
 Mot de passe : p4ssword
 
+#### Recherches associées
+* _mysql insert_
+* _adminer add rows_
+
 ## Accomplissements
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
 * Votre code est mergé avec succès dans le projet
