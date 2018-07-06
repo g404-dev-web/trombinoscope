@@ -11,7 +11,7 @@ app.post('/like', (request, response) => {
     let connection = getConnection();
 
     // Todo : Terminer la requête qui enregistre un like
-    connection.query('INSERT INTO likes (student_id, liked_at, ip) VALUES (0, 0, 0)', function(err, rows) {
+    connection.query('INSERT INTO likes (student_id, ip) VALUES (XX, XX)', function(err, rows) {
         if (err) {
             console.log(err);
             response.send(err);
