@@ -7,7 +7,8 @@ git clone https://github.com/simplon-roanne/trombinoscope
 cd trombinoscope
 docker-compose up
 ```
-Server will be ready on http://localhost:8080
+Le serveur web est accessible sur http://localhost:8080
+L'interface grapique pour éditer la base données MySQL est sur http://localhost:8085
 
 ## Mission
 Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promotion sur la page d'accueil existante :
@@ -30,6 +31,11 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 ## Mission 2 
 * Créer une page personnelle avec le contenu de votre choix ( un CV ? ) accessible par un lien sur l'avatar
 * Vous pourrez vous servir du fichier styleguide.html qui recense tous les élements d'UI disponibles pour ce thème. Attention, il ne doit pas être édité !
+
+## Mission 3
+* Ajoutez un bouton like à votre page personnelle
+* Le bouton like doit déclencher une requête AJAX, en POST, vers /like
+* Le compteur de like doit s'incrémenter à chaque requête validée
 
 #### Extra
 * Appliquez les normes responsives à votre page personnelle en utilisant les class de la grid existante

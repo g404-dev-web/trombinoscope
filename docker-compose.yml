@@ -1,30 +1,51 @@
 version: '3'
 services:
-  web:
-    image: httpd:2.4
-    container_name: trombinoscope
-    depends_on:
-      - node
-    ports:
-      - "8080:80"
-    volumes:
-      - ./public-html:/usr/local/apache2/htdocs/
-    command: > 
-      bash -c "echo -e '\033[0;32mSERVER READY ON http://localhost:8080\033[0m' && httpd-foreground"
-
-  node:
-    image: "node:8"
+  server:
+    image: "node:10"
     working_dir: /application
+    container_name: trombinoscope-server
     environment:
       - NODE_ENV=production
     volumes:
       - ./:/application
     ports:
-      - "8000:8000"
+      - "8080:3000"
+      - "5858:5858"
     command: >
       bash -c "npm install express --save 
       && npm install nodemailer --save
       && npm install nodemon --save
       && npm install body-parser --save
-      && npm install node-sass --save
+      && npm install mariasql --save
       && npm start"
+    links:
+      - db
+
+  db:
+    image: mariadb
+    container_name: trombinoscope-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: p4ssword
+    volumes:
+      - ./:/application
+    working_dir: /application
+
+  adminer:
+    image: adminer
+    container_name: trombinoscope-adminer
+    restart: always
+    ports:
+      - 8085:8080
+
+  sass:
+    image: "node:10"
+    container_name: trombinoscope-sass
+    working_dir: /application
+    volumes:
+      - ./:/application
+    ports:
+      - "8000:8000"
+    command: >
+      bash -c "npm install node-sass --save
+      && ./node_modules/.bin/node-sass scss -o  public-html/css -w --source-map public-html/css"
