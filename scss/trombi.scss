@@ -164,7 +164,8 @@
   filter: grayscale(0%);
   transition: all 300ms; }
 #tiffany:hover {
-  filter: grayscale(100%); }
+  filter: grayscale(100%); 
+  transform: rotate(1turn); }
 
 #Celine img {
   filter: sepia(100%);
