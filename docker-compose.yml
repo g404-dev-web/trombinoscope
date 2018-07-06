@@ -29,9 +29,6 @@ services:
       MYSQL_ROOT_PASSWORD: p4ssword
     volumes:
       - ./:/application
-    working_dir: /application
-    command : >
-      bash -c 'mysqld --user mysql'
 
   adminer:
     image: adminer
