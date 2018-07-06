@@ -27,6 +27,7 @@
 #try:hover {
   transform: rotateX(720deg) scale3d(1.2, 1.2, 1.2); }
 
+<<<<<<< HEAD
 #jeremy_m img {
   box-shadow: 10px 10px 5px grey; }
   #jeremy_m img.tada:hover {
@@ -36,6 +37,15 @@
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both; }
+=======
+.tada:hover {
+  -webkit-animation-name: tada;
+  animation-name: tada;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+>>>>>>> 5ea73df5e561f992e09a8666ca6efe20f25c9c68
 
 @-webkit-keyframes tada {
   0% {
