@@ -26,7 +26,7 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 #### Extra
 * Appliquez une transformation 3D sur votre avatar, visible seulement au :hover avec une transition non linéaire
 
-### Recherches associées
+#### Recherches associées
 * _débuter avec Sass Scss_
 * _How to apply Css3 filters_
 
