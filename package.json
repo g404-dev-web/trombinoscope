@@ -6,12 +6,13 @@
         "url": "https://github.com/simplon-roanne"
     },
     "scripts": {
-        "start": "./node_modules/.bin/node-sass scss -o  public-html/css -w --source-map public-html/css"
+        "start": "./node_modules/nodemon/bin/nodemon.js server.js"
     },
     "dependencies": {
         "body-parser": "^1.18.3",
         "express": "^4.16.3",
-        "node-sass": "^4.9.0",
+        "mariasql": "^0.2.6",
+        "node-sass": "^4.9.1",
         "nodemailer": "^4.6.7",
         "nodemon": "^1.17.5",
         "npm": "^6.1.0",

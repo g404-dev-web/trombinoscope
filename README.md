@@ -7,7 +7,7 @@ git clone https://github.com/simplon-roanne/trombinoscope
 cd trombinoscope
 docker-compose up
 ```
-Server will be ready on http://localhost:8080
+Le serveur web est accessible sur http://localhost:8080
 
 ## Mission
 Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promotion sur la page d'accueil existante :
@@ -21,27 +21,53 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * Créez un effet de transition sur ce filtre au survol de la souris sur votre avatar
 * Modifiez vos informations personelles (votre nom et votre statut)
 * Supprimer le reste des avatars inutiles, ils sont là pour vous donner un exemple de la grid
-* Avant de pull request, vous devez faire un pull pour synchroniser votre projet ! 
-* Exécuter un _pull-request_ sur le projet Github
+* Pull request !!
 
 #### Extra
 * Appliquez une transformation 3D sur votre avatar, visible seulement au :hover avec une transition non linéaire
-  
+
+#### Recherches associées
+* _débuter avec Sass Scss_
+* _How to apply Css3 filters_
+
 ## Mission 2 
 * Créer une page personnelle avec le contenu de votre choix ( un CV ? ) accessible par un lien sur l'avatar
 * Vous pourrez vous servir du fichier styleguide.html qui recense tous les élements d'UI disponibles pour ce thème. Attention, il ne doit pas être édité !
+* 
 
 #### Extra
 * Appliquez les normes responsives à votre page personnelle en utilisant les class de la grid existante
+* Votre page personnelle devrait contenir une photo et des liens vers github+linkedin
 
-## Accomplissement
+#### Recherches associées
+* _getting started with Bootstrap 4_
+* _Css grid system_
+* _How to Use Sass Variables/Extends/Mixins/Functions_
+
+
+## Mission 3
+* Ajoutez un bouton like à votre page personnelle
+* Tout le JS est déjà codé, il ne manque plus que la requete d'insertion en BDD
+* Le compteur de like doit s'incrémenter à chaque requête validée
+
+#### Admin base de données
+L'interface grapique pour éditer la base données MySQL est sur http://localhost:8085
+host : trombinoscope-mysql
+user : root
+pwd : p4ssword
+
+#### Executer le script d'insertion en BDD des positions
+```
+docker exec -i -t trombinoscope-mysql sh -c "mysql -u root -p < migration.sql"
+```
+Mot de passe : p4ssword
+
+#### Recherches associées
+* _mysql insert_
+* _adminer add rows_
+
+## Accomplissements
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
 * Votre code est mergé avec succès dans le projet
 * Vous avez créé une page personnelle mergée dans le projet
-
-## Recherches obligatoires
-* _getting started with Bootstrap 4_
-* _débuter avec Sass Scss_
-* _How to apply Css3 filters_
-* _Css grid system_
-* _How to Use Sass Variables/Extends/Mixins/Functions_
+* Vous avez participé au codage d'une fonctionnalité de bouton like
