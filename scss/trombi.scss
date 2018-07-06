@@ -167,13 +167,14 @@
   filter: sepia(0%);
   transition: all 3s; }
 
-#alexselfie {
+#alexselfie img{
   filter: sepia(80%);
-  opacity: 0.6;
-  transition: 0.3s; }
-#alexselfie:hover {
+  opacity: 0.6;}
+#alexselfie img:hover {
   opacity: 1;
-  transform: scale3d(1.5, 1.5, 1.5); }
+  transform: scale3d(1.1, 1.1, 1.1);
+  transition: all 0.3s;
+}
 
 #marine img {
   filter: saturate(250%);
