@@ -28,7 +28,7 @@
 
 #jeremy_m img {
   box-shadow: 10px 10px 5px grey; }
-  #jeremy_m img .tada:hover {
+  #jeremy_m img.tada:hover {
     -webkit-animation-name: tada;
     animation-name: tada;
     -webkit-animation-duration: 1s;
