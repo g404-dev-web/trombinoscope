@@ -33,17 +33,12 @@
     transform: rotateX(720deg) scale3d(1.2, 1.2, 1.2);
 }
 
-<<<<<<< HEAD
+
 #jeremy_m img{
   box-shadow: 10px 10px 5px grey;
-  &.tada:hover {
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> 71c18f5894f32c62c87e638d7781a992fd9fee95
+  &
 .tada:hover {
->>>>>>> 5ea73df5e561f992e09a8666ca6efe20f25c9c68
+
     -webkit-animation-name: tada;
     animation-name: tada;
     -webkit-animation-duration: 1s;
@@ -108,7 +103,7 @@
     }
 }
 }
-/* fin trombi Jérémy_M*/
+
 
 #jenn .card-img {     
     filter: blur(10px) contrast(80%);     
@@ -161,6 +156,7 @@
 #sinjy img {
   filter: grayscale(1) brightness(0.45) contrast(1.05);
   transition: all 1s; }
+
 #sinjy img:hover {
     filter: saturate(300%);
     transform: rotate3d(0, 1, 0, 360deg); }
@@ -187,16 +183,6 @@
   filter: sepia(0%);
   transition: all 3s; }
 
-<<<<<<< HEAD
-
-/*ALEX*/
-=======
-<<<<<<< HEAD
-
-/*ALEX*/
-=======
->>>>>>> 71c18f5894f32c62c87e638d7781a992fd9fee95
->>>>>>> 5ea73df5e561f992e09a8666ca6efe20f25c9c68
 #alexselfie img{
   filter: sepia(80%);
   opacity: 0.6;}
@@ -205,10 +191,6 @@
   transform: scale3d(1.1, 1.1, 1.1);
   transition: all 0.3s;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 71c18f5894f32c62c87e638d7781a992fd9fee95
 
 #marine img {
   filter: saturate(250%);
