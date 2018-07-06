@@ -58,7 +58,7 @@ pwd : p4ssword
 
 ### Executer le script d'insertion en BDD des positions
 ```
-docker exec -i -t trombinoscope_mysql sh -c "mysql -u root < migration.sql"
+docker exec -i -t trombinoscope-mysql sh -c "mysql -u root -p < migration.sql"
 ```
 Mot de passe : p4ssword
 
