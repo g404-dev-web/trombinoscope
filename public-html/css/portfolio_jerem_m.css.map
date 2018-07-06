@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "portfolio_jerem_m.css",
+	"sources": [
+		"../../scss/portfolio_jerem_m.scss"
+	],
+	"names": [],
+	"mappings": "AACA,wBAAwB;AAQxB,sBAAsB;AACtB,AAAA,KAAK;AACL,KAAK,CAAC;EACF,UAAU,EAAE,eAAe,GAC9B;;AACD,AAAA,SAAS,CAAA;EACL,KAAK,EAAE,GAAG,GACb"
+}
