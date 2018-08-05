@@ -1,44 +1,50 @@
 version: '3'
 services:
-  server:
-    image: "node:10"
-    working_dir: /application
-    container_name: trombinoscope-server
-    environment:
-      - NODE_ENV=production
+
+  www:
+    build: .
+    ports: 
+        - "8080:80"
     volumes:
-      - ./:/application
-    ports:
-      - "8080:3000"
-      - "5858:5858"
-    command: >
-      bash -c "npm install express --save 
-      && npm install nodemailer --save
-      && npm install nodemon --save
-      && npm install body-parser --save
-      && npm install mariasql --save
-      && npm start"
+        - ./public-html:/var/www/html
     links:
-      - db
+        - mariadb
+    networks:
+      - default
 
-  db:
-    image: mariadb
-    container_name: trombinoscope-mysql
-    restart: always
-    environment:
-      MYSQL_ROOT_PASSWORD: p4ssword
+  mariadb:
+    image: mariadb:10.1
+    container_name: docker-apache-mariadb-mariadb
+    working_dir: /application
     volumes:
-      - ./:/application
-    command : >
-      bash -c 'mysqld --user mysql'
-
-  adminer:
-    image: adminer
-    container_name: trombinoscope-adminer
-    restart: always
+      - .:/application
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=simplon
+      - MYSQL_USER=simplon
+      - MYSQL_PASSWORD=simplon
     ports:
-      - 8085:8080
+      - "3306:3306"
 
+  php-fpm:
+    build: phpdocker/php-fpm
+    container_name: docker-apache-mariadb-php-fpm
+    working_dir: /application
+    volumes:
+      - .:/application
+      - ./phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/7.2/fpm/conf.d/99-overrides.ini
+
+  phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      links: 
+          - mariadb:mariadb
+      ports:
+          - 8001:80
+      environment:
+          MYSQL_USER: simplon
+          MYSQL_PASSWORD: simplon
+          MYSQL_ROOT_PASSWORD: root 
+          
   sass:
     image: "node:10"
     container_name: trombinoscope-sass
