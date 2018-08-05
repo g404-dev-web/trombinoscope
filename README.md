@@ -33,7 +33,6 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 ## Mission 2 
 * Créer une page personnelle avec le contenu de votre choix ( un CV ? ) accessible par un lien sur l'avatar
 * Vous pourrez vous servir du fichier styleguide.html qui recense tous les élements d'UI disponibles pour ce thème. Attention, il ne doit pas être édité !
-* 
 
 #### Extra
 * Appliquez les normes responsives à votre page personnelle en utilisant les class de la grid existante
@@ -43,12 +42,6 @@ Simplon Roanne vous demande d'ajouter votre avatar au trombinoscope de la promot
 * _getting started with Bootstrap 4_
 * _Css grid system_
 * _How to Use Sass Variables/Extends/Mixins/Functions_
-
-
-## Mission 3
-* Ajoutez un bouton like à votre page personnelle
-* Tout le JS est déjà codé, il ne manque plus que la requete d'insertion en BDD
-* Le compteur de like doit s'incrémenter à chaque requête validée
 
 #### Admin base de données
 L'interface grapique pour éditer la base données MySQL est sur http://localhost:8085
