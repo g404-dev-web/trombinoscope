@@ -5,6 +5,10 @@
 ```bash
 git clone https://github.com/simplon-roanne/trombinoscope
 cd trombinoscope
+# Stopper les autres conteneurs actifs
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q
+# Lancer Docker
 docker-compose up --remove-orphans
 ```
 Le serveur web est accessible sur http://localhost:8080
