@@ -4,7 +4,7 @@ services:
   www:
     build: .
     ports: 
-        - "8080:80"
+        - "80:80"
     volumes:
         - ./public-html:/var/www/html
     links:
@@ -43,7 +43,9 @@ services:
       environment:
           MYSQL_USER: simplon
           MYSQL_PASSWORD: simplon
-          MYSQL_ROOT_PASSWORD: root 
+          MYSQL_ROOT_PASSWORD: 
+          PMA_HOST: mysql
+          PMA_PORT: 3307
           
   sass:
     image: "node:10"
