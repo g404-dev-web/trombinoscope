@@ -1,3 +1,6 @@
 [submodule "public-html/promo1/gael-debost/mini-chat"]
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
+[submodule "public-html/promo1/Arnaud_Dussart/TP-Mini_Chat"]
+	path = public-html/promo1/Arnaud_Dussart/TP-Mini_Chat
+	url = https://github.com/Arnaud63000/TP-Mini_Chat
