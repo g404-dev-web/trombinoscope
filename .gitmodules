@@ -1,9 +1,3 @@
-[submodule "public-html/promo1/gael-debost/mini-chat"]
-	path = public-html/promo1/gael-debost/mini-chat
-	url = https://github.com/zzgael/mini-chat.git
-[submodule "public-html/promo1/artus-wilfried/Miaou"]
-	path = public-html/promo1/artus-wilfried/Miaou
-	url = https://github.com/WilfriedBlue/Miaou
 [submodule "public-html/promo1/artus-wilfried/minichat"]
 	path = public-html/promo1/artus-wilfried/minichat
 	url = https://github.com/WilfriedBlue/minichat
