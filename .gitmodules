@@ -1,9 +1,12 @@
 [submodule "public-html/promo1/gael-debost/mini-chat"]
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
-[submodule "public-html/promo1/M-F Gauthier/mini_chat_titmarie"]
-	path = public-html/promo1/M-F Gauthier/mini_chat_titmarie
-	url = https://github.com/TitMarie/mini-chat-titmarie
+
 [submodule "public-html/promo1/M-F_Gauthier/mini-chat-titmarie"]
 	path = public-html/promo1/M-F_Gauthier/mini-chat-titmarie
 	url = https://github.com/TitMarie/mini-chat-titmarie
+
+[submodule "public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat"]
+	path = public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat
+	url = https://github.com/Alexandre-Loretzin/Exercice-Mini-Chat
+
