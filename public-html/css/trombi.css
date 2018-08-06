@@ -102,15 +102,12 @@
 #mfg .card-img {
   filter: grayscale(130%); }
 
-#mfg .card:hover {
+#mfg .card-img:hover {
   border: 2px solid grey;
   transform: rotateX(360deg);
   animation-delay: 5s;
   animation-timing-function: ease-in-out;
-  transition: 3s; }
-
-#mfg .card-img:hover {
-  transition-delay: 2s;
+  transition: 2s; 
   filter: none; }
 
 #toto {
