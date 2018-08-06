@@ -2,6 +2,11 @@
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
 
+[submodule "Minichat"]
+	path = Minichat
+	url = https://github.com/marinee09/Minichat
+
+
 [submodule "public-html/promo1/Grange-Estelle/MiniChat_"]
 	path = public-html/promo1/Grange-Estelle/MiniChat_
 	url = https://github.com/zestelle2/minichat_boostrap/
@@ -41,6 +46,7 @@
 	url = https://github.com/Alexandre-Loretzin/Exercice-Mini-Chat
 
 	url = https://github.com/Alexandre-Loretzin/Exercice-Mini-Chat
+
 
 
 
