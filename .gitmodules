@@ -1,3 +1,9 @@
 [submodule "public-html/promo1/gael-debost/mini-chat"]
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
+[submodule "public-html/promo1/Neyron-Loic/tp_chat_production"]
+	path = public-html/promo1/Neyron-Loic/tp_chat_production
+	url = https://github.com/stephane23/tp_chat_production
+[submodule "public-html/promo1/DACOSTA-Yverick/tp_chat_production"]
+	path = public-html/promo1/DACOSTA-Yverick/tp_chat_production
+	url = https://github.com/stephane23/tp_chat_production
