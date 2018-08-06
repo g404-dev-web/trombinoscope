@@ -16,3 +16,6 @@
 [submodule "public-html/promo1/parratte-Jennifer/mini-chat"]
 	path = public-html/promo1/parratte-Jennifer/mini-chat
 	url = https://github.com/jenniferparratte/trombinoscope.git
+[submodule "public-html/promo1/parratte-Jennifer/minichatJenn"]
+	path = public-html/promo1/parratte-Jennifer/minichatJenn
+	url = https://github.com/jenniferparratte/trombinoscope.git
