@@ -24,7 +24,7 @@ services:
       - MYSQL_USER=simplon
       - MYSQL_PASSWORD=simplon
     ports:
-      - "3307:3306"
+      - "3306:3306"
 
   php-fpm:
     build: phpdocker/php-fpm
@@ -43,7 +43,9 @@ services:
       environment:
           MYSQL_USER: simplon
           MYSQL_PASSWORD: simplon
-          MYSQL_ROOT_PASSWORD: root 
+          MYSQL_ROOT_PASSWORD: 
+          PMA_HOST: mysql
+          PMA_PORT: 3307
           
   sass:
     image: "node:10"

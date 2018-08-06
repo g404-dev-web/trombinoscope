@@ -15,9 +15,10 @@ if (!empty($_POST["email"]) && !empty($_POST["email"])) {
     $mailer = new Swift_Mailer($transport);
 
     // Create a message
-    $message = (new Swift_Message("[".$_POST['email']."]".$_POST['subject']))
+    $message = (new Swift_Message($_POST['subject']))
         ->setFrom("simplonienn.e@mailtest.simplon-roanne.com")
         ->setTo('zzgael@gmail.com')
+        ->setReplyTo($_POST['email'])
         ->setBody($_POST['message']);
 
     // Send the message
