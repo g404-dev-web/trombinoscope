@@ -9,3 +9,6 @@
 [submodule "public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat"]
 	path = public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat
 	url = https://github.com/Alexandre-Loretzin/Exercice-Mini-Chat
+[submodule "public-html/promo1/parratte-Jennifer/minichatJenn"]
+	path = public-html/promo1/parratte-Jennifer/minichatJenn
+	url = https://github.com/jenniferparratte/minichatJenn
