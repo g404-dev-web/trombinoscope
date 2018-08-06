@@ -1,0 +1,18 @@
+body {
+    background-image: url("http://images6.fanpop.com/image/photos/41300000/Fiji-travel-41362491-500-281.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.jumbotron {
+    background-color: #3c92e966;
+}
+
+button, input {
+    background-color: #3c93e98a;
+}
+
+.list-group-item {
+    background-color: #268aee5e;
+}
