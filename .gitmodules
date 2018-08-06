@@ -2,9 +2,20 @@
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
 
+
 [submodule "public-html/promo1/M-F_Gauthier/mini-chat-titmarie"]
 	path = public-html/promo1/M-F_Gauthier/mini-chat-titmarie
 	url = https://github.com/TitMarie/mini-chat-titmarie
+
+[submodule "public-html/promo1/Sinjy-Kevin/minichat2.pas0"]
+	path = public-html/promo1/Sinjy-Kevin/minichat2.pas0
+	url = https://github.com/kevinsinjy/minichat2.pas0
+
+
+[submodule "public-html/promo1/Thomas-GALLIOT/mini_chat_thomas"]
+	path = public-html/promo1/Thomas-GALLIOT/mini_chat_thomas
+	url = https://github.com/ThomasGalliot/mini-chat-lundi
+
 
 [submodule "public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat"]
 	path = public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat
