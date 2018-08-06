@@ -4,7 +4,7 @@ services:
   www:
     build: .
     ports: 
-        - "8080:80"
+        - "80:80"
     volumes:
         - ./public-html:/var/www/html
     links:
