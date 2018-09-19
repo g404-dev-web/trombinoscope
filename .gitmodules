@@ -1,3 +1,85 @@
 [submodule "public-html/promo1/gael-debost/mini-chat"]
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
+
+[submodule "public-html/promo1/Morgan V/mini_chat_Mo"]
+	path = public-html/promo1/Morgan V/mini_chat_Mo
+	url = https://github.com/MorganVa/mini_chat_Mo
+
+
+[submodule "public-html/promo1/jeremy-marconnes/mini_chat_jeremy_m"]
+	path = public-html/promo1/jeremy-marconnes/mini_chat_jeremy_m
+	url = https://github.com/SirKaya/mini_chat_jeremy_m
+
+
+[submodule "public-html/promo1/Neyron-Loic/tp_chat_production"]
+	path = public-html/promo1/Neyron-Loic/tp_chat_production
+	url = https://github.com/stephane23/tp_chat_production
+[submodule "public-html/promo1/DACOSTA-Yverick/tp_chat_production"]
+	path = public-html/promo1/DACOSTA-Yverick/tp_chat_production
+	url = https://github.com/stephane23/tp_chat_production
+
+
+[submodule "public-html/promo1/fernandes-stephane/tp_chat_production"]
+	path = public-html/promo1/fernandes-stephane/tp_chat_production
+	url = https://github.com/stephane23/tp_chat_production
+
+
+[submodule "Minichat"]
+	path = Minichat
+	url = https://github.com/marinee09/Minichat
+
+
+[submodule "public-html/promo1/Grange-Estelle/MiniChat_"]
+	path = public-html/promo1/Grange-Estelle/MiniChat_
+	url = https://github.com/zestelle2/minichat_boostrap/
+
+
+
+[submodule "public-html/promo1/gauthier-jeremy/Tp-Chat-2"]
+	path = public-html/promo1/gauthier-jeremy/Tp-Chat-2
+	url = https://github.com/eryo05/Tp-Chat-2
+
+
+[submodule "public-html/promo1/Arnaud_Dussart/TP-Mini_Chat"]
+	path = public-html/promo1/Arnaud_Dussart/TP-Mini_Chat
+	url = https://github.com/Arnaud63000/TP-Mini_Chat
+
+
+
+[submodule "public-html/promo1/M-F_Gauthier/mini-chat-titmarie"]
+	path = public-html/promo1/M-F_Gauthier/mini-chat-titmarie
+	url = https://github.com/TitMarie/mini-chat-titmarie
+
+
+
+[submodule "public-html/promo1/Sinjy-Kevin/minichat2.pas0"]
+	path = public-html/promo1/Sinjy-Kevin/minichat2.pas0
+	url = https://github.com/kevinsinjy/minichat2.pas0
+
+
+[submodule "public-html/promo1/Thomas-GALLIOT/mini_chat_thomas"]
+	path = public-html/promo1/Thomas-GALLIOT/mini_chat_thomas
+	url = https://github.com/ThomasGalliot/mini-chat-lundi
+
+
+[submodule "public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat"]
+	path = public-html/promo1/loretzin-alexandre/Exercice-Mini-Chat
+
+	url = https://github.com/Alexandre-Loretzin/Exercice-Mini-Chat
+
+[submodule "public-html/promo1/parratte-Jennifer/minichatJenn"]
+	path = public-html/promo1/parratte-Jennifer/minichatJenn
+	url = https://github.com/jenniferparratte/minichatJenn
+
+
+[submodule "public-html/promo1/guyot_celine/MiniChat_"]
+	path = public-html/promo1/guyot_celine/MiniChat_
+	url = https://github.com/seguyot/Minichat-
+
+[submodule "minichat"]
+	path = minichat
+	url = https://github.com/WilfriedBlue/minichat
+[submodule "public-html/promo1/wilfried-artus/minichat"]
+	path = public-html/promo1/wilfried-artus/minichat
+	url = https://github.com/WilfriedBlue/minichat
