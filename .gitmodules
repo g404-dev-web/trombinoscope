@@ -2,6 +2,11 @@
 	path = public-html/promo1/gael-debost/mini-chat
 	url = https://github.com/zzgael/mini-chat.git
 
+[submodule "public-html/promo1/Morgan V/mini_chat_Mo"]
+	path = public-html/promo1/Morgan V/mini_chat_Mo
+	url = https://github.com/MorganVa/mini_chat_Mo
+
+
 [submodule "public-html/promo1/jeremy-marconnes/mini_chat_jeremy_m"]
 	path = public-html/promo1/jeremy-marconnes/mini_chat_jeremy_m
 	url = https://github.com/SirKaya/mini_chat_jeremy_m
@@ -71,3 +76,4 @@
 [submodule "public-html/promo1/guyot_celine/MiniChat_"]
 	path = public-html/promo1/guyot_celine/MiniChat_
 	url = https://github.com/seguyot/Minichat-
+
