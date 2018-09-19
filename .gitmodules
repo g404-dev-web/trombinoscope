@@ -77,3 +77,9 @@
 	path = public-html/promo1/guyot_celine/MiniChat_
 	url = https://github.com/seguyot/Minichat-
 
+[submodule "minichat"]
+	path = minichat
+	url = https://github.com/WilfriedBlue/minichat
+[submodule "public-html/promo1/wilfried-artus/minichat"]
+	path = public-html/promo1/wilfried-artus/minichat
+	url = https://github.com/WilfriedBlue/minichat
