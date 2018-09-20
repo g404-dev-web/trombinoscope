@@ -6,3 +6,11 @@
     background-color: #f3f3f3 !important;
     border-bottom-color: black;
 }
+le css a rajouter dans votre style.css dans votre dossier
+.liens {
+    margin-top: 2%;
+}
+
+.logo {
+    height: 22px;
+}
