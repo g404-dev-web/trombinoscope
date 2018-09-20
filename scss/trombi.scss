@@ -65,4 +65,19 @@
         transform: scale3d(1, 1, 1);
     }
 }
+ .img-effect .card-img{
+    box-shadow: 0 8px 17px 2px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+}
+.img-effect p{
+    font-family: Raleway;
+    font-weight: 300;
+    font-size: 1.22rem;
+    margin-bottom: 0px!important;
+}
+.img-effect p > b{
+    font-weight: 600;
+}
+.img-effect:hover{
+    text-decoration: none;
+}
 }
