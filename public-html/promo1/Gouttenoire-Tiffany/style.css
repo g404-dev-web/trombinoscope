@@ -6115,4 +6115,12 @@ body {
     content: ' ';
     background: rgba(21, 21, 21, 0.75); }
 
+    .liens {
+      margin-top: 2%;
+  }
+  
+  .logo {
+      height: 22px;
+  }
+
 /*# sourceMappingURL=style.css.map */
