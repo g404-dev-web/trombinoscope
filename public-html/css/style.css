@@ -6123,4 +6123,29 @@ body {
       height: 22px;
   }
 
+.links .btn{
+    width: 100%;
+    font-family: Raleway;
+    margin-bottom: 0px!important;
+}
+.links .btn i{
+    margin-right: 8px;
+}
+.links .btn.github{
+    background-color: #333;
+    border-color: #333;
+}
+.links .btn.gitlab{
+    background-color: #554488;
+    border-color: #554488;
+}
+.links .btn.linkedin{
+    background-color: #0077b5;
+    border-color: #0077b5;
+}
+.links .btn.doyoubuzz{
+    background-color: #F19120;
+    border-color: #F19120;
+}
+
 /*# sourceMappingURL=style.css.map */
