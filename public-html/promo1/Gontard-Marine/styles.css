@@ -6,3 +6,6 @@
     background-color: #f3f3f3 !important;
     border-bottom-color: black;
 }
+.img-fluid {
+    border-radius: 50px;
+}
