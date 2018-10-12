@@ -52,13 +52,13 @@
     <!-- Second Section -->
     <div class="container-fluid text-center bg-dark">
         <ul class="nav nav-tabs row">
-            <li class="nav-item col-4 px-0">
+            <li class="nav-item col-12 col-sm4 col-md-4 col-lg-4 px-0">
                 <a href="javascript:void(0);" data-target="#profile" class="nav-link h3 my-0 active" aria-controls="profile" aria-selected="true" data-toggle="tab" id="profile-tab" role="tab">Profil</a>
             </li>
-            <li class="nav-item col-4 px-0">
+            <li class="nav-item col-12 col-sm4 col-md-4 col-lg-4 px-0">
                 <a href="javascript:void(0);" data-target="#projects" class="nav-link h3 my-0" aria-controls="projects" aria-selected="false" data-toggle="tab" id="projects-tab" role="tab">Projets</a>
             </li>
-            <li class="nav-item col-4 px-0">
+            <li class="nav-item col-12 col-sm4 col-md-4 col-lg-4 px-0">
                 <a href="javascript:void(0);" data-target="#contact" class="nav-link h3 my-0" aria-controls="contact" aria-selected="false" data-toggle="tab" id="contact-tab" role="tab">Contact</a>
             </li>
         </ul>
@@ -67,19 +67,25 @@
     <div class="bg-light py-4">
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 ">
                     <div class="tab-content my-2" id="myTabContent">
                         <!-- First tab -->
                         <div class="tab-pane fade show active" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                             <div class="row text-center">
-                                <div class="col-12">
+                                <div class="col-12 col-sm-4 col-md-4 col-lg-4">
                                     <h2 class="display-4">Mon profil</h2>
                                     <hr>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3" src="/assets/team/EstelleGrange.png" alt="Card image">
+                                <div class="col-12 col-4 col-sm-4 col-md-4 colo-lg-4">
+                                    <img class="img-fluid rounded-circle p-3" src="../../assets/team/EstelleGrange.png" alt="Card image">
+                                     <div class="links">
+                                        <a class="btn btn-primary github m-2" href="https://github.com/zestelle2" target="_blank"><i class="fa fa-github fa-fw"></i>Github</a>
+                                        <a class="btn btn-primary gitlab m-2" href="https://gitlab.com/zestelle2" target="_blank"><i class="fa fa-gitlab fa-fw"></i>Gitlab</a>
+                                        <a class="btn btn-primary linkedin m-2" href="https://www.linkedin.com/in/estelle-grange-165339131/" target="_blank"><i class="fa fa-linkedin fa-fw"></i>LinkedIn</a>
+                                        <a class="btn btn-primary doyoubuzz m-2" href="http://www.doyoubuzz.com/estelle-grange" target="_blank"><i class="fa fa-user fa-fw"></i>Curriculum Vitae</a>
+                                    </div>
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Grange Estelle</h3>
@@ -98,27 +104,21 @@
                                             <cite>Frank Zappa</cite>
                                         </div>
                                     </div>
-                                    <div class="list-group-item">
-                                        <p class="mb-0 lead">Liens</p>
-                                        <a href="https://github.com/zestelle2" target="_blank"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="logo github" width="40" height="40"/></a>
-                                        <a href="http://www.doyoubuzz.com/estelle-grange" target="_blank"><img src="http://www.pierredeberail.fr/wp-content/uploads/2015/08/curriculum_logo-300x300.jpg" alt="logo cv" width="40" height="40"/></a>
-                                        <a href="https://www.linkedin.com/in/estelle-grange-165339131/" target="_blank"><img src="https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=s180" alt="logo linkedin" width="30" height="30"/></a>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                         <!-- Second tab -->
                         <div class="tab-pane fade" id="projects" role="tabpanel" aria-labelledby="projects-tab">
                             <div class="row text-center">
-                                <div class="col-12">
+                                <div class="col-12 .col-sm-4 .col-md-4 .col-lg-4">
                                     <h2 class="display-4">Projets</h2>
                                     <hr>
                                 </div>
                             </div>
-                            <section class="project py-4">
                                 <!-- One project -->
+                            <section class="project py-4">
                                 <div class="row">
-                                    <div class="col-4">
+                                    <div class="nav-item col-sm4 col-md-4 col-lg-4">
                                         <div class="bg-dark text-white text-center card">
                                             <img class="img-fluid rounded-circle w-75 mx-auto mt-3" src="images/miniChat.png" alt="Card image">
                                             <div class="card-body">
@@ -159,10 +159,10 @@
                                 <hr>
                             </section>
 
+                            <!-- Two project -->
                             <section class="project py-4">
-                                <!-- Two project -->
                                 <div class="row">
-                                    <div class="col-4">
+                                    <div class="col-sm4 col-md-4 col-lg-4">
                                         <div class="bg-dark text-white text-center card">
                                             <img class="img-fluid rounded-circle w-75 mx-auto mt-3" src="images/audioPlayer.png" alt="Card image">
                                             <div class="card-body">
@@ -191,11 +191,94 @@
                                 </div>
                                 <hr>
                             </section>
+
+                             <!-- three project -->
+                            <section class="project py-4">
+                                <div class="row">
+                                    <div class="col12 col-sm4 col-md-4 col-lg-4">
+                                        <div class="bg-dark text-white text-center card">
+                                            <img class="img-fluid rounded-circle w-75 mx-auto mt-3" src="images/exchange.png" alt="Card image">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Exchange</h4>
+                                                <p class="card-text">Exemple de projet.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2" href="http://exchange.simplon-roanne.com/" target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-8 text-left">
+                                        <h3>Compétences acquises</h3>
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7, MySQL et Laravel</p>
+                                        <p>
+                                            Le tp Exchange est composé avec le Framework Laraval. <br> Les messages sont dynamiquement envoyés et affichés en PHP grâce la base de données MySQL.
+                                        </p>
+                                        <p class="lead">Les models et la gesion des user</p>
+                                        <p>
+                                            Nous avons trois models : User, Answer et Response. Nos les gérons grace aux controller, répositorie et les request.  
+                                        </p>
+
+                                        <p class="lead">MVC</p>
+                                        <p>
+                                            MVC est un motif d'architecture logicielle destiné aux interfaces graphiques pour les applications web. MVC : Modèle, Vue, Controller.
+                                        </p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </section>
+
+                            <!-- four project -->
+                            <section class="project py-4">
+                                <div class="row">
+                                    <div class="col12 col-sm4 col-md-4 col-lg-4">
+                                        <div class="bg-dark text-white text-center card">
+                                            <img class="img-fluid rounded-circle w-75 mx-auto mt-3" src="images/payetonpote.png" alt="Card image">
+                                            <div class="card-body">
+                                                <h4 class="card-title">PayeTonPote</h4>
+                                                <p class="card-text">exemple de projets.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2" href="https://grange.estelle.payetonpote.tp.simplon-roanne.com/" target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-8 text-left">
+                                        <h3>Compétences acquises</h3>
+                                        <p class="lead">Gestion de la partie backEnd de Sympfony : Page web intérative avec la base données.</p>
+                                        <p>
+                                             Dans le projet PayeTonPote nous avons gérés : la campagne, les dépences , le payement et les participants. 
+                                             Nous avons définie la relation entre les tables grâce aux Entity et aux CRUDS.
+                                             
+                                        </p>
+                                        <p class="lead">Le payement avec Stripe</p>
+                                        <p>
+                                            On utilse le concurrant de Paypal :Stripe. Vous pouvez toujours me donner 1euros pour vérifier la transaction ( normalement c'est toujours en mode test, car il me manquait des donnée, comme le numéro Isban pour configuer mon compte stripe). 
+                                            Donc j'ai dû garder le projet en mode developpement.
+                                            Avec ce système on gère les cas d'erreurs, commme le vol de carte bancaire, un payement null, carte non-reconnu.. 
+                                            
+                                        </p>
+                                        <p class="lead">Le Markdown lors de la création de la campagne </p>
+                                        <p>
+                                           SimpleMDE Markdown Editor pour la création de la campagne. Afin de harmonier la description de la campagne et mettre de la mise en forme. 
+                                        </p>
+                                        <p class="lead">Programmation En MVC</p>
+                                        <p>
+                                            Symfony est en  MVC pour l'organisation de son code.
+                                        </p>
+                                        <p class="lead">Déploiement en production 100% manuel avec SSL</p>
+                                        <p>
+                                            J'ai déployé mon projet sur une URL et mis en place un certificat SSL sur un serveur Ubuntu hébergé chez OVH.
+                                        </p>
+                                        
+                                        <p class="lead">Développer avec Docker</p>
+                                        <p>
+                                            Docker est utilisé sur ce projet pour le développement et le déploiement.
+                                        </p>
+                                    </div>
+                                </div>
+                                <hr>
+                            </section>
                         </div>
-                        <!-- Third tab -->
+                        <!-- contact tab -->
                         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                             <div class="row text-center">
-                                <div class="col-12">
+                                <div class="col-12 .col-sm-4 .col-md-4 .col-lg-4">
                                     <h2 class="display-4">Contactez-moi</h2>
                                     <hr>
                                 </div>
@@ -236,7 +319,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 
