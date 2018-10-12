@@ -2,6 +2,7 @@ version: '3'
 services:
   mariadb:
     image: mariadb:10.1
+    container_name:trombinoscopemaster_mariadb_1
     working_dir: /application
     volumes:
       - .:/application
