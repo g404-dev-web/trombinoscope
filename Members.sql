@@ -49,7 +49,7 @@ ALTER TABLE `Members`
 -- AUTO_INCREMENT for table `Members`
 --
 ALTER TABLE `Members`
-  MODIFY `id` tinyint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `id` tinyint(10) NOT NULL AUTO_INCREMENT;
 COMMIT;
 
 --
