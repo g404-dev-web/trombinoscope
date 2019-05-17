@@ -38,6 +38,20 @@ CREATE TABLE `Members` (
   `lien` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
+--
+-- Indexes for table `Members`
+--
+ALTER TABLE `Members`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for table `Members`
+--
+ALTER TABLE `Members`
+  MODIFY `id` tinyint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+COMMIT;
+
 --
 -- Dumping data for table `Members`
 --
@@ -67,21 +81,10 @@ INSERT INTO `Members` (`id`, `name`, `lastname`, `image`, `lien`) VALUES
 --
 
 --
--- Indexes for table `Members`
---
-ALTER TABLE `Members`
-  ADD PRIMARY KEY (`id`);
-
---
 -- AUTO_INCREMENT for dumped tables
 --
 
---
--- AUTO_INCREMENT for table `Members`
---
-ALTER TABLE `Members`
-  MODIFY `id` tinyint(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
-COMMIT;
+
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
