@@ -14,7 +14,7 @@
                     <b><?= $donnees["name"] ?> <?= $donnees["lastname"] ?></b>
                 </p>
                 <p class="text-muted m-0">
-                    <small>Apprenant simplon</small>
+                    <small><?= $donnees["phrase"] ?></small>
                 </p>
             </div>
         </div>
