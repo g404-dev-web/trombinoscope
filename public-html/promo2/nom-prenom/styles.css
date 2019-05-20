@@ -6,3 +6,36 @@
     background-color: #f3f3f3 !important;
     border-bottom-color: black;
 }
+
+.capfirst:first-letter {
+    font-variant:small-caps; 
+    font-size:2.5em; 
+    line-height: 0.5em; 
+    margin:7px 5px 0 0; 
+    float:left;
+    color: black;
+}
+
+.img-marc {
+    position: sticky;
+    top: 25vh;
+}
+
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+#liens a i.mylink{
+    color: black !important;
+    box-shadow : 1px 1px 4px blue;
+    padding: 10px;
+}
+
+#liens a i.mylink:hover {
+    box-shadow : 1px 1px 40px white;
+}
+    
+#liens {
+    margin-top: 50px;
+}
