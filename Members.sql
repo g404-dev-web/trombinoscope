@@ -27,6 +27,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `Members`
 --
+USE simplon;
 
 DROP TABLE IF EXISTS `Members`;
 
@@ -56,26 +57,6 @@ COMMIT;
 --
 -- Dumping data for table `Members`
 --
-
-INSERT INTO `Members` (`name`, `lastname`, `image`, `lien`, `phrase`) VALUES
-('Jérémy', 'Marconnes', 'assets/team/Jeremy_M.png', 'promo1/Marconnes-Jeremy/index.html', 'test'),
-('Wilfried', 'Artus', 'assets/team/Wilfried.jpeg', 'promo1/Wilfried-Artus/index.html', 'test'),
-('Marie-France', 'Gauthier', 'assets/team/MF.jpeg', 'promo1/Gauthier-MF/index.html', 'test'),
-('Jennifer', 'Parratte', 'assets/team/Jen.png', 'promo1/Paratte-Jennifer/index.html', 'test'),
-('Arnaud', 'Dussart', 'assets/team/Arnaud.png', 'promo1/Dussart-Arnaud/index.html', 'test'),
-('Kevin', 'Sinjy', 'assets/team/Kevin.png', 'promo1/Sinjy-Kevin/index.html', 'test'),
-('Jérémy', 'Gauthier', 'assets/team/Jeremy_G.png', 'promo1/Gauthier-Jeremy/index.html', 'test'),
-('Alexandre', 'Loretzin', 'assets/team/Alex.jpg', 'promo1/Loretzin-Alexandre/index.html', 'test'),
-('Florent', 'Ferlay', 'assets/team/Florent.png', 'promo1/Ferlay-Florent/index.html', 'test'),
-('Morgan', 'Vallicelli', 'assets/team/Morgane.jpg', 'promo1/Vallicelli-Morgan/index.html', 'test'),
-('Estelle', 'Grange', 'assets/team/Estelle.jpg', 'promo1/Grange-Estelle/index.html', 'test'),
-('Marine', 'Gontard', 'assets/team/Marine.png', 'promo1/Gontard-Marine/index.html', 'test'),
-('Tiffany', 'Gouttenoire', 'assets/team/Tiffany.png', 'promo1/Gouttenoire-Tiffany/index.html', 'test'),
-('Céline', 'Guyot', 'assets/team/Celine.png', 'promo1/Guyot-Celine/index.html', 'test'),
-('Yvé', 'Da Costa', 'assets/team/Yvé.png', 'promo1/Da-Costa-Yve/index.html', 'test'),
-('Thomas', 'Gaillot', 'assets/team/Thomas.png', 'promo1/Gaillot-Thomas/index.html', 'test'),
-('Stéphane', 'Fernandes', 'assets/team/wilfried.jpeg', 'promo1/Fernandes-Stephane/index.html', 'test'),
-('loic', 'Neyron', 'assets/team/loic.png', 'promo1/Neyron-Loic/index.html', 'test');
 
 --
 -- Indexes for dumped tables
