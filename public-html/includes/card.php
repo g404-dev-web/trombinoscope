@@ -13,9 +13,7 @@
                 <p class="mt-3 mb-1">
                     <b><?= $donnees["name"] ?> <?= $donnees["lastname"] ?></b>
                 </p>
-                <p class="text-muted m-0">
-                    <small><?= $donnees["phrase"] ?></small>
-                </p>
+               
             </div>
         </div>
     </a>
