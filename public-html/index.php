@@ -71,7 +71,7 @@
             </div>
         </div>
     </div>
-    <div class="py-5 filter-dark cover bg-fixed" style="background-image: url('assets/team/simplon.jpg');background-position:center bottom;background-size:cover;" id="mission">
+    <div class="py-5 filter-dark cover bg-fixed" style="background-image: url('assets/promo2/simplon.jpg');background-position:center bottom;background-size:cover;" id="mission">
         <div class="container my-auto">
             <div class="row">
                 <div class="col-md-8 p-3 text-white">
