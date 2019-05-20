@@ -8,7 +8,7 @@ INSERT INTO `Members` (`id`,`name`, `lastname`, `image`, `lien`, `phrase`) VALUE
 (5,'Nicolas', 'Miquel', 'assets/promo2/miquel-nicolas.png', 'promo2/Miquel-Nicolas/index.html', 'test'),
 (6,'Emilie', 'Chabry', 'assets/promo2/Chabry-Emilie.jpg', 'promo2/Chabry-Emilie/index.html', 'test'),
 (7,'Mathis', 'Mghaoues', 'assets/promo2/mathis.jpg', 'promo2/Mghaoues-Mathis/index.html', 'test'),
-(8,'Christophe', 'Chaxel', 'assets/promo2/Alex.jpg', 'promo2/Chaxel-Christophe/index.html', 'test'),
+(8,'Christophe', 'Chaxel', 'assets/promo2/chaxel-christophe.jpg', 'promo2/Chaxel-Christophe/index.html', 'test'),
 (9,'Axel', 'Vozenilek', 'assets/promo2/axel.png', 'promo2/Vozenilek-Axel/index.html', 'test'),
 (10,'Rodrigue', 'Audo', 'assets/promo2/rodrigue.png', 'promo2/Audo-Rodrigue/index.html', 'test'),
 (11,'Xavier', 'Vidal-Matabosch', 'assets/promo2/Alex.jpg', 'promo2/Vidal-Matabocsh-Xavier/index.html', 'test'),
