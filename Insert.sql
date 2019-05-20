@@ -2,7 +2,7 @@ USE simplon;
 
 INSERT INTO `Members` (`id`,`name`, `lastname`, `image`, `lien`, `phrase`) VALUES
 (1,'Cheima', 'Guattache', 'assets/promo2/cheima-guattache.png', 'promo2/Guattache-Cheima/index.html', 'test'),
-(2,'Baptiste', 'Couavoux', 'assets/promo2/baptiste.jpg', 'promo2/Couavoux-Baptiste/index.html', 'test'),
+(2,'Baptiste', 'Couavoux', 'assets/promo2/baptiste.jpeg', 'promo2/Couavoux-Baptiste/index.html', 'test'),
 (3,'Mickael', 'Wala', 'assets/promo2/mickael-wala.jpg', 'promo2/Wala-Mickael/index.html', 'test'),
 (4,'Marc', 'Verriere', 'assets/promo2/Alex.jpg', 'promo2/Verriere-Marc/index.html', 'test'),
 (5,'Nicolas', 'Miquel', 'assets/promo2/miquel-nicolas.png', 'promo2/Miquel-Nicolas/index.html', 'test'),
