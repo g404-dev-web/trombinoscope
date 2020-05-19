@@ -143,7 +143,8 @@
                                          Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                      </p>
                                   <br>
-                                  <p>A part coder ,je suis un passionné de Football que je pratique beaucoup . </p>
+                                  <p>A part coder ,je suis un passionné de danse et de Football que je pratique
+                                   beaucoup .</p>
                                      <div class="blockquote">
                                          <p class="mb-2">Citations</p>
                                          <div class="blockquote-footer">
