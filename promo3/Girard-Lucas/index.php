@@ -107,25 +107,26 @@
                                     <h3>Développeur junior Web et Mobile </h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
+                                        <p>Je m'intéresse au monde de l'informatique depuis 10 ans.</p> 
+                                        <p>Quand j'ai commencé à travailler à 18 ans, 
+                                        j'ai fais un BEP transport routier par défaut. En parallèle, je me passionne sur l'évolution des métiers de la technologie.</p>
+                                        <p>Après, 12 ans en tant que chauffeur routier.
+                                        j'aimerais m'investir dans un projet/métier qui pourrais plus me correspondre.<br> 
+                                        L’expérience que j'ai eu en tant que chauffeur poids lourd m'a appris à être autonome ,
+                                        organisé et efficient.</p><br> 
+                                        Grace à cela, j'ai développé la capacité de m'adapter à toute situation, à vivre en communauté et à respecter mes collaborateurs.<br>
+                                        <p>Ce qui m’intéresse le plus dans ce métier c'est qu'il est en constante évolution.<br> 
+                                        Chaque projet est différent selon la demande du client ainsi que la relation clientèle et la participation commune aux projets.</p>
+
+                                        
                                
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            <cite></cite>
+                                            <cite> "Je n'ai pas échoué. J'ai juste trouvé 10.000 moyens qui ne fonctionnent pas." -Thomas A. Edison</cite>
                                         </div>
                                     </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            
-                                            <cite></cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            
-                                            <cite>(<i></i>)</cite>
-                                        </div>
-                                    </div>
+
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
@@ -165,41 +166,20 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">SASS Training</h4>
-                                                <p class="card-text">
-                                                    </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
                                                 <h4 class="card-title">Instgrame-binome</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="../Emilie-Catteau/index.html">Émilie
-                                                        Catteau</a>. L'objectif était de reproduire
+                                                        href="../Avon-Antonin/index.html">Avon
+                                                        Antonin</a>. L'objectif était de reproduire
                                                     les fonctionnalités principales d'Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/quizzy"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Bootstrap Training</h4>
-                                                <p class="card-text">
-                                                   
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/OneMillionLines"
+                                                    href="https://github.com/lucasgirard42/Instagram-binome"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-8 text-left">
+                                    <!--<div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
@@ -228,7 +208,7 @@
                                                     <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
                                                     outil de <b>crop</b>.</i></li>
                                             </ul>
-                                    </div>
+                                    </div>-->
                                 </div>
                                 <hr>
                             </section>
@@ -303,7 +283,7 @@
             <div class="row">
                 <div class="p-5 col-8 offset-2">
                     <h3>
-                        <b>Smpln</b>
+                        <b>Simplon</b>
                     </h3>
                     <p class="">
                         <a href="#" target="_blank">27 Rue Lucien Langnieux,
