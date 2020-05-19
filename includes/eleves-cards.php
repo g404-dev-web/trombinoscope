@@ -11,7 +11,21 @@
         </div>
     </a>
 </div>
-<!-- =============== END BLOC A COPIER =============-->
+
+<!-- CARD Lucas  -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="promo3/Girard-Lucas">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="promo3\Girard-Lucas\img\lucas2.jpg" alt="Card image">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Girard Lucas</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- FIN CARD Lucas -->
 
 <!-- ======================= USHER CARD ========================== -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
@@ -22,6 +36,11 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Usher Kadio</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
 <!-- ======================= END OF USHER CARD ========================== -->
                   
 <!-- CARD Maureen  -->
@@ -32,13 +51,11 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Maureen Depresle</b>
-
                 </p>
             </div>
         </div>
     </a>
 </div>
-
 <!-- FIN CARD Maureen -->
 
 <!-- CARD Clément  -->
@@ -160,5 +177,3 @@
 </a>
 </div>
 <!-- end of card Gregory Szucs -->
-
-
