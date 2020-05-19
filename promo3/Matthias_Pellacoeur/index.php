@@ -228,21 +228,17 @@
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
+                                        <p>Afin d'améliorer mes compétences 
+                                            j'ai quelques projets en <span
                                                 title="Work In Progress">W.I.P</span> tels que :
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li>
+                                                    un script de calculatrice en reprenant le style d'Apple
+                                                </li>
+                                                <li>
+                                                    AutoDate (en collaboration) principalement du CSS pour ma part
+                                                </li>
                                             </ul>
                                     </div>
                                 </div>
