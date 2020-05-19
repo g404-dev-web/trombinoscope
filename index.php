@@ -1,7 +1,3 @@
-<?php 
-    include 'includes/Connect.php';
-?>
-
 <!DOCTYPE html>
 <html>
 
@@ -50,7 +46,7 @@
         <div class="container my-auto">
             <div class="row">
                 <div class="mx-auto col-lg-6 col-md-8">
-                    <h1 class="display-1 mb-0 mt-5 big-title">Smpln</h1>
+                    <h1 class="display-1 mb-0 mt-5 big-title">Promo3</h1>
                     <h3 class="mb-4">
                         <b>Ecole Simplon Roanne</b>
                     </h3>
@@ -71,32 +67,32 @@
             </div>
         </div>
     </div>
-    <div class="py-5 filter-dark cover bg-fixed" style="background-image: url('assets/promo2/simplon.jpg');background-position:center bottom;background-size:cover;" id="mission">
-        <div class="container my-auto">
-            <div class="row">
-                <div class="col-md-8 p-3 text-white">
-                    <h2 class="mb-4">Notre mission</h2>
-                    <p class="lead">
-                        <i>Mené dans une démarche d’innovation sociale,
-                            <br>ce projet constitue un double défi</i>
-                    </p>
-                </div>
-                <div class="col-xs-12 col-md-6 p-3 text-white">
-                    <h2 class="mb-4">Social</h2>
-                    <p class="lead">
-                        <i>Agir sur l’emploi et la qualification de publics marginalisés sélectionnés uniquement sur la base
-                            de leur motivation et de critères sociaux, et non sur la base des diplômes.</i>
-                    </p>
-                </div>
-                <div class="col-xs-12 col-md-6 p-3 text-white">
-                    <h2 class="mb-4">Économique</h2>
-                    <p class="lead">
-                        <i>Répondre aux besoins de recrutement des entreprises du numérique engagées dans cette démarche citoyenne.</i>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+<!--    <div class="py-5 filter-dark cover bg-fixed" style="background-image: url('assets/promo2/simplon.jpg');background-position:center bottom;background-size:cover;" id="mission">-->
+<!--        <div class="container my-auto">-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-8 p-3 text-white">-->
+<!--                    <h2 class="mb-4">Notre mission</h2>-->
+<!--                    <p class="lead">-->
+<!--                        <i>Mené dans une démarche d’innovation sociale,-->
+<!--                            <br>ce projet constitue un double défi</i>-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--                <div class="col-xs-12 col-md-6 p-3 text-white">-->
+<!--                    <h2 class="mb-4">Social</h2>-->
+<!--                    <p class="lead">-->
+<!--                        <i>Agir sur l’emploi et la qualification de publics marginalisés sélectionnés uniquement sur la base-->
+<!--                            de leur motivation et de critères sociaux, et non sur la base des diplômes.</i>-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--                <div class="col-xs-12 col-md-6 p-3 text-white">-->
+<!--                    <h2 class="mb-4">Économique</h2>-->
+<!--                    <p class="lead">-->
+<!--                        <i>Répondre aux besoins de recrutement des entreprises du numérique engagées dans cette démarche citoyenne.</i>-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
     <!-- End first section -->
     <!-- Trombinoscope -->
     <div class="py-5 text-center" id="team">
@@ -106,13 +102,13 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="mb-4">Promotion Roanne _02</h2>
+                    <h2 class="mb-4">Promotion Roanne _03</h2>
                 </div>
             </div>
             <div class="row">
 
                 <?php 
-                    include 'includes/card.php';
+                    include 'includes/eleves-cards.php';
                 ?>
 
             </div>
