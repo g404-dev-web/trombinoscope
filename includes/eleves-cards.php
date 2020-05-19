@@ -11,6 +11,7 @@
         </div>
     </a>
 </div>
+<<<<<<< HEAD
 <!-- /COPIER CE BLOC -->
 <!-- COPIER CE BLOC -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
@@ -27,3 +28,6 @@
     </a>
 </div>
 <!-- /COPIER CE BLOC -->
+=======
+<!-- /COPIER CE BLOC -->
+>>>>>>> 3352f08d080cdad4314752b91a47d128a2d2b891
