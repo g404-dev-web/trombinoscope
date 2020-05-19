@@ -18,3 +18,17 @@
 .logo {
     height: 22px;
 }
+
+/*====MEDIA QUERIES ====*/
+@media screen and (max-width:768px){
+    .page-nav{
+         display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        }
+    .page-nav li {
+        display:block;
+        }
+    }
+
