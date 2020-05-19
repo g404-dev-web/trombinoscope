@@ -1,6 +1,6 @@
 <?php
 
-    // Configurez ici votre email qui est utilisez à plusieurs endroits sur la page
+    // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
     $email = "zzgael@gmail.com";
