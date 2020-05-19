@@ -188,7 +188,8 @@
                                                 <h4 class="card-title">Clone Instagram</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="">Veronique Forest</a>. <br>L'objectif était de reproduire
+                                                        href="../Forest_Véronique/">Veronique Forest</a>.<br>
+                                                        L'objectif était de reproduire
                                                     les fonctionnalités principales du réseau social Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-info m-2"
