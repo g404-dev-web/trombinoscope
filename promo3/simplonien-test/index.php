@@ -290,20 +290,27 @@
                                         <input type="hidden" name="to" value="<?=$email?>">
                                         <div class="form-group">
                                             <label for="email">Votre email</label>
-                                            <input type="email" class="form-control form-control-lg"
-                                                placeholder="Email" required="required"
-                                                name="email">
+                                            <input type="email"
+                                                   class="form-control form-control-lg"
+                                                   placeholder="Email"
+                                                   required="required"
+                                                   name="email">
                                         </div>
                                         <div class="form-group">
                                             <label for="name">Votre nom</label>
-                                            <input type="text" class="form-control form-control-lg"
-                                                placeholder="Nom" required="required" name="name">
+                                            <input type="text"
+                                                   class="form-control form-control-lg"
+                                                   placeholder="Nom"
+                                                   required="required"
+                                                   name="name">
                                         </div>
                                         <div class="form-group">
                                             <label for="message">Votre message</label>
                                             <textarea class="form-control p-1 form-control-lg"
-                                                rows="3" placeholder="Message"
-                                                name="message"></textarea>
+                                                      rows="3"
+                                                      placeholder="Message"
+                                                      name="message"
+                                                      required="required"></textarea>
                                         </div>
                                         <button type="submit"
                                             class="btn btn-secondary btn-lg">ENVOYER</button>

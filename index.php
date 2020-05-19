@@ -17,6 +17,12 @@
     <!-- Script: Navbar on-top -->
 
     <script src="js/navbar-ontop.js"></script>
+
+    <?php if(isset($_GET["send-success"])) : ?>
+        <script>alert('Votre message a bien été envoyé.')</script>
+    <?php elseif(isset($_GET["send-fail"])) : ?>
+        <script>alert("Votre message n'a pas pu être envoyé à cause d'une erreur.")</script>
+    <?php endif; ?>
 </head>
 
 <body>
@@ -29,9 +35,9 @@
             </button>
             <div class="collapse navbar-collapse text-center justify-content-end" id="navbar3SupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#missions">Missions</a>
-                    </li>
+<!--                    <li class="nav-item">-->
+<!--                        <a class="nav-link" href="#missions">Missions</a>-->
+<!--                    </li>-->
                     <li class="nav-item mx-2 mb-2 my-md-0">
                         <a class="nav-link" href="#team">Equipe</a>
                     </li>
@@ -149,19 +155,22 @@
                 <div class="p-5 col-md-6">
                     <h3>Contactez-nous</h3>
                     <form method="post" action="api/mail.php">
+                        <input type="hidden" name="to" value="zzgael@gmail.com">
                         <div class="form-group">
-                            <input type="email" class="form-control form-control-sm" placeholder="Votre email" required="required" name="email"> </div>
+                            <input type="email" class="form-control form-control-sm" placeholder="Votre email" required="required" name="email">
+                        </div>
                         <div class="form-group">
-                            <input type="text" class="form-control form-control-sm" id="inlineFormInput" placeholder="A propos" required="required" name="subject"> </div>
+                            <input type="text" class="form-control form-control-sm" id="inlineFormInput" placeholder="Votre nom" required="required" name="name">
+                        </div>
                         <div class="form-group">
-                            <textarea class="form-control p-1 form-control-sm" id="exampleTextarea" rows="3" placeholder="Votre message" name="message"></textarea>
+                            <textarea class="form-control p-1 form-control-sm" id="exampleTextarea" rows="3" placeholder="Votre message" required="required" name="message"></textarea>
                         </div>
                         <button type="submit" class="btn btn-outline-light btn-sm">ENVOYER</button>
                     </form>
                 </div>
                 <div class="row">
                     <div class="col-md-12 mt-3">
-                        <p class="text-center text-muted">© Copyright 2018 Simplon Roanne - Tous droits réservés. </p>
+                        <p class="text-center text-muted">© Copyright <?=date('Y')?> Simplon Roanne - Tous droits réservés. </p>
                     </div>
                 </div>
             </div>

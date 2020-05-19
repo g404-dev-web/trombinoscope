@@ -13,9 +13,10 @@ if (!empty($_POST["email"]) && !empty($_POST["message"])) {
     // Create the Mailer using your created Transport
     $mailer = new Swift_Mailer($transport);
 
+    //var_dump($_POST);exit;
 
     // Create a message
-    $message = (new Swift_Message($_POST["name"]." t'a contacté depuis le trombi Simplon Roanne"))
+    $message = (new Swift_Message($_POST["name"]." - Contact depuis le trombi Simplon Roanne"))
         ->setFrom(["contact@simplon-roanne.com" => $_POST["name"]])
         ->setTo($_POST["to"])
         ->setReplyTo($_POST['email'])
