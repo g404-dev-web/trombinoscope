@@ -27,7 +27,6 @@
     </a>
 </div>
 <!-- FIN CARD MATTHIAS -->
-
 <!-- veronique FOREST-->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="./promo3/Forest_Véronique">
@@ -102,3 +101,18 @@
     </a>
 </div>
 <!-- end of card Coatmeur Audrene -->
+
+<!-- card Gregory Szucs -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5" id="Szucs-Gregory">
+    <a class="img-effect" href="promo3/Szucs-Gregory">
+    <div class="card project">
+        <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+        <div class="card-body p-0">
+            <p class="mt-3 mb-1">
+                <b>Gregory Z. Szucs</b>
+            </p>
+        </div>
+    </div>
+</a>
+</div>
+<!-- end of card Gregory Szucs -->
