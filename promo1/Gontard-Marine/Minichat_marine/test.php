@@ -27,6 +27,10 @@ class MiniChatTest extends TestCase
         $message = $messageQuery->fetchAll()[0];
         // Pour vérifier que les datas sont identiques
         $this->assertEquals();
+<<<<<<< HEAD
     }}   
+=======
+    }   
+>>>>>>> 3352f08d080cdad4314752b91a47d128a2d2b891
     
     // Création de la fonction PostRequest()
