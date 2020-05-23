@@ -12,6 +12,16 @@
     </a>
 </div>
 
+<!-- CARD Celine -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="promo3/celine-leroux">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="../promo3/celine-leroux/images/CL.jpg" alt="Card image">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Céline LEROUX</b>
+
+
 <!-- CARD Lucas  -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Girard-Lucas">
@@ -20,11 +30,17 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Girard Lucas</b>
+
                 </p>
             </div>
         </div>
     </a>
 </div>
+
+
+<!-- /COPIER CE BLOC -->
+
+
 <!-- FIN CARD Lucas -->
 
 <!-- ======================= USHER CARD ========================== -->
@@ -177,3 +193,4 @@
 </a>
 </div>
 <!-- end of card Gregory Szucs -->
+
