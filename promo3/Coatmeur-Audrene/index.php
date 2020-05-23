@@ -101,52 +101,66 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img id="audrene" class="img-fluid rounded-circle p-3"
-                                        src="img/testphoto.jpg" alt="Card image">
+                                        src="img/photo.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeuse Web et Mobile</h3>
-                                    <p class="lead">A venir!
+                                    <p class="lead">
+                                        <b>Qui suis-je?</b> Audrène Coatmeur, bretonne loin de chez elle.
+                                        J'aime lire, écrire, et regarder des séries en anglais. Enchantée!
                                     </p>
-                                    <div class="blockquote">
-                                        <p class="mb-2">Pour respecter la tradition simplonienne, voici quelques citations :</p>
-                                        <div class="blockquote-footer">
-                                        Il faut oser ou se résigner à tout.</br>
-                                            <cite>Tite-Live</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                        Le doute est une force. Une vrai belle force. 
-                                        Veille simplement qu'elle te pousse toujours en avant.</br>
-                                            <cite>Pierre Bottero</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                        Victoriae mundis et mundis lacrima. Bon, ça ne veut absolument rien dire, 
-                                        mais je trouve que c’est assez dans le ton.</br>
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
-                                        </div>
-                                    </div>
+                                    <p class="lead">
+                                        <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
+                                        référencement internet aux professionnels. Entre garder un métier qui ne me 
+                                        passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
+                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé!
+                                    </p>
+                                    <p class="lead">
+                                        <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
+                                        que j'ai appris avec Simplon me plaît, je n'ai pas de petit préféré. Si ça change, 
+                                        je vous tiendrai au courant!
+                                    </p>
+                                    <h3>
+                                        Compétences acquises :
+                                    </h3>
+                                    <ul>
+                                        <li>
+                                            <p>Créer des pages web avec HTML et CSS</p>
+                                        </li>
+                                        <li>
+                                            <p>Utiliser Bootstrap et ses classes</p>
+                                        </li>
+                                        <li>
+                                            <p>Créer une base de données et gérer des requêtes SQL</p>
+                                        </li>
+                                        <li>
+                                            <p>Traiter des données et les passer d'une page à l'autre avec PHP</p>
+                                        </li>
+                                        <li>
+                                            <p>Afficher du contenu dynamique avec des fonctions asynchrones JS</p>
+                                        </li>
+                                    </ul>
+                                    <h3>
+                                        Compétences en cours d'acquisition :
+                                    </h3>
+                                    <ul>
+                                        <li>
+                                            <p>Programmation orientée objet</p>
+                                        </li>
+                                    </ul>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/HeathSilcox" class="liens"
+                                        <a href="https://github.com/Audrene-C" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
+                                        <a href=""
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -170,8 +184,8 @@
                                                 <h4 class="card-title">Un client Deezer</h4>
                                                 <p class="card-text">Premier projet chez Simplon, 
                                                     en binôme avec <a href="../../promo3/Mathias-Perle">Perle Mathias</a>, 
-                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer pour
-                                                    notre base de données. Requêtes SQL, un peu de PHP, et beaucoup de
+                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer. 
+                                                    Requêtes SQL, un peu de PHP, et beaucoup de
                                                     fonctions asynchrones JS!</p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/Audrene-C/project-audio-player"
@@ -182,7 +196,7 @@
                                             <div class="card-body">
                                                 <h4 class="card-title">A venir!</h4>
                                                 <p class="card-text">
-                                                    Coming soon!
+                                                    Please come back later!
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href=""
@@ -193,7 +207,7 @@
                                             <div class="card-body">
                                                 <h4 class="card-title">A venir!</h4>
                                                 <p class="card-text">
-                                                    Coming soon!
+                                                    Please come back later!
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href=""
@@ -202,34 +216,29 @@
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
-                                            MySQL</p>
-                                        <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
+                                        <h3>Projets Simplon</h3>
+                                        <p class="lead">
+                                            Client Deezer :
                                         </p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p>
+                                            Le projet repose majoritairement sur JS, car à chaque chanson, album ou 
+                                            playlist jouée, une fonction asynchrone récupère les données de l'API Deezer 
+                                            et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
+                                            Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
+                                            créé notre base de données en conséquence.
+                                        </p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
-                                            <br>
-                                            <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
-                                            </ul>
+                                        <p>
+                                            Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
+                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
+                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
+                                        </p>
+                                        <p>
+                                            Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
+                                            est-il possible que j'ai un peu outrepassé les consignes pour rajouter quelques 
+                                            propriétés et méthodes, pour voir jusqu'où je pouvais pousser les choses. Pour 
+                                            voir mes expériences, c'est <a href="https://github.com/Audrene-C/tp-rpg">par là</a>.
+                                        </p>
                                     </div>
                                 </div>
                                 <hr>
