@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "perlemathias@pm.me";
+    $email = "shivalita@pm.me";
 
 ?><!DOCTYPE html>
 <html>
@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="display-4 mb-0">Perle Mathias</h1>
-                    <h3 class="my-0">Développeuse web</h3>
+                    <h3 class="my-0">Développeuse Back-End</h3>
                 </div>
             </div>
         </div>
@@ -104,31 +104,47 @@
                                         src="./img/perle.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeuse Web et Mobile</h3>
+                                    <h3>Future Développeuse Back-End</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Je suis passionné d'informatique, notamment de programmation
-                                        et de design depuis plus de 10 ans.<br><br>
-                                        J'ai effectué un Bac STG
-                                        Gestion des Systèmes d'Information qui m'appris du droit,
-                                        du management, de la comptabilité, et du SI. Je ne le
-                                        complétai
-                                        malheureusement pas, pour raisons
-                                        personnelles.<br>J'ai des connaissances avancées en anglais
-                                        qui me sont d'un
-                                        réel avantage dans le domaine qui est le nôtre.
+                                    <p>
+                                        Passionnée d'informatique depuis 20 ans, j'entretiens une 
+                                        relation privilégiée avec cet outil. J'ai occupé un poste de 
+                                        conseillère en dépannage internet, et assuré un rôle de soutien 
+                                        dans un service informatique. Dans ce dernier emploi, j'ai reçu 
+                                        une 1ère initiation à la programmation via des requêtes sur base 
+                                        de données SQL, expérience qui m'a beaucoup plu.
                                     </p>
                                     <p>
-                                        Début février 2019, grâce à mon coach en insertion pro, je
-                                        découvris les formations que proposaient Simplon. Afin de
-                                        maximiser mes chances de réussite, je postulai aux quatre
-                                        coins de la France.
-                                        <br><br>
-                                        La Grande École du Numérique de Simplon Roanne retint mon
-                                        profil. Je pris donc mon train au départ d'Épinal (Vosges)
-                                        direction
-                                        Roanne, pour rejoindre cette fabuleuse opportunité qui
-                                        m'ouvrait les bras.
+                                        Durant la période d'inactivité professionnelle qui a suivi, 
+                                        j'ai découvert la programmation via le langage Python.
+                                        Le coup de foudre pour l'algorithmie ayant été aussi immédiat 
+                                        qu'absolu, je me suis initiée aux bases de la programmation en 
+                                        autodidacte. Ayant pris la décision de faire de cette passion mon 
+                                        métier, je me suis alors rapidement tournée vers JavaScript, qui 
+                                        semblait mieux correspondre à mes objectifs professionnels.
+                                    </p>
+                                    <p>
+                                        J'ai récemment eu la chance d'intégrer la 
+                                        fabrique Simplon pour me former au métier de développeuse. En plus 
+                                        des diverses aptitudes techniques, j'ai pu développer des compétences 
+                                        variées telles que la gestion de projet, ou l'utilisation de la 
+                                        documentation et des forums. Mon niveau d'anglais est suffisamment avancé 
+                                        pour exploiter ces ressources, et s'améliore de jour en jour grâce à une 
+                                        pratique intensive. J'ai encore beaucoup à apprendre, mais Simplon m'a 
+                                        enseigné comment apprendre, et cela me sera utile tout au long de ma carrière.
+                                    </p>
+                                    <p>
+                                        Outre ma passion dévorante pour le développement, je possède quelques traits 
+                                        plutôt utiles dans ce métier. Vous l'avez compris, c'est l'instant promo !</br>
+                                        Je suis profondément rigoureuse, et je m'efforce de développer un code 
+                                        clair, cohérent, et respectueux des normes (en un mot : propre). 
+                                        J'ai un bon sens de la communication et je suis toujours ravie d'apporter 
+                                        mon aide, je m'intègre donc très bien au travail en équipe. Je suis 
+                                        infiniment curieuse et j'adore apprendre, un trait de caractère plutôt bienvenu 
+                                        dans un domaine en constante évolution. Enfin, je suis dotée d'une persévérance à 
+                                        toute épreuve, un atout certain dans un métier qui exige une grande ténacité. 
+                                        Je fais aussi d'excellents gâteaux.  
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citation</p>
@@ -181,55 +197,57 @@
                                                     Projet réalisé en duo avec</br><a
                                                         href="../Coatmeur-Audrene/index.html">Audrène 
                                                         Coatmeur</a></br></br>
-                                                        L'objectif était de concevoir un lecteur audio 
-                                                        complet qui utilise l'API Deezer.</br>
-                                                        Ce projet a développé des compétences variées, allant de la 
-                                                        création de base de données à la gestion de 
-                                                        comptes utilisateurs, en passant par le traitement
-                                                        de contenus dynamiques via l'utilisation de requêtes
-                                                        asynchrones.
+                                                        L'objectif était de réaliser une web app de musique offrant un lecteur 
+                                                        audio complet fonctionnant avec l'API Deezer.</br></br>
+                                                        Ce projet a développé des compétences variées, allant de l'exploitation 
+                                                        d'une API à la programmation asynchrone, en passant par la 
+                                                        gestion de projet et la conception d'une interface ergonomique.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/Shivalita/project-audio-player"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
+
+                                        <div class="bg-dark text-white text-center card mt-3">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Mini-chat</h4>
+                                                <p class="card-text">
+                                                        L'objectif était de concevoir un chat ayant un affichage dynamique.</br></br>
+                                                        Ce TP a initié mes compétences en programmation asynchrone, et m'a 
+                                                        permis de consolider mes acquis en HTML, CSS, PHP et MySQL.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Shivalita/Minichat"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
                                     </div>
                         
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP et
+                                        <h3 class="mb-2">Compétences acquises</h3>
+                                        <p class="lead mb-4">Créer des pages web en HTML, CSS, JavaScript, PHP et
                                             MySQL</p>
                                         <p>
-                                            Le lecteur audio possède une interface créée en HTML, 
-                                            CSS et Javascript.<br>
-                                            L'affichage est géré dynamiquement via des 
-                                            requêtes asynchrones Javascript, en interaction avec des pages 
-                                            de traitement PHP. Celles-ci sont chargées de traiter les données via 
-                                            des requêtes SQL, puis de renvoyer le contenu à afficher à Javascript.
-                                            Le CSS apporte enfin à l'interface un design cohérent et une 
-                                            identité visuelle.</br>
-                                            Les fonctionnalités du lecteur sont créées et gérées en Javascript.
+                                            Les fonctionnalités du lecteur audio sont conçues "from scratch" en JavaScript.<br><br>
+                                            L'affichage est géré dynamiquement par JavaScript, qui effectue des 
+                                            requêtes vers l'API Deezer pour récupérer le contenu musical et les 
+                                            données associées.<br>
+                                            JavaScript se charge également de faire transiter ces données vers des pages 
+                                            de traitement PHP, qui exécutent des requêtes SQL et renvoient l'affichage 
+                                            de la partie "commentaires" du site.<br>
+                                            Le système de playlists quant à lui est conçu en Programmation Orientée Objet PHP.</br><br>  
+                                            Le tout se déroule de manière asynchrone via des requêtes fetch.<br>
+                                            L'ensemble des fonctionnalités se déploie sur une unique page dont le 
+                                            contenu est rafraîchi sans rechargement, ce qui permet notamment une 
+                                            continuité dans la lecture de la musique.</br><br>
+                                            CSS apporte enfin à l'ensemble un design cohérent et une 
+                                            identité visuelle.</br><br>
+                                            
                                         </p>
+                                        <p class="lead mt-4">Utilisation de Trello et Wireframe</p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
-                                            <br>
-                                            <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
-                                            </ul>
                                     </div>
                                 </div>
                                 <hr>
