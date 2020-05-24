@@ -20,7 +20,11 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Céline LEROUX</b>
-
+                    </p>
+            </div>
+        </div>
+    </a>
+</div>
 
 <!-- CARD Lucas  -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">

@@ -178,11 +178,11 @@
 
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
+                                                <h4 class="card-title">Clone Product Hunt</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a href="../Szucs-Gregory">Gregory Szucs</a>. 
                                                     Le but du projet était de reproduire
-                                                    le site de <a href="../Szucs-Gregory">Product Hunt</a>.
+                                                    le site de <a href="https://www.producthunt.com">Product Hunt</a>.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/HamzaKarfa/simplon-tp-product-hunt"
@@ -196,31 +196,21 @@
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Le projet contient une API faite avec de la POO PHP, cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
+                                            Le projet contient une API faite en Programmation Orientée Object PHP. Cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
                                             <br> 
                                             Les produits sont dynamiquement affichés grâce au requetes Java Script et triés en PHP grâce la base de données MySQL.
                                             <br>
                                             Enfin le design du site est réalisé avec la librairie Bootstrap.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                        <p>Je n'ai pas encore vraiment commencé de projet personnel.
+                                            Je pense débuter prochainement un projet que je présenterai lors de mon examen de fin de formation.
+                                        </p>   
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+
                                             </ul>
                                     </div>
                                 </div>
