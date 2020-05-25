@@ -101,7 +101,7 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="library\img-placeholder.png" alt="Card image">
+                                        src="library\CD-Profile.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3 style="text-align:center;">Développeur Web et Mobile</h3>
@@ -187,7 +187,7 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">.../h4>
+                                                <h4 class="card-title">...</h4>
                                                 <p class="card-text">
                                                     ...</a>. ...
                                                 </p>
@@ -213,9 +213,6 @@
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Docker</p>
