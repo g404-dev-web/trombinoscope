@@ -204,4 +204,4 @@
 </div>
 <!-- end of card Gregory Szucs -->
 
->>>>>>> 8cf239e5beb5b934e282c8e1dfabcfbb0022b21d
+
