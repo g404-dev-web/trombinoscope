@@ -44,8 +44,8 @@
         </div>
     </a>
 </div>
-<<<<<<< HEAD
-=======
+
+
 
 
 <!-- /COPIER CE BLOC -->
