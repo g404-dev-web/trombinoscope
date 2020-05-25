@@ -1,0 +1,20 @@
+.section-parallax {
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.nav-tabs .nav-link {
+    color:#fff;
+}
+.nav-tabs .nav-link.active {
+    background-color: #f3f3f3 !important;
+    border-bottom-color: black;
+}
+
+.liens {
+    margin-top: 2%;
+}
+
+.logo {
+    height: 22px;
+}
