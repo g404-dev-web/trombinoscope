@@ -11,12 +11,12 @@
         </div>
     </a>
 </div>
-<<<<<<< HEAD
+
 <!-- /COPIER CE BLOC -->
-=======
+
 
 <!-- CARD Celine -->
->>>>>>> 8cf239e5beb5b934e282c8e1dfabcfbb0022b21d
+
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/celine-leroux">
         <div class="card project">
