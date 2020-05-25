@@ -51,9 +51,9 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/usher_kadio">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="../promo3/usher_kadio/images/profil-pic_2.jpg" alt="Card
-            image">
-            <div class="card-body p-0">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/usher_kadio/images/usher_pic3.jpg"
+                 alt="usher pic">
+            <div class="card-body p-0 mb-3">
                 <p class="mt-3 mb-1">
                     <b>Usher Kadio</b>
                 </p>
@@ -62,7 +62,7 @@
     </a>
 </div>
 <!-- ======================= END OF USHER CARD ========================== -->
-                  
+
 <!-- CARD Maureen  -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/maureen-depresle">
@@ -107,7 +107,7 @@
     </a>
 </div>
 <!-- FIN CARD MATTHIAS -->
-              
+
 <!-- veronique FOREST-->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="./promo3/Forest_Véronique">
@@ -197,4 +197,5 @@
 </a>
 </div>
 <!-- end of card Gregory Szucs -->
+
 

@@ -4,8 +4,9 @@
 }
 
 .nav-tabs .nav-link {
-    color:#fff;
+    color: #fff;
 }
+
 .nav-tabs .nav-link.active {
     background-color: #f3f3f3 !important;
     border-bottom-color: black;
@@ -13,8 +14,58 @@
 
 .liens {
     margin-top: 2%;
+
 }
 
 .logo {
     height: 22px;
+
+}
+
+/*====MEDIA QUERIES ====*/
+@media screen and (max-width: 768px) {
+
+    .profil_main-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .profil_content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .citation,.more-info{
+        display: none;
+    }
+
+}
+@media screen and (max-width: 992px) {
+.contact-contain{
+
+
+}
+}
+
+/*============================*/
+.projet_link{
+    cursor: pointer;
+    text-decoration: none;
+    animation: bounce 2s ease infinite;
+    transition: all 0.2s;
+}
+/*==== MY ANIMATION =====*/
+@keyframes bounce {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.2);
+
+    }
+    100%{
+        transform: scale(1);
+
+    }
 }
