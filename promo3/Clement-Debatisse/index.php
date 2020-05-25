@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "esther.itam@live.fr";
+    $email = "clementdebatisse1996@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Clément Debatisse - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Esther Itam</h1>
-                    <h3 class="my-0">Développeur web</h3>
+                    <h1 class="display-4 mb-0">Clément Debatisse</h1>
+                    <h3 class="my-0">Développeur web et web mobile junior</h3>
                 </div>
             </div>
         </div>
@@ -101,55 +101,63 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="./images/portrait.jpg" alt="Card image">
+                                        src="library\CD-Profile.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3 style="text-align:center;">Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
-                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
-                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
-                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
-                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
-                                        de mes nouveaux savoirs.                     
+                                    <p> Bonjour... Pour me présenter, je vais tout d'abord énoncer mon parcours, un parcours qui n'est pas forcément aytpique, mais qui présente tout de même quelques singularités.<br><br>
+                                        Mon cursus scolaire s'est arrêté à une Terminale Economique et Sociales, suite à laquelle j'ai obtenu mon certificat de fin d'études secondaires (niveau BAC).<br>
+                                        Pour des raisons personelles, je me suis par la suite écarté du système scolaire, enchaînant petits boulots et intérim. Ce n'est que l'année dernière (2019), que je me suis intéressé au domaine
+                                        du développement web. <br><br>
+                                        J'ai donc tenté la Piscine de l'école 42 à Lyon, qui m'a apporté des connaissances de bases en développement, mais qui majoritairement, m'a permis de me "remettre dans le bain" d'un
+                                        système d'apprentissage scolaire.<br><br>
 
+                                        <h3 style="text-align:center;">Compétences</h3>
+                                        Titulaire du TOEIC®, je certifie d'un excellent niveau en anglais, tant à l'oral qu'à l'écrit. La majorité du contenu que je consulte pendant ma formation est en anglais, et dans mon temps
+                                        libre, la majorité du contenu que je consulte est aussi en anglais.
+                                        
+                                    </p>
+                                    <p>
+                                        "Simplon connu"
+                                        <br><br>
+                                        "Opportunité de simplon"<br>
+                                        "Connaissances, acquis en ..."
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                        L'ignorant affirme, le savant doute, le sage réfléchit.
-                                            <cite>Aristote</cite>
+                                            Choisissez un travail que vous aimez, et vous n'aurez pas à travailler un seul jour de votre vie.
+                                            <cite>Confucius</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                        Les routes les plus difficiles mènent aux plus belles destinations.
-                                            <cite>Anonyme</cite>
+                                            S'aimer soi-même est le début d'une histoire d'amour qui durera toute une vie.
+                                            <cite>Oscar Wilde</cite>
                                         </div>
                                     </div>
-                                    
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            Dans la vie on ne fait pas ce que l'on veut, mais on est responsable de ce que l'on est.
+                                            <cite>Jean-Paul Sartre</cite>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                        <a href="https://github.com/clementdebatisse" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                        <a href="https://www.linkedin.com/in/cl%C3%A9ment-debatisse-4975901aa/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                       <!-- <a href="#"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
-                                        </a>-->
                                     </div>
                                 </div>
                             </div>
@@ -169,58 +177,55 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Site de présentation</h4>
-                                                <p class="card-text">
-                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
-                                                </p>
+                                                <h4 class="card-title">Product-Hunt</h4>
+                                                <p class="card-text">Tout premier projet après 1 mois de formation, réalisé en binôme et en quelques jours, m'ayant permis d'apprendre à travailler sur le même workflow, avec Github. 
+                                                    Projet commencé avec le CMS Wordpress, puis recommencé from scratch avec l'aide du Framework Bootstrap et de mes connaissances personelles en front-end et back-end. </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    href="https://github.com/clementdebatisse/CD-MB-ProductHunt"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Product Hunt</h4>
+                                                <h4 class="card-title">...</h4>
                                                 <p class="card-text">
-                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                    ...</a>. ...
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
+                                                    href="..."
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Mini chat</h4>
+                                                <h4 class="card-title">...</h4>
                                                 <p class="card-text">
-                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
+                                                    ...
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
+                                                    href="..."
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
-                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                                                            
-                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        <p>
                                         </p>
-                                        <p>(voir projet Product Hunt)</p>  
-                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
-                                        <p>(voir projet Product Hunt)</p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX</p>
-                                        <p>(voir projet mini chat)</p> 
-                                        <p class="lead">Programmation Orientée Objet en PHP</p>
-                                        <p>(voir projet Product Hunt)</p> 
-
-                                       
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Docker</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <h3>Projets personnels</h3>
+                                        <p>....<span
+                                                title="Work In Progress">W.I.P</span> tels que :
+                                            <br>
+                                            <ul>
+                                                <li>...</li>
+                                                <li>...</li>
+                                                <li>...</li>
+                                            </ul>
                                     </div>
                                 </div>
                                 <hr>
@@ -244,7 +249,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                            <b>Téléphone</b> : <a href="tel:0643542427">06 43 54 24 27</a>
                                         </li>
                                     </ul>
                                 </div>

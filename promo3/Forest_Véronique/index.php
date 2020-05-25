@@ -3,9 +3,10 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "esther.itam@live.fr";
+    $email = "xvforest@orange.fr";
 
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -13,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Véronique FOREST - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +58,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Esther Itam</h1>
-                    <h3 class="my-0">Développeur web</h3>
+                    <h1 class="display-4 mb-0">Véronique Forest</h1>
+                    <h3 class="my-0">Développeur Web et Mobile</h3>
                 </div>
             </div>
         </div>
@@ -101,55 +102,64 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="./images/portrait.jpg" alt="Card image">
+                                        src="./pictures/vf.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
-                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
-                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
-                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
-                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
-                                        de mes nouveaux savoirs.                     
+                                    <p>Passionnée d'informatique et du Web en général, me voici en formation à Simplon
+                                        <br><br>
+                                        Diplômée en comptabilité (DECF) depuis 1998, j'ai exercé cette activité en tant que collaboratrice comptable en cabinet d'expertise comptable durant 10 ans puis en tant que directrice financière durant les 10 dernières années.<br>
+                                        En 2017, je commence une démarche de réflexion sur mon avenir professionnel. Il en est ressorti un profond intérêt pour le Web en général et plus particulièrement le développement Web.
+                                    </p>
+                                    <p>
+                                        C'est pourquoi, j'ai décidé de me reconvertir dans ce domaine.Début 2020, l'opportunité d'intégrer la formation Simplon s'est offerte à moi. Depuis le 1er avril 2020, je suis officiellement apprenante à Simplon.
+                                        <br><br>
+                                        Sortir de ma zone de confort, quitter un poste de management, je pense que ce parcours en dit long sur ma motivation! <br>
+                                        Mon envie d' apprendre alliée à mes compétences acquises lors de mes précédentes expèriences feront de moi votre future collaboratrice. 
+                                        
 
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                        L'ignorant affirme, le savant doute, le sage réfléchit.
-                                            <cite>Aristote</cite>
+                                           La vraie générosité envers l'avenir consiste à tout donner au présent.
+                                            <cite>Albert Camus</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                        Les routes les plus difficiles mènent aux plus belles destinations.
-                                            <cite>Anonyme</cite>
+                                            Gardez toutjous à l'esprit que votre propre décision de réussir est plus importante que n'importe quoi d'autre.
+                                            <cite>Abraham Lincoln</cite>
                                         </div>
                                     </div>
-                                    
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            Si tu diffères de moi, mon frère, loin de me lèser, tu m'enrichis.
+                                            <cite>Antoine de St Exupéry</cite>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                        <a href="https://github.com/VEROFOREST" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                        <a href="https://www.linkedin.com/in/v%C3%A9ronique-forest-784a38159/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                       <!-- <a href="#"
+                                        <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>-->
+                                        </a> -->
                                     </div>
                                 </div>
                             </div>
@@ -168,59 +178,73 @@
                                 <div class="row">
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
+                                            <!-- <div class="card-body">
+                                                <h4 class="card-title">SASS Training</h4>
+                                                <p class="card-text">Exercice d'entrainement avec
+                                                    pour objectif d'obtenir un fichier SASS
+                                                    reproduisant un fichier CSS.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
+                                                    target="_blank">Voir le projet</a>
+                                            </div> -->
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Site de présentation</h4>
+                                                <h4 class="card-title">Clône Instagram</h4>
                                                 <p class="card-text">
-                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
+                                                    Projet effectué en duo avec Matthias Pellacoeur.<br> 
+                                                    L'objectif était de reproduire
+                                                    les fonctionnalités principales du réseau social Instagram, à savoir : <br>
+                                                    <li>se loguer et se déconnecter</li>
+                                                    <li> mettre à jour un fil d'actualité en classant les images des plus récentes aux plus anciennes</li>
+                                                    <li>uploader une image</li>
+                                                    <li>ajouter des commentaires et les mettre à jour.</li>
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    href="https://github.com/VEROFOREST/project-clone-instagram"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Product Hunt</h4>
+                                                <h4 class="card-title">Bootstrap Training</h4>
                                                 <p class="card-text">
-                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                    Exercice d'intégration utilisant le framework
+                                                    Bootstrap. L'objectif était de reproduire un
+                                                    site fidèle au modèle fourni en png.
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Mini chat</h4>
-                                                <p class="card-text">
-                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
-                                                    target="_blank">Voir le projet</a>
+                                                <!-- <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HeathSilcox/OneMillionLines"
+                                                    target="_blank">Voir le projet</a> -->
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
-                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
+                                        <h3>Compétences en cours d'acquisition</h3>
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                                                            
-                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        <p>
+                                            Le mini chat est composé d'une interface en HTML, CSS et
+                                            Javascript. <br> Les messages sont dynamiquement envoyés
+                                            et affichés en PHP grâce la base de données MySQL.
                                         </p>
-                                        <p>(voir projet Product Hunt)</p>  
-                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
-                                        <p>(voir projet Product Hunt)</p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX</p>
-                                        <p>(voir projet mini chat)</p> 
-                                        <p class="lead">Programmation Orientée Objet en PHP</p>
-                                        <p>(voir projet Product Hunt)</p> 
-
-                                       
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <h3>Projets personnels</h3>
+                                        <p>Afin d'améliorer mes compétences dans l'ensemble des domaines abordés au cours de la formation, je souhaite créer un site pouvant évoluer à chaque étape de ma formation.
+                                                <!-- <br>
+                                            <ul>
+                                                <li>un script utilisant une API météo.
+                                                    (<i>openweathermap</i>)</li>
+                                                <li>un <i>viewer</i> d'images, on importe un dossier
+                                                    de photos et on parcourt les images.</li>
+                                                <li>un script d'image <i>recognition</i> qui
+                                                    parcourt un screenshot à la recherche d'éléments
+                                                    prédéfinis et en extrait des données grâce à
+                                                    plusieurs outils dont : <b>pixfinder</b>,
+                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
+                                                    outil de <b>crop</b>.</i></li>
+                                            </ul> -->
                                     </div>
                                 </div>
                                 <hr>
@@ -244,7 +268,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                            <b>Téléphone</b> : <a href="tel:0606060606">06 83 30 30 40</a>
                                         </li>
                                     </ul>
                                 </div>

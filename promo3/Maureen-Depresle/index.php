@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "esther.itam@live.fr";
+    $email = "maureen.depresle@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Maureen Depresle - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Esther Itam</h1>
-                    <h3 class="my-0">Développeur web</h3>
+                    <h1 class="display-4 mb-0">Maureen Depresle</h1>
+                    <h3 class="my-0">Développeuse front-end</h3>
                 </div>
             </div>
         </div>
@@ -101,55 +101,76 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="./images/portrait.jpg" alt="Card image">
+                                        src="img/avatar-maureen.png" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3>Développeuse Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
-                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
-                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
-                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
-                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
-                                        de mes nouveaux savoirs.                     
+                                    <p>Je suis passionnée par les nouvelles technologies depuis déjà plusieurs années,
+                                        notamment par la technologie mobile et l'informatique.<br><br>
+                                        N'étant pas particulièrement intéressée par le cursus scolaire classique,
+                                        j'ai choisi après ma seconde générale de faire une pause pour tenter l’aventure
+                                        de la vie active.
+                                        Apres quelques années à faire des 'jobs alimentaires' peu stimulant à mon gout,
+                                        j’ai décidée de faire le point et de trouver un métier en lien avec ma passion pour l'informatique.
 
+                                    </p>
+                                    <p>
+                                        Depuis le 1er octobre 2018, j'ai entamée une reconversion professionnelle
+                                        pour devenir développeuse web au sein du centre de formation de ma ville.
+                                        Etant un format très court lors de celle-ci, nous avions fait que du survol des compétences
+                                        nécessaires pour faire ce métier.
+                                        Mais Cela m'a permis de me conforter dans l'idée que le codage serait pour moi un "métier passion" !
+                                        J'ai donc naturellement décidée de me relancer dans l’aventure d'une nouvelle formation
+                                        qui enrichirait et développerait les compétences acquises dans la première.
+
+                                        <br><br>
+                                        Résultat me voilà ici prête à apprendre et évoluer !
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                        L'ignorant affirme, le savant doute, le sage réfléchit.
-                                            <cite>Aristote</cite>
+                                            Il n'y a qu'une chose qui puisse rendre un reve impossible,
+                                            c'est la peur d'échouer. <br>
+                                            <cite>Paulo Coelho</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                        Les routes les plus difficiles mènent aux plus belles destinations.
-                                            <cite>Anonyme</cite>
+                                            Il faut travailler et faire ce que l'on peut, et pour le reste,
+                                            tout prendre avec légèreté et bonne humeur.
+                                            On ne se rend pas la vie meilleure en étant amer. <br>
+                                            <cite>Rosa Luxembourg,
+                                                Rosa la vie</cite>
                                         </div>
                                     </div>
-                                    
+                                  <!--  <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            In medio stat virtus.
+                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                        </div>
+                                    </div>-->
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                        <a href="https://github.com/maureen69170" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                        <a href="https://www.linkedin.com/in/maureen-depresle-8ab839173/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                       <!-- <a href="#"
+                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>-->
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -167,60 +188,74 @@
                                 <!-- One project -->
                                 <div class="row">
                                     <div class="col-4">
+                                       <!-- <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">SASS Training</h4>
+                                                <p class="card-text">Exercice d'entrainement avec
+                                                    pour objectif d'obtenir un fichier SASS
+                                                    reproduisant un fichier CSS.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>-->
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Site de présentation</h4>
+                                                <h4 class="card-title">Ass tram gram</h4>
                                                 <p class="card-text">
-                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
+                                                    Project effectué en duo avec <a
+                                                        href="../Victoria-Lasnon/index.php">Victoria
+                                                        Lasnon</a>. L'objectif était de reproduire
+                                                    les fonctionnalités principales en version web de l'application Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    href="https://github.com/maureen69170/insta-clone"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-                                        <div class="bg-dark text-white text-center card">
+                                        <!--<div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Product Hunt</h4>
+                                                <h4 class="card-title">Bootstrap Training</h4>
                                                 <p class="card-text">
-                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                    Exercice d'intégration utilisant le framework
+                                                    Bootstrap. L'objectif était de reproduire un
+                                                    site fidèle au model fourni en png.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
+                                                    href="https://github.com/HeathSilcox/OneMillionLines"
                                                     target="_blank">Voir le projet</a>
                                             </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Mini chat</h4>
-                                                <p class="card-text">
-                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
+                                        </div>-->
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
-                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                                                            
-                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        <p>
+                                            Le mini chat est composé d'une interface en HTML, CSS et
+                                            Javascript. <br> Les messages sont dynamiquement envoyés
+                                            et affichés en PHP grâce la base de données MySQL.
                                         </p>
-                                        <p>(voir projet Product Hunt)</p>  
-                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
-                                        <p>(voir projet Product Hunt)</p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX</p>
-                                        <p>(voir projet mini chat)</p> 
-                                        <p class="lead">Programmation Orientée Objet en PHP</p>
-                                        <p>(voir projet Product Hunt)</p> 
-
-                                       
+                                        <p class="lead">Utilisation de Git</p>
+                                        <!--<p class="lead">Utilisation de Docker</p>-->
+                                        <p class="lead">Utilisation de PhpStorm</p>
+                                        <h3>Projets personnels</h3>
+                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
+                                            j'ai plusieurs projets en <span
+                                                title="Work In Progress">W.I.P</span> tels que :
+                                            <br>
+                                            <ul>
+                                                <li>un script utilisant une API météo.
+                                                    (<i>openweathermap</i>)</li>
+                                                <li>un <i>viewer</i> d'images, on importe un dossier
+                                                    de photos et on parcourt les images.</li>
+                                                <li>un script d'image <i>recognition</i> qui
+                                                    parcourt un screenshot à la recherche d'éléments
+                                                    prédéfinis et en extrait des données grâce à
+                                                    plusieurs outils dont : <b>pixfinder</b>,
+                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
+                                                    outil de <b>crop</b>.</i></li>
+                                            </ul>
                                     </div>
                                 </div>
                                 <hr>
@@ -244,7 +279,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                            <b>Téléphone</b> : <a href="tel:0613204581">06 13 20 45 81</a>
                                         </li>
                                     </ul>
                                 </div>

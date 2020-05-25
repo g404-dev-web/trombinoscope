@@ -8,7 +8,7 @@
 }
 .nav-tabs .nav-link.active {
     background-color: #f3f3f3 !important;
-    border-bottom-color: rgb(0, 0, 0);
+    border-bottom-color: black;
 }
 
 .liens {
@@ -18,4 +18,12 @@
 .logo {
     height: 22px;
 }
+/* 
+#matthiasPellacoeur{
+    transition: ;
+} */
 
+#matthiasPellacoeur:hover{
+    transform: rotate3d(1, 1, 1, 360deg);
+    transition: ease-in-out 1s;
+}

@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "esther.itam@live.fr";
+    $email = "shivalita@pm.me";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Esther Itam</h1>
-                    <h3 class="my-0">Développeur web</h3>
+                    <h1 class="display-4 mb-0">Perle Mathias</h1>
+                    <h3 class="my-0">Développeuse Back-End</h3>
                 </div>
             </div>
         </div>
@@ -101,55 +101,78 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="./images/portrait.jpg" alt="Card image">
+                                        src="./img/perle.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3>Future Développeuse Back-End</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
-                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
-                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
-                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
-                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
-                                        de mes nouveaux savoirs.                     
-
+                                    <p>
+                                        Passionnée d'informatique depuis 20 ans, j'entretiens une 
+                                        relation privilégiée avec cet outil. J'ai occupé un poste de 
+                                        conseillère en dépannage internet, et assuré un rôle de soutien 
+                                        dans un service informatique. Dans ce dernier emploi, j'ai reçu 
+                                        une 1ère initiation à la programmation via des requêtes sur base 
+                                        de données SQL, expérience qui m'a beaucoup plu.
+                                    </p>
+                                    <p>
+                                        Durant la période d'inactivité professionnelle qui a suivi, 
+                                        j'ai découvert la programmation via le langage Python.
+                                        Le coup de foudre pour l'algorithmie ayant été aussi immédiat 
+                                        qu'absolu, je me suis initiée aux bases de la programmation en 
+                                        autodidacte. Ayant pris la décision de faire de cette passion mon 
+                                        métier, je me suis alors rapidement tournée vers JavaScript, qui 
+                                        semblait mieux correspondre à mes objectifs professionnels.
+                                    </p>
+                                    <p>
+                                        J'ai récemment eu la chance d'intégrer la 
+                                        fabrique Simplon pour me former au métier de développeuse. En plus 
+                                        des diverses aptitudes techniques, j'ai pu développer des compétences 
+                                        variées telles que la gestion de projet, ou l'utilisation de la 
+                                        documentation et des forums. Mon niveau d'anglais est suffisamment avancé 
+                                        pour exploiter ces ressources, et s'améliore de jour en jour grâce à une 
+                                        pratique intensive. J'ai encore beaucoup à apprendre, mais Simplon m'a 
+                                        enseigné comment apprendre, et cela me sera utile tout au long de ma carrière.
+                                    </p>
+                                    <p>
+                                        Outre ma passion dévorante pour le développement, je possède quelques traits 
+                                        plutôt utiles dans ce métier. Vous l'avez compris, c'est l'instant promo !</br>
+                                        Je suis profondément rigoureuse, et je m'efforce de développer un code 
+                                        clair, cohérent, et respectueux des normes (en un mot : propre). 
+                                        J'ai un bon sens de la communication et je suis toujours ravie d'apporter 
+                                        mon aide, je m'intègre donc très bien au travail en équipe. Je suis 
+                                        infiniment curieuse et j'adore apprendre, un trait de caractère plutôt bienvenu 
+                                        dans un domaine en constante évolution. Enfin, je suis dotée d'une persévérance à 
+                                        toute épreuve, un atout certain dans un métier qui exige une grande ténacité. 
+                                        Je fais aussi d'excellents gâteaux.  
                                     </p>
                                     <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
+                                        <p class="mb-2">Citation</p>
                                         <div class="blockquote-footer">
-                                        L'ignorant affirme, le savant doute, le sage réfléchit.
-                                            <cite>Aristote</cite>
+                                            Un problème sans solution est un problème mal posé.
+                                            <cite>Albert Einstein</cite>
                                         </div>
                                     </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                        Les routes les plus difficiles mènent aux plus belles destinations.
-                                            <cite>Anonyme</cite>
-                                        </div>
-                                    </div>
-                                    
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                        <a href="https://github.com/HeathSilcox" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                       <!-- <a href="#"
+                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>-->
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -169,58 +192,62 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Site de présentation</h4>
+                                                <h4 class="card-title">Client Deezer</h4>
                                                 <p class="card-text">
-                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
+                                                    Projet réalisé en duo avec</br><a
+                                                        href="../Coatmeur-Audrene/index.html">Audrène 
+                                                        Coatmeur</a></br></br>
+                                                        L'objectif était de réaliser une web app de musique offrant un lecteur 
+                                                        audio complet fonctionnant avec l'API Deezer.</br></br>
+                                                        Ce projet a développé des compétences variées, allant de l'exploitation 
+                                                        d'une API à la programmation asynchrone, en passant par la 
+                                                        gestion de projet et la conception d'une interface ergonomique.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    href="https://github.com/Shivalita/project-audio-player"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-                                        <div class="bg-dark text-white text-center card">
+
+                                        <div class="bg-dark text-white text-center card mt-3">
                                             <div class="card-body">
-                                                <h4 class="card-title">Product Hunt</h4>
+                                                <h4 class="card-title">Mini-chat</h4>
                                                 <p class="card-text">
-                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                        L'objectif était de concevoir un chat ayant un affichage dynamique.</br></br>
+                                                        Ce TP a initié mes compétences en programmation asynchrone, et m'a 
+                                                        permis de consolider mes acquis en HTML, CSS, PHP et MySQL.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Mini chat</h4>
-                                                <p class="card-text">
-                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
+                                                    href="https://github.com/Shivalita/Minichat"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
+                        
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
-                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
+                                        <h3 class="mb-2">Compétences acquises</h3>
+                                        <p class="lead mb-4">Créer des pages web en HTML, CSS, JavaScript, PHP et
                                             MySQL</p>
-                                                                            
-                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        <p>
+                                            Les fonctionnalités du lecteur audio sont conçues "from scratch" en JavaScript.<br><br>
+                                            L'affichage est géré dynamiquement par JavaScript, qui effectue des 
+                                            requêtes vers l'API Deezer pour récupérer le contenu musical et les 
+                                            données associées.<br>
+                                            JavaScript se charge également de faire transiter ces données vers des pages 
+                                            de traitement PHP, qui exécutent des requêtes SQL et renvoient l'affichage 
+                                            de la partie "commentaires" du site.<br>
+                                            Le système de playlists quant à lui est conçu en Programmation Orientée Objet PHP.</br><br>  
+                                            Le tout se déroule de manière asynchrone via des requêtes fetch.<br>
+                                            L'ensemble des fonctionnalités se déploie sur une unique page dont le 
+                                            contenu est rafraîchi sans rechargement, ce qui permet notamment une 
+                                            continuité dans la lecture de la musique.</br><br>
+                                            CSS apporte enfin à l'ensemble un design cohérent et une 
+                                            identité visuelle.</br><br>
+                                            
                                         </p>
-                                        <p>(voir projet Product Hunt)</p>  
-                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
-                                        <p>(voir projet Product Hunt)</p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX</p>
-                                        <p>(voir projet mini chat)</p> 
-                                        <p class="lead">Programmation Orientée Objet en PHP</p>
-                                        <p>(voir projet Product Hunt)</p> 
-
-                                       
+                                        <p class="lead mt-4">Utilisation de Trello et Wireframe</p>
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
                                     </div>
                                 </div>
                                 <hr>
@@ -244,7 +271,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                            <b>Téléphone</b> : <a href="tel:0624100023">06 24 10 00 23</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "esther.itam@live.fr";
+    $email = "audrene.coatmeur@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Coatmeur Audrene - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Esther Itam</h1>
-                    <h3 class="my-0">Développeur web</h3>
+                    <h1 class="display-4 mb-0">Coatmeur Audrène</h1>
+                    <h3 class="my-0">Développeuse full-stack</h3>
                 </div>
             </div>
         </div>
@@ -100,56 +100,68 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3"
-                                        src="./images/portrait.jpg" alt="Card image">
+                                    <img id="audrene" class="img-fluid rounded-circle p-3"
+                                        src="img/photo.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
-                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
-                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
-                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
-                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
-                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
-                                        de mes nouveaux savoirs.                     
-
+                                    <h3>Développeuse Web et Mobile</h3>
+                                    <p class="lead">
+                                        <b>Qui suis-je?</b> Audrène Coatmeur, bretonne loin de chez elle.
+                                        J'aime lire, écrire, et regarder des séries en anglais. Enchantée!
                                     </p>
-                                    <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
-                                        <div class="blockquote-footer">
-                                        L'ignorant affirme, le savant doute, le sage réfléchit.
-                                            <cite>Aristote</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                        Les routes les plus difficiles mènent aux plus belles destinations.
-                                            <cite>Anonyme</cite>
-                                        </div>
-                                    </div>
-                                    
+                                    <p class="lead">
+                                        <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
+                                        référencement internet aux professionnels. Entre garder un métier qui ne me 
+                                        passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
+                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé!
+                                    </p>
+                                    <p class="lead">
+                                        <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
+                                        que j'ai appris avec Simplon me plaît, je n'ai pas de petit préféré. Si ça change, 
+                                        je vous tiendrai au courant!
+                                    </p>
+                                    <h3>
+                                        Compétences acquises :
+                                    </h3>
+                                    <ul>
+                                        <li>
+                                            <p>Créer des pages web avec HTML et CSS</p>
+                                        </li>
+                                        <li>
+                                            <p>Utiliser Bootstrap et ses classes</p>
+                                        </li>
+                                        <li>
+                                            <p>Créer une base de données et gérer des requêtes SQL</p>
+                                        </li>
+                                        <li>
+                                            <p>Traiter des données et les passer d'une page à l'autre avec PHP</p>
+                                        </li>
+                                        <li>
+                                            <p>Afficher du contenu dynamique avec des fonctions asynchrones JS</p>
+                                        </li>
+                                    </ul>
+                                    <h3>
+                                        Compétences en cours d'acquisition :
+                                    </h3>
+                                    <ul>
+                                        <li>
+                                            <p>Programmation orientée objet</p>
+                                        </li>
+                                    </ul>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                        <a href="https://github.com/Audrene-C" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                        <a href=""
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                       <!-- <a href="#"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
-                                        </a>-->
                                     </div>
                                 </div>
                             </div>
@@ -169,58 +181,64 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Site de présentation</h4>
-                                                <p class="card-text">
-                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
-                                                </p>
+                                                <h4 class="card-title">Un client Deezer</h4>
+                                                <p class="card-text">Premier projet chez Simplon, 
+                                                    en binôme avec <a href="../../promo3/Mathias-Perle">Perle Mathias</a>, 
+                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer. 
+                                                    Requêtes SQL, un peu de PHP, et beaucoup de
+                                                    fonctions asynchrones JS!</p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    href="https://github.com/Audrene-C/project-audio-player"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Product Hunt</h4>
+                                                <h4 class="card-title">A venir!</h4>
                                                 <p class="card-text">
-                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                    Please come back later!
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
+                                                    href=""
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Mini chat</h4>
+                                                <h4 class="card-title">A venir!</h4>
                                                 <p class="card-text">
-                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
+                                                    Please come back later!
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
+                                                    href=""
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
-                                        <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
-                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
-                                            MySQL</p>
-                                                                            
-                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        <h3>Projets Simplon</h3>
+                                        <p class="lead">
+                                            Client Deezer :
                                         </p>
-                                        <p>(voir projet Product Hunt)</p>  
-                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
-                                        <p>(voir projet Product Hunt)</p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX</p>
-                                        <p>(voir projet mini chat)</p> 
-                                        <p class="lead">Programmation Orientée Objet en PHP</p>
-                                        <p>(voir projet Product Hunt)</p> 
-
-                                       
+                                        <p>
+                                            Le projet repose majoritairement sur JS, car à chaque chanson, album ou 
+                                            playlist jouée, une fonction asynchrone récupère les données de l'API Deezer 
+                                            et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
+                                            Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
+                                            créé notre base de données en conséquence.
+                                        </p>
+                                        <h3>Projets personnels</h3>
+                                        <p>
+                                            Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
+                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
+                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
+                                        </p>
+                                        <p>
+                                            Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
+                                            est-il possible que j'ai un peu outrepassé les consignes pour rajouter quelques 
+                                            propriétés et méthodes, pour voir jusqu'où je pouvais pousser les choses. Pour 
+                                            voir mes expériences, c'est <a href="https://github.com/Audrene-C/tp-rpg">par là</a>.
+                                        </p>
                                     </div>
                                 </div>
                                 <hr>
@@ -244,7 +262,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                            <b>Téléphone</b> : <a href="tel:0606060606">06 58 09 81 48</a>
                                         </li>
                                     </ul>
                                 </div>
