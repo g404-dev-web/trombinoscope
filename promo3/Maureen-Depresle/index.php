@@ -101,7 +101,7 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="img/avatar-maureen.png" alt="Card image">
+                                        src="img/maureen.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeuse Web et Mobile</h3>
@@ -165,12 +165,12 @@
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
+                                       <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                             </div>
