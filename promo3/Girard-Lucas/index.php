@@ -100,7 +100,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3"
+                                    <img id="lucas" class="img-fluid rounded-circle p-3"
                                         src="img\lucas2.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
