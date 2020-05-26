@@ -14,7 +14,7 @@
 <!-- /COPIER CE BLOC -->
 
 
-<!-- COPIER CE BLOC -->
+<!-- CARD Maureen -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Maureen-Depresle">
         <div class="card project">
@@ -27,4 +27,4 @@
         </div>
     </a>
 </div>
-<!-- /COPIER CE BLOC -->
+<!-- /CARD Maureen -->
