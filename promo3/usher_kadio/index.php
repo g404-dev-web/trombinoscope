@@ -166,7 +166,14 @@ $email = "kadiousherxavier@gmail.com";
                                           Mobile</p>
                                       <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’as permis de connaître les bases du développement ( en C et C++).
                                        <br> <br>Suite à cette formation j’ai travaillé pendant un an  dans un bureau
-                                       d’études avant que ma passion pour le développement web ne soit plus forte .Après une rupture conventionnelle je décide donc de me lancer pleinement dans une formation et mon choix se tourne logiquement vers l’école Simplon car se situant à Roanne .
+                                       d’études avant que ma passion pour le développement
+                                       web ne soit plus forte .Après une rupture
+                                       conventionnelle je décide donc de me lancer
+                                       pleinement dans une formation et mon choix se tourne
+                                       logiquement vers l’école Simplon au vue du retour
+                                       positif des anciens apprenants et après des
+                                       entretiens beaucoup fructueux avec les formateurs.
+                                       <d.
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
@@ -175,7 +182,8 @@ $email = "kadiousherxavier@gmail.com";
                                        formation me
                                        conforte
                                        dans mon
-                                       choix et je prend un réel plaisir à acquérir apprendre ce métier .
+                                       choix et je prend un réel plaisir à acquérir de
+                                       nouvelles connaissances dans ce métier .
                                           <br><br>
                                           Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                       </p>
@@ -196,13 +204,7 @@ $email = "kadiousherxavier@gmail.com";
                                               <cite>Proverbe africain</cite>
                                           </div>
                                       </div>
-                                      <div class = "blockquote">
-                                          <div class = "blockquote-footer">
-                                              Mieux vaut marcher sans savoir où aller que rester assis sans rien faire .
-                                                                                          <cite>Proverbe africain</cite>
 
-                                          </div>
-                                      </div>
                                       </div>
                                   </div>
 
@@ -222,39 +224,6 @@ $email = "kadiousherxavier@gmail.com";
                               <section class = "project py-4">
                                   <!-- One project -->
                                   <div class = "row">
-
-                                    <div class = "card mb-3">
-                                          <div class = "row no-gutters">
-                                                 <div class = "col-md-4">
-                                                       <div class = "bg-dark text-white text-center card">
-                                                          <div class = "card-body">
-                                                             <h4 class = "card-title">Bootstrap Training</h4>
-                                                             <p class = "card-text">
-                                                               Exercice d'intégration utilisant le framework
-                                                               Bootstrap lors de nos deux premières
-                                                                semaines en formation. L'objectif
-                                                                était de prendre en main ce framework
-                                                             </p>
-                                                             <a class = "btn btn-lg
-                                                             btn-outline-warning m-2"
-                                                                href = "https://github.com/Kadev0502/the-mountain_usherK"
-                                                                target = "_blank">Voir le projet</a>
-                                                          </div>
-                                                      </div>
-                                                 </div>
-                                                <div class = "col-md-8">
-                                                   <div class = "card-body">
-                                                   <h5 class = "card-title">Compétences acquises</h5>
-                                                   <p class = "card-text">Utilisation d'un
-                                                    framework pour améliorer le front d'une
-                                                    page web en plus des connaissances
-                                                    acquises en HTML et CSS.
-                                                   </p>
-                                                </div>
-                                            </div>
-                                          </div>
-                                    </div>
-
 
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
@@ -305,7 +274,7 @@ $email = "kadiousherxavier@gmail.com";
                                                              <h4 class = "card-title">QuizzApp</h4>
                                                              <p class = "card-text">
                                                                Project effectué en duo avec <a
-                                                                 href = "#
+                                                                 href = "../celine-leroux/
                                                                     ">Céline Leroux</a>. L'objectif était de
                                                                  reproduire
                                                                     les fonctionnalités principales d'un
