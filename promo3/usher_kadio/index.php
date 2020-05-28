@@ -371,7 +371,9 @@ $email = "kadiousherxavier@gmail.com";
                                               <div class = "bg-info text-white text-center py-2">
                                                   <h3><i class = "fa fa-envelope mr-2"></i>Envoyez moi un
                                                    mail</h3>
-                                                  <p class = "m-0">C'est avec plaisir que je vous répondrez</p>
+                                                  <p class = "m-0">C'est avec
+                                                                   plaisir que je
+                                                                   vous répondrai</p>
                                               </div>
                                           </div>
                                           <div class = "card-body p-3">
