@@ -204,4 +204,3 @@
 </div>
 <!-- end of card Gregory Szucs -->
 
-
