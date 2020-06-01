@@ -20,6 +20,11 @@
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
+
+        <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="styles.css">
     <!-- scss 
@@ -103,22 +108,22 @@
                                     <img class="img-fluid rounded-circle p-3"
                                         src="https://media-exp1.licdn.com/dms/image/C4D03AQHVdkIXYcnWMg/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=DFKHunYkD5caK_R4Gv11MDuWjRPYgfx4XKWWp_nV02s"  width="300" height="300" alt="Card image">
                                     <div class="mb-0">
-                                    <b class="lead">Liens :</b>
+                                    
                                         <div class="liens">
-                                        
+                                        <b class="lead">Liens :</b>
                                             <a href="https://github.com/leojen23" class="liens"
                                                 target="_blank">
-                                                <i class="fa fa-github d-inline fa-lg mr-3 text-primary"></i>
+                                                <i class="fa fa-github d-inline fa-lg mr-3 text-primary "></i>
                                             </a>
                                             <a href=https://www.linkedin.com/feed/
-                                                class="liens" target="_blank">
+                                                class="liens" target="_blank" >
                                                 <i class="fa fa-linkedin d-inline fa-lg mr-3 text-primary"></i>
                                             </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3 >Développeur Web et Mobile</h3>
                                     
                                     <p>Je suis, depuis toujours, passionné par l’apprentissage des langues étrangères et l’observation des comportements humains. Ma curiosité et ma détermination m’ont conduit à partir étudier en Russie, puis au Royaume-Uni.</p>
 
