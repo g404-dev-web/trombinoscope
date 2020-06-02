@@ -135,9 +135,15 @@
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
                                         <a href="https://github.com/wheelchair69" class="liens"
+                                        
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/raphael-dalfin-988a091a8/"
+                                            class="liens" target="_blank">
+                                            <i
+                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
                                 </div>
