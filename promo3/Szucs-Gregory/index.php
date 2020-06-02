@@ -96,12 +96,12 @@ $email = "gregory.z.szucs@gmail.com";
                                     <p class="bio">Précédemment Directeur Artistique dans l'industrie du jeux vidéo (DONTNOD Entertainment, PHOENIX Interactive pour UBISOFT),
                                        je repackage actuellement toute mon expérience dans le domaine du développement Web !
                                     </p>
-                                    <!-- <div class="blockquote">
+                                    <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                            What time is it ? Game time !
+                                            <cite>90s-era Chicago Bulls</cite>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
