@@ -13,6 +13,22 @@
 </div>
 
 <!-- /COPIER CE BLOC -->
+
+<!-- CARD OLIVIER GUILLEMOT -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="./promo3/Olivier-Guillemot">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Olivier-Guillemot/IMG/olivier300.jpeg" alt="Card image">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Olivier Guillemot</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- END CARD OLIVIER GUILLEMOT -->
+
 <!-- ======================= ESTHER CARD ========================== -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Esther-Itam">
@@ -58,12 +74,6 @@
         </div>
     </a>
 </div>
-
-
-
-
-<!-- /COPIER CE BLOC -->
-
 
 <!-- FIN CARD Lucas -->
 
@@ -128,6 +138,7 @@
         </div>
     </a>
 </div>
+
 <!-- FIN CARD MATTHIAS -->
 
 <!-- veronique FOREST-->
@@ -219,4 +230,5 @@
 </a>
 </div>
 <!-- end of card Gregory Szucs -->
+
 
