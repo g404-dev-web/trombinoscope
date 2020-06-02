@@ -105,17 +105,16 @@
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
+                                    <p class="lead">Actuellement en formation Développeur Web et Web Mobile</p>
                                     <p>
                                     Titulaire d'un Bac Professionnel Technicien du Froid et Conditionnement d'Air obtenu en 2014. 
                                     J'ai entamé en 2016 une première année de licence Sciences Pour l'Ingénieur option Informatique à l'université de Roanne. 
                                     Année qui m'a permis de découvrir les bases de l'Algorithmie et de la programmation. 
-                                    Malheureusement je n'ai pas validé mon année universitaire et n'ai pas pu terminer mon cursus scolaire. 
+                                    Grâce à cette année universitaire, j'ai pu repenser mon avenir et établir un nouveau projet professionel. 
                                     </p>
                                     <p>
-                                    En décembre 2019, ne trouvant pas vraiment d'emploi qui me convenait, j'ai donc choisi la reconversion professionnelle par le biais d'une formation. 
-                                    Mon inscription à la Mission Locale en 2019 m'a permis de découvrir l'organisme Simplon et j'ai donc choisi la formation Développeur Web et Mobile.
+                                    J'ai finalement choisi la reconversion professionnelle par le biais d'une formation. 
+                                    Mon inscription à la Mission Locale en 2019 m'a permis de découvrir l'organisme Simplon et j'ai donc choisi la formation Développeur Web et Web Mobile.
 
                                         <br><br>
                                     Simplon Roanne a finalement retenu mon profil pour intégrer la 3ème promotion de l'organisme.
@@ -145,19 +144,13 @@
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
+
+                                        <a href="https://www.linkedin.com/in/hamza-karfa-7aa8121ab/" 
+                                            target="_blank">
+                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
                                         
-                                    <!--Lien Linkedin -->
-                                        <!-- <a href=""
-                                            class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a> -->
-                                        <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
-                                        </a> -->
+                                        
                                     </div>
                                 </div>
                             </div>
