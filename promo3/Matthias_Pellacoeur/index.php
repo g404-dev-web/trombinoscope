@@ -121,20 +121,7 @@
                                         Suite à cela j'ai fait mon dossier à envoyer puis reçu la convocation
                                         pour les entretiens qui s'est soldé par succès.
                                     </p>
-                                    <!-- <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
-                                        <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
+                                    <!--
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
                                             In medio stat virtus.
@@ -147,13 +134,10 @@
                                     <div class="liens">
                                         <a href="https://github.com/MatthiasPELLACOEUR" class="liens"
                                             target="_blank">
-                                            <i
-                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
+                                            <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i></a>
                                         <a href="https://www.linkedin.com/in/matthias-pellacoeur/"
                                             class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -298,7 +282,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-secondary btn-lg">ENVOYER</button>
+                                            class="btn btn-lg btn-outline-info m-2">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>
