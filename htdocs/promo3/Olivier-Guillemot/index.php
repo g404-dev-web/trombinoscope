@@ -175,7 +175,7 @@
                             <section class="project py-4">
                                 <!-- One project -->
                                 <div class="row">
-                                    <div class="col-4">
+                                    <div class="col-lg-4 col-sm-12">
                                     <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                                 <h4 class="card-title">Project Hunt</h4>
@@ -229,7 +229,7 @@
                                         <p class="lead">Collaborer sur un projet à l’aide d’outils de gestion de versions ( <i>Git, GitHub</i> )</p>
                                         </p>
                                        
-                                        <p class="lead">Développer et maintenir une application web responsive et dynamique ( <i>HTML, CSS, JavaScript, PHP7, SQL, Bootstrap, Materialize, WordPress</i> )</p>
+                                        <p class="lead">Développer et maintenir une application web responsive et dynamique ( <i>HTML, CSS, JavaScript, PHP7, MySQL, Bootstrap, Materialize, WordPress</i> )</p>
                                         </p>
                                       
 
