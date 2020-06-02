@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+<!-- COPIER CE BLOC -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="promo3/simplonien-test">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Simplonien Tests</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+
+=======
+>>>>>>> 235caafab364e0fe28da3b6aeee6767e5cdfce8a
 <!-- /COPIER CE BLOC -->
 
 <!-- CARD OLIVIER GUILLEMOT -->
@@ -39,7 +56,10 @@
                  alt="portrait">
             <div class="card-body p-0 mb-3">
                 <p class="mt-3 mb-1">
-                    <b>Céline Leroux</b>
+
+                    <b>Céline LEROUX</b>
+
+
                 </p>
             </div>
         </div>
@@ -54,7 +74,6 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Girard Lucas</b>
-
                 </p>
             </div>
         </div>
