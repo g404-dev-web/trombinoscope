@@ -101,7 +101,11 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
+<<<<<<< HEAD
+                                        src="library\img-placeholder.png" alt="Card image">
+=======
                                         src="library\CD-Profile.jpg" alt="Card image">
+>>>>>>> 2e5d281fdb2ef94d25b872862b3ccd9fdb2f0d70
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3 style="text-align:center;">Développeur Web et Mobile</h3>
@@ -187,7 +191,11 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
+<<<<<<< HEAD
+                                                <h4 class="card-title">.../h4>
+=======
                                                 <h4 class="card-title">...</h4>
+>>>>>>> 2e5d281fdb2ef94d25b872862b3ccd9fdb2f0d70
                                                 <p class="card-text">
                                                     ...</a>. ...
                                                 </p>
@@ -213,6 +221,12 @@
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
+<<<<<<< HEAD
+                                            Le mini chat est composé d'une interface en HTML, CSS et
+                                            Javascript. <br> Les messages sont dynamiquement envoyés
+                                            et affichés en PHP grâce la base de données MySQL.
+=======
+>>>>>>> 2e5d281fdb2ef94d25b872862b3ccd9fdb2f0d70
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Docker</p>

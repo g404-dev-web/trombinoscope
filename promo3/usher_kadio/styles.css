@@ -31,7 +31,11 @@
     }
     .profil_content{
         display: flex;
+<<<<<<< HEAD
+        flex-direction: column;
+=======
        flex-direction: column;
+>>>>>>> 2e5d281fdb2ef94d25b872862b3ccd9fdb2f0d70
         justify-content: center;
         align-items: center;
 
