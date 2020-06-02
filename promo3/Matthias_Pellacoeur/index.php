@@ -198,7 +198,7 @@
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, JS,PHP7 et
                                             MySQL</p>
                                         <p>
                                             Le mini chat est composé d'une interface en HTML, CSS et
@@ -212,6 +212,12 @@
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Frameworks CSS</p>
+                                        <p>Frameworks utilisés :</p>
+                                        <ul>
+                                            <li>Bootstrap</li>
+                                            <li>Materialize</li>
+                                        </ul>
                                         <h3>Projets personnels</h3>
                                         <p>Afin d'améliorer mes compétences 
                                             j'ai quelques projets en <span
