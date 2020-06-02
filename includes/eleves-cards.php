@@ -82,7 +82,11 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Clement-Debatisse/">
         <div class="card project">
+<<<<<<< HEAD
             <img class="card-img img-effect rounded-circle effect" src="promo3\Clement-Debatisse\library\img-placeholder.png" alt="Card image">
+=======
+            <img class="card-img img-effect rounded-circle effect" src="promo3\Clement-Debatisse\library\CD-Profile.jpg" alt="Card image">
+>>>>>>> 2e5d281fdb2ef94d25b872862b3ccd9fdb2f0d70
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Clément Debatisse</b>
