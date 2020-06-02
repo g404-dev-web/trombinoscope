@@ -121,20 +121,7 @@
                                         Suite à cela j'ai fait mon dossier à envoyer puis reçu la convocation
                                         pour les entretiens qui s'est soldé par succès.
                                     </p>
-                                    <!-- <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
-                                        <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
+                                    <!--
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
                                             In medio stat virtus.
@@ -147,13 +134,10 @@
                                     <div class="liens">
                                         <a href="https://github.com/MatthiasPELLACOEUR" class="liens"
                                             target="_blank">
-                                            <i
-                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
+                                            <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i></a>
                                         <a href="https://www.linkedin.com/in/matthias-pellacoeur/"
                                             class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -188,7 +172,8 @@
                                                 <h4 class="card-title">Clone Instagram</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="">Veronique Forest</a>. <br>L'objectif était de reproduire
+                                                        href="../Forest_Véronique/">Veronique Forest</a>.<br>
+                                                        L'objectif était de reproduire
                                                     les fonctionnalités principales du réseau social Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-info m-2"
@@ -213,7 +198,7 @@
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, JS,PHP7 et
                                             MySQL</p>
                                         <p>
                                             Le mini chat est composé d'une interface en HTML, CSS et
@@ -227,22 +212,24 @@
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Frameworks CSS</p>
+                                        <p>Frameworks utilisés :</p>
+                                        <ul>
+                                            <li>Bootstrap</li>
+                                            <li>Materialize</li>
+                                        </ul>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
+                                        <p>Afin d'améliorer mes compétences 
+                                            j'ai quelques projets en <span
                                                 title="Work In Progress">W.I.P</span> tels que :
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li>
+                                                    un script de calculatrice en reprenant le style d'Apple
+                                                </li>
+                                                <li>
+                                                    AutoDate (en collaboration) principalement du CSS pour ma part
+                                                </li>
                                             </ul>
                                     </div>
                                 </div>
@@ -301,7 +288,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-secondary btn-lg">ENVOYER</button>
+                                            class="btn btn-lg btn-outline-info m-2">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>

@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "audrene.coatmeur@gmail.com";
+    $email = "yoanchalavon@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,15 +13,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Coatmeur Audrene - Simplon Roanne P3</title>
+    <title>Yoan CHALAVON Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
+    <link rel="stylesheet" href="../../css/trombi.css">
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../styles.css">
     <!-- scss 
     <link rel="stylesheet" href="styles.css">
     -->
@@ -53,12 +54,12 @@
     <!-- Navbar end -->
     <!-- First section -->
     <div class="py-5 text-center section-parallax filter-dark bg-fixed"
-        style="background-image: url('/assets/promo2/simplon.jpg');">
+        style="background-image: url('desk.jpg');">
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Coatmeur Audrène</h1>
-                    <h3 class="my-0">Développeuse full-stack</h3>
+                    <h1 class="display-4 mb-0">Yoan CHALAVON</h1>
+                    <h3 class="my-0">Développement web & mobile</h3>
                 </div>
             </div>
         </div>
@@ -83,6 +84,7 @@
             </li>
         </ul>
     </div>
+    
     <!-- Third Section -->
     <div class="bg-light py-4">
         <div class="container">
@@ -100,78 +102,42 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img id="audrene" class="img-fluid rounded-circle p-3"
-                                        src="img/photo.jpg" alt="Card image">
+                                    <img class="img-fluid rounded-circle p-3"
+                                        src="../../img/profil.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeuse Web et Mobile</h3>
-                                    <p class="lead">
-                                        <b>Qui suis-je?</b> Audrène Coatmeur, bretonne loin de chez elle.
-                                        J'aime lire, écrire, et regarder des séries en anglais. Enchantée!
+                                    <p class="lead">Actuellement en formation Développeur Web et
+                                        Mobile</p>
+                                    <p>Attiré par l'univers du numériquement et plus particulierement au secteur du développement web, 
+                                        j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
+                                    <br>
+                                    <br>
+                                        Diplômé d'un CAP Installateur thermique obtenu en 2010. A la suite de ça, mon parcours professionnel c'est tourné dans le secteur de l'industrie en temps que conducteur de ligne puis carriste et enfin conducteur d'angins et de ligne.
                                     </p>
-                                    <p class="lead">
-                                        <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
-                                        référencement internet aux professionnels. Entre garder un métier qui ne me 
-                                        passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
-                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé! C'est un plaisir 
-                                        d'apprendre à écrire un code toujours plus propre, plus optimisé, et rien 
-                                        n'égale la satisfaction de résoudre un problème et de voir le résultat attendu 
-                                        s'afficher à l'écran.
+                                    <p>
+                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de developpeur web et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaire pour mon inscription à cette Promo 3.
+                                    <br><br>
+                                        La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
+                                        pour changer de direction profetionnel !
                                     </p>
-                                    <p class="lead">
-                                        <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
-                                        que j'ai appris avec Simplon me plaît, je n'ai pas de petit préféré. Si ça change, 
-                                        je vous tiendrai au courant!
-                                    </p>
-                                    <h3>
-                                        Compétences acquises :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Créer des pages web avec HTML et CSS</p>
-                                        </li>
-                                        <li>
-                                            <p>Utiliser Bootstrap et ses classes</p>
-                                        </li>
-                                        <li>
-                                            <p>Créer une base de données et gérer des requêtes SQL</p>
-                                        </li>
-                                        <li>
-                                            <p>Traiter des données et les passer d'une page à l'autre avec PHP</p>
-                                        </li>
-                                        <li>
-                                            <p>Afficher du contenu dynamique avec des fonctions asynchrones JS</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Compétences en cours d'acquisition :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Programmation orientée objet</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Soft skills :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Sociable, à l'écoute</p>
-                                            <p>Curieuse</p>
-                                            <p>Patiente</p>
-                                            <p>Sens de l'humour</p>
-                                        </li>
-                                    </ul>
+                                    <div class="blockquote">
+                                        <p class="mb-2">Citations</p>
+                                        <div class="blockquote-footer">
+                                        Etre libre, ce n'est pas pouvoir faire ce que l'on veut, mais c'est vouloir ce que l'on peut.
+                                        <br>
+                                            <cite>Jean-Paul Sartre</cite>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Audrene-C" class="liens"
+                                        <a href="https://github.com/Yoan42" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href=""
+                                        <a href="https://www.linkedin.com/in/yoan-chalavon-1a85861a8/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
@@ -195,64 +161,64 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Un client Deezer</h4>
-                                                <p class="card-text">Premier projet chez Simplon, 
-                                                    en binôme avec <a href="../../promo3/Mathias-Perle">Perle Mathias</a>, 
-                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer. 
-                                                    Requêtes SQL, un peu de PHP, et beaucoup de
-                                                    fonctions asynchrones JS!</p>
+                                                <h4 class="card-title">Mini-game</h4>
+                                                <p class="card-text">Exercice d'entrainement avec
+                                                    pour objectif l'utilisation de la POO.</p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Audrene-C/project-audio-player"
+                                                    href="https://github.com/Yoan42/Combat-game"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
+                                                <h4 class="card-title">Instaclone</h4>
                                                 <p class="card-text">
-                                                    Please come back later!
+                                                    Project effectué en duo avec Raphael Dalfin
+                                                        <br>
+                                                    L'objectif était de reproduire
+                                                    Une copie de l'application Instagrame sur 3 jours.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                    href="https://github.com/HeathSilcox/quizzy"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
+                                                <h4 class="card-title">Projet Perso</h4>
                                                 <p class="card-text">
-                                                    Please come back later!
+                                                    Création d'un site web vitrine pour un projet personnel.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                    href="https://github.com/Yoan42/Ongles"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Projets Simplon</h3>
-                                        <p class="lead">
-                                            Client Deezer :
-                                        </p>
+                                        <h3>Compétences en cours d'acquisitions</h3>
+                                        <p> Utilisation de HTML, CSS, PHP, JavaScript, gestion de base de donnée, SQL, Phpmyadmin. 
+                                        Utilisation de Visual studio Code.
                                         <p>
-                                            Le projet repose majoritairement sur JS, car à chaque chanson, album ou 
-                                            playlist jouée, une fonction asynchrone récupère les données de l'API Deezer 
-                                            et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
-                                            Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
-                                            créé notre base de données en conséquence.
+                                            .
                                         </p>
+                                        <p class="lead">Utilisation de LINUX</p>
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Docker</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>
-                                            Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
-                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
-                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
-                                        </p>
-                                        <p>
-                                            Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
-                                            est-il possible que j'ai un peu outrepassé les consignes pour rajouter quelques 
-                                            propriétés et méthodes, pour voir jusqu'où je pouvais pousser les choses. Pour 
-                                            voir mes expériences, c'est <a href="https://github.com/Audrene-C/tp-rpg">par là</a>.
-                                        </p>
+                                        <p>Afin d'améliorer mes compétences, j'ai un projet, je réalise un projet personnel :
+                                            <br>
+                                            <ul>
+                                                <li>Utilisation de CSS, Bootstrap</li>
+                                                <li>Création d'un espace membres</li>
+                                                <li>Création de formulaires</li>
+                                                <li>Espace galerie photos</li>
+                                                <li>Espace Contact</li>
+                                                
+
+
+                                            </ul>
                                     </div>
                                 </div>
                                 <hr>
@@ -276,7 +242,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 58 09 81 48</a>
+                                            <b>Téléphone</b> : <a href="tel:0606060606">06 14 51 27 89</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -184,6 +184,7 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
+
                                                 <h4 class="card-title">Site internet fonctionnel</h4>
                                                 <p class="card-text">
                                                     Site internet portant sur le domaine de la finance réalisé en l'espace de quelques heures à l'aide du CMS Wordpress, en ne partant d'aucune expérience ni maîtrise de ce CMS. Projet à upload. </a>
@@ -209,8 +210,6 @@
                                         <h3>Compétences acquises</h3>
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                        <p>
-                                        </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>

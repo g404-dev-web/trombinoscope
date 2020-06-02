@@ -108,7 +108,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="mb-4">Promotion Roanne _03</h2>
+                    <h3>Promotion 3</h3>
                 </div>
             </div>
             <div class="row">

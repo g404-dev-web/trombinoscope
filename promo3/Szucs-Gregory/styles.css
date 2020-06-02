@@ -38,3 +38,7 @@ p.bio{
       drop-shadow(-8px -12px 20px var(--color-limelight));
     z-index: 10;
 }
+cite{
+    display: block;
+    text-indent: 4rem;
+}

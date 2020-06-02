@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "audrene.coatmeur@gmail.com";
+    $email = "olivierjean.guillemot@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,13 +13,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Coatmeur Audrene - Simplon Roanne P3</title>
+    <title>Simplonien Test - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
+
+        <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="styles.css">
     <!-- scss 
@@ -57,8 +62,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Coatmeur Audrène</h1>
-                    <h3 class="my-0">Développeuse full-stack</h3>
+                    <h1 class="display-4 mb-0">Olivier Guillemot</h1>
+                    <h3 class="my-0">Développeur Full-Stack</h3>
                 </div>
             </div>
         </div>
@@ -99,85 +104,63 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-4">
-                                    <img id="audrene" class="img-fluid rounded-circle p-3"
-                                        src="img/photo.jpg" alt="Card image">
-                                </div>
-                                <div class="col-8 text-left">
-                                    <h3>Développeuse Web et Mobile</h3>
-                                    <p class="lead">
-                                        <b>Qui suis-je?</b> Audrène Coatmeur, bretonne loin de chez elle.
-                                        J'aime lire, écrire, et regarder des séries en anglais. Enchantée!
-                                    </p>
-                                    <p class="lead">
-                                        <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
-                                        référencement internet aux professionnels. Entre garder un métier qui ne me 
-                                        passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
-                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé! C'est un plaisir 
-                                        d'apprendre à écrire un code toujours plus propre, plus optimisé, et rien 
-                                        n'égale la satisfaction de résoudre un problème et de voir le résultat attendu 
-                                        s'afficher à l'écran.
-                                    </p>
-                                    <p class="lead">
-                                        <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
-                                        que j'ai appris avec Simplon me plaît, je n'ai pas de petit préféré. Si ça change, 
-                                        je vous tiendrai au courant!
-                                    </p>
-                                    <h3>
-                                        Compétences acquises :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Créer des pages web avec HTML et CSS</p>
-                                        </li>
-                                        <li>
-                                            <p>Utiliser Bootstrap et ses classes</p>
-                                        </li>
-                                        <li>
-                                            <p>Créer une base de données et gérer des requêtes SQL</p>
-                                        </li>
-                                        <li>
-                                            <p>Traiter des données et les passer d'une page à l'autre avec PHP</p>
-                                        </li>
-                                        <li>
-                                            <p>Afficher du contenu dynamique avec des fonctions asynchrones JS</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Compétences en cours d'acquisition :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Programmation orientée objet</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Soft skills :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Sociable, à l'écoute</p>
-                                            <p>Curieuse</p>
-                                            <p>Patiente</p>
-                                            <p>Sens de l'humour</p>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="mb-0">
-                                    <b class="lead">Liens :</b>
-                                    <div class="liens">
-                                        <a href="https://github.com/Audrene-C" class="liens"
-                                            target="_blank">
-                                            <i
-                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
-                                        <a href=""
-                                            class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
+                                <div class="col-4 text-center">
+                                    <img class="img-fluid rounded-circle p-3"
+                                        src="https://media-exp1.licdn.com/dms/image/C4D03AQHVdkIXYcnWMg/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=DFKHunYkD5caK_R4Gv11MDuWjRPYgfx4XKWWp_nV02s"  width="300" height="300" alt="Card image">
+                                    <div class="mb-0">
+                                    
+                                        <div class="liens">
+                                        <b class="lead">Liens :</b>
+                                            <a href="https://github.com/leojen23" class="liens"
+                                                target="_blank">
+                                                <i class="fa fa-github d-inline fa-lg mr-3 text-primary "></i>
+                                            </a>
+                                            <a href="https://www.linkedin.com/in/olivier-guillemot-299057186/"
+                                                class="liens" target="_blank" >
+                                                <i class="fa fa-linkedin d-inline fa-lg mr-3 text-primary"></i>
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
+                                <div class="col-8 text-left">
+                                    <h3 >Développeur Web et Mobile</h3>
+                                    
+                                    <p>Je suis, depuis toujours, passionné par l’apprentissage des langues étrangères et l’observation des comportements humains. Ma curiosité et ma détermination m’ont conduit à partir étudier en Russie, puis au Royaume-Uni.</p>
+
+                                    <p> Après avoir travaillé de nombreuses années en Angleterre dans le domaine de l'Hôtellerie-Restauration puis dans celui de l'imprimerie, je suis rentré en France pour mettre à profit et partager mes compétences linguistiques et professionnelles dans la formation pour adultes.
+                                    </p>
+                                    
+                                    <p>Suite à l'obtention de mon <span class="text-primary">Diplôme de Formateur d'Adultes</span>, puis d'une <span class="text-primary">licence en Sciences de l'Education</span> par le biais du CNED, j'ai eu l’opportunité de travailler au sein de différentes structures sur des dispositifs de formation au public varié. </p>
+
+                                    </p>
+                                    <p>Aussi, j’ai toujours été très attiré par les différents métiers du développement web et par l’apprentissage des langages de développement car ils offrent un terrain professionnel en constante évolution et requièrent de la rigueur, des capacités d’analyse et le sens du travail en équipe.
+                                    </p>
+
+                                    <p>J’ai donc saisi l’opportunité de notre déménagement dans la Loire pour initier mon projet de reconversion professionnelle en me formant de manière autonome sur le site d’OpenClassroom tout en effectuant les démarches requises pour accéder à la formation.</p>
+
+                                    <p>A ce jour, la fabrique Simplon représente une opportunité de continuer à grandir en compétences et m’épanouir dans un métier qui correspond à mes centres d’intérêt , mes envies et mes aptitudes.</p>
+
+
+                                    <div class="blockquote">
+                                        <p class="mb-2">Citations</p>
+                                        <div class="blockquote-footer">
+                                            "Deviens ce que tu es."
+                                            <cite>Friedrich Nietzsche</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            "La beauté est dans les yeux de celui qui regarde."
+                                            <cite>Oscar Wilde</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            "Un problème sans solution est un problème mal posé."
+                                            <cite>Albert Einstein</cite>
+                                        </div>
+                                    </div>
+                                </div> 
                             </div>
                         </div>
                         <!-- Second tab -->
@@ -192,67 +175,88 @@
                             <section class="project py-4">
                                 <!-- One project -->
                                 <div class="row">
-                                    <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
+                                    <div class="col-lg-4 col-sm-12">
+                                    <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Un client Deezer</h4>
-                                                <p class="card-text">Premier projet chez Simplon, 
-                                                    en binôme avec <a href="../../promo3/Mathias-Perle">Perle Mathias</a>, 
-                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer. 
-                                                    Requêtes SQL, un peu de PHP, et beaucoup de
-                                                    fonctions asynchrones JS!</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Audrene-C/project-audio-player"
+                                                <h4 class="card-title">Project Hunt</h4>
+                                                <p class="card-text">
+                                                    Project effectué en duo avec <a
+                                                        href="http://trombi.simplon-roanne.com/promo3/Esther-Itam/">Esther
+                                                        Itam</a>. L'objectif était de reproduire
+                                                    les fonctionnalités du site Product Hunt.
+                                                    .
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-primary m-2"
+                                                    href="https://github.com/leojen23/SIMPLON-Product-Hunt.git"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Bootstrap Training</h4>
+                                                <p class="card-text">
+                                                    Exercice d'intégration utilisant le framework
+                                                    Bootstrap et ayant pour objectif de reproduire un
+                                                    site fidèle au model fourni en png.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-primary btn-yellow m-2"
+                                                    href="https://github.com/leojen23/One-Million-Lines.git"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
-                                                <p class="card-text">
-                                                    Please come back later!
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
-                                                <p class="card-text">
-                                                    Please come back later!
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                <h4 class="card-title">Mini-TP Allo-Ciné</h4>
+                                                <p class="card-text">Exercice ayant pour objectif d'afficher une liste de films à partir d'un fichier .json en utilisant les template strings.
+                                                    .</p>
+                                                <a class="btn btn-lg btn-outline-primary m-2"
+                                                    href="https://github.com/leojen23/SIMPLON-allo-cine.git"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Projets Simplon</h3>
-                                        <p class="lead">
-                                            Client Deezer :
-                                        </p>
+                                        <h3>Compétences en cours d'acquisition</h3>
+                                        <p class="lead">Modéliser l’architecture d’une application ( <i>Outils de Mind Mapping et de User Story Mapping</i> )</p>
+                                      
+                                        <p class="lead">Concevoir le design d’une application web ( <i>Wireframe, HTML, CSS</i> )</p>
+                                      
+                                        <p class="lead">Modéliser une base de données ( <i>PHPMyAdmin</i> )</p>
+                                        
+                                        <p class="lead">Configurer un serveur local ( <i>Devilbox</i> )</p>
                                         <p>
-                                            Le projet repose majoritairement sur JS, car à chaque chanson, album ou 
-                                            playlist jouée, une fonction asynchrone récupère les données de l'API Deezer 
-                                            et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
-                                            Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
-                                            créé notre base de données en conséquence.
+                                       
+                                        <p class="lead">Collaborer sur un projet à l’aide d’outils de gestion de versions ( <i>Git, GitHub</i> )</p>
                                         </p>
-                                        <h3>Projets personnels</h3>
+                                       
+                                        <p class="lead">Développer et maintenir une application web responsive et dynamique ( <i>HTML, CSS, JavaScript, PHP7, MySQL, Bootstrap, Materialize, WordPress</i> )</p>
+                                        </p>
+                                      
+
+                                        <p class="lead">Exploiter une documentation technique</p>
+
+                                        
+                                        <h3>Projet personnel</h3>
                                         <p>
-                                            Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
-                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
-                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
+                                        Afin de pouvoir mettre en application les apports de la formation, je travaille actuellement sur la restructuration du site de l’association sportive « Sport Plus Bédarrides ». Nous souhaitons permettre aux visiteurs du site de :
+                                            <ul>
+                                                <li>Suivre l’actualité de l’association sportive</li>
+                                                <li>Adhérer à l’association</li>
+                                                <li>Accéder à un espace d'échange entre adhérants</li>
+                                                <li>S'inscrire à des activités</li>
+                                                <li>Visualiser et commenter des photos</li>
+                                                <li>Contacter les gérants de l'association</li>
+                                            </ul>
                                         </p>
-                                        <p>
-                                            Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
-                                            est-il possible que j'ai un peu outrepassé les consignes pour rajouter quelques 
-                                            propriétés et méthodes, pour voir jusqu'où je pouvais pousser les choses. Pour 
-                                            voir mes expériences, c'est <a href="https://github.com/Audrene-C/tp-rpg">par là</a>.
-                                        </p>
+
+                                        <h3>Qualités Professionnelles</h3>
+                                        <ul>
+                                            <li>Dynamisme et Motivation</li>
+                                            <li>Pédagogue et Esprit d'équipe  </li>
+                                            <li>Autonomie</li>
+                                            <li>Rigueur et Méthode</li>
+                                            <li>Fléxibilité et Adaptabilité</li>
+                                        </ul>
                                     </div>
                                 </div>
                                 <hr>
@@ -270,15 +274,10 @@
                             <div class="row">
                                 <div class="col-4">
                                     <h3>Mes coordonnées</h3>
-                                    <ul>
-                                        <li>
-                                            <b>Email</b> : <a
-                                                href="mailto:<?=$email?>"><?=$email?></a>
-                                        </li>
-                                        <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 58 09 81 48</a>
-                                        </li>
-                                    </ul>
+                                    <b>Email</b> : <a
+                                        href="mailto:<?=$email?>"><?=$email?></a>
+                                    <b>Téléphone</b> : <a href="tel:0629308097">06 29 30 80 97</a>
+                                     
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Envoyez un email</h3>
@@ -310,7 +309,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-secondary btn-lg">ENVOYER</button>
+                                            class="btn btn-primary btn-lg">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>

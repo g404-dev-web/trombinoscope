@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "audrene.coatmeur@gmail.com";
+    $email = "pro.lucas.girard@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Coatmeur Audrene - Simplon Roanne P3</title>
+    <title>Simplonien Test - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Coatmeur Audrène</h1>
-                    <h3 class="my-0">Développeuse full-stack</h3>
+                    <h1 class="display-4 mb-0">Girard Lucas </h1>
+                    <h3 class="my-0">Développeur web et web junior</h3>
                 </div>
             </div>
         </div>
@@ -100,81 +100,53 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img id="audrene" class="img-fluid rounded-circle p-3"
-                                        src="img/photo.jpg" alt="Card image">
+                                    <img id="lucas" class="img-fluid rounded-circle p-3"
+                                        src="img\lucas2.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeuse Web et Mobile</h3>
-                                    <p class="lead">
-                                        <b>Qui suis-je?</b> Audrène Coatmeur, bretonne loin de chez elle.
-                                        J'aime lire, écrire, et regarder des séries en anglais. Enchantée!
-                                    </p>
-                                    <p class="lead">
-                                        <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
-                                        référencement internet aux professionnels. Entre garder un métier qui ne me 
-                                        passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
-                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé! C'est un plaisir 
-                                        d'apprendre à écrire un code toujours plus propre, plus optimisé, et rien 
-                                        n'égale la satisfaction de résoudre un problème et de voir le résultat attendu 
-                                        s'afficher à l'écran.
-                                    </p>
-                                    <p class="lead">
-                                        <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
-                                        que j'ai appris avec Simplon me plaît, je n'ai pas de petit préféré. Si ça change, 
-                                        je vous tiendrai au courant!
-                                    </p>
-                                    <h3>
-                                        Compétences acquises :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Créer des pages web avec HTML et CSS</p>
-                                        </li>
-                                        <li>
-                                            <p>Utiliser Bootstrap et ses classes</p>
-                                        </li>
-                                        <li>
-                                            <p>Créer une base de données et gérer des requêtes SQL</p>
-                                        </li>
-                                        <li>
-                                            <p>Traiter des données et les passer d'une page à l'autre avec PHP</p>
-                                        </li>
-                                        <li>
-                                            <p>Afficher du contenu dynamique avec des fonctions asynchrones JS</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Compétences en cours d'acquisition :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Programmation orientée objet</p>
-                                        </li>
-                                    </ul>
-                                    <h3>
-                                        Soft skills :
-                                    </h3>
-                                    <ul>
-                                        <li>
-                                            <p>Sociable, à l'écoute</p>
-                                            <p>Curieuse</p>
-                                            <p>Patiente</p>
-                                            <p>Sens de l'humour</p>
-                                        </li>
-                                    </ul>
+                                    <h3>Développeur junior Web et Mobile </h3>
+                                    <p class="lead">Actuellement en formation Développeur Web et
+                                        Mobile</p>
+                                        <p>Je me suis intéressé au monde de l'informatique depuis 10 ans.</p> 
+                                        <p>Quand j'ai commencé à travailler à 18 ans, 
+                                        ne trouvant pas de formation adéquate dans le devellopement web, j'ai effectué un BEP transport routier tout en continuant à être passionné par les nouvelles technologies.</p>
+                                        <p>Après, 12 ans en tant que chauffeur routier.<br>
+                                        Mon employeur ma donné l'opportunité de faire une reconversion professionelle dans le domaine du dévellopement web.
+                                        cela ma permis de m'investire dans un projet/métier qui pourrais d'avantage me correspondre.<br> 
+                                        L’expérience que j'ai eu en tant que chauffeur poids lourd m'a appris à être autonome ,
+                                        organisé et efficient.</p><br> 
+                                        Grace à cela, j'ai développé la capacité à m'adapter à toute situation, à vivre en communauté et à respecter mes collaborateurs.<br>
+                                        <p>Ce qui m’intéresse le plus dans ce métier c'est qu'il est en constante évolution.<br> 
+                                        Chaque projet est différent selon la demande du client ainsi que la relation clientèle et la participation commune aux projets.</p>
+
+                                        
+                               
+                                    <div class="blockquote">
+                                        <p class="mb-2">Citations</p>
+                                        <div class="blockquote-footer">
+                                            <cite> "Je n'ai pas échoué. J'ai juste trouvé 10.000 moyens qui ne fonctionnent pas." -Thomas A. Edison</cite>
+                                        </div>
+                                    </div>
+
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/Audrene-C" class="liens"
+                                        <a href="https://github.com/lucasgirard42" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href=""
+                                        <a href="https://www.linkedin.com/in/lucas-girard-43994718a/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                        <a href="http://www.doyoubuzz.com"
+                                            class="liens" target="_blank">
+                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
+                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
+                                                    class="logo"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -195,64 +167,55 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Un client Deezer</h4>
-                                                <p class="card-text">Premier projet chez Simplon, 
-                                                    en binôme avec <a href="../../promo3/Mathias-Perle">Perle Mathias</a>, 
-                                                    nous avons créé un lecteur audio en nous servant de l'API Deezer. 
-                                                    Requêtes SQL, un peu de PHP, et beaucoup de
-                                                    fonctions asynchrones JS!</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Audrene-C/project-audio-player"
+                                                <h4 class="card-title">Instgram-binôme</h4>
+                                                <p class="card-text">
+                                                    Projet effectué en duo avec <a
+                                                        href="../Avon-Antonin/index.html">Avon
+                                                        Antonin</a>. L'objectif était de reproduire
+                                                    les fonctionnalités principales d'Instagram.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-info m-2"
+                                                    href="https://github.com/lucasgirard42/Instagram-binome"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
-                                                <p class="card-text">
-                                                    Please come back later!
+                                                <h4 class="card-title">Game-Fight</h4>
+                                                <p class="card-text">Exercice qui reproduit un jeu de combat en POO PHP.
+                                                   
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
-                                                <p class="card-text">
-                                                    Please come back later!
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                <a class="btn btn-lg btn-outline-info m-2"
+                                                    href="https://github.com/lucasgirard42/Comba"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-8 text-left">
-                                        <h3>Projets Simplon</h3>
-                                        <p class="lead">
-                                            Client Deezer :
-                                        </p>
+                                        <div class="col-8 text-left">
+                                        <h3>Compétences acquises</h3>
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                            MySQL</p>
                                         <p>
-                                            Le projet repose majoritairement sur JS, car à chaque chanson, album ou 
-                                            playlist jouée, une fonction asynchrone récupère les données de l'API Deezer 
-                                            et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
-                                            Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
-                                            créé notre base de données en conséquence.
+                                            Notre projet instagram-binôme : 
+                                            <br>le Front-end est en HTML, CSS et
+                                            bootstrap. <br> les mots de passes (crypter), les messages et les images sont dynamiquement envoyés
+                                            et affichés en PHP grâce la base de données MySQL.
                                         </p>
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">programmation orientée objet (POO)</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>
-                                            Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
-                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
-                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
-                                        </p>
-                                        <p>
-                                            Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
-                                            est-il possible que j'ai un peu outrepassé les consignes pour rajouter quelques 
-                                            propriétés et méthodes, pour voir jusqu'où je pouvais pousser les choses. Pour 
-                                            voir mes expériences, c'est <a href="https://github.com/Audrene-C/tp-rpg">par là</a>.
-                                        </p>
+                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b> et <b>PHP</b>
+                                            j'ai plusieurs projets en <span
+                                                title="Work In Progress">W.I.P</span> tels que :
+                                            <br>
+                                            <ul>
+                                                <li>un site vitrine de création de couture et costume.</li>
+                                                <li>un site d'un salon de coiffure avec prise de rendez-vous, espace membre
+                                                    et gestion de stock.
+                                                </li>
+                                                <li>une application mobile dans la gestion et conduite dans le transport routier.</li>
+                                            </ul>
                                     </div>
                                 </div>
                                 <hr>
@@ -276,7 +239,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 58 09 81 48</a>
+                                            <b>Téléphone</b> : <a href="tel:0603366705">0603366705</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -328,10 +291,10 @@
             <div class="row">
                 <div class="p-5 col-8 offset-2">
                     <h3>
-                        <b>Smpln</b>
+                        <b>Simplon</b>
                     </h3>
                     <p class="">
-                        <a href="#" target="_blank">27 Rue Lucien Langenieux,
+                        <a href="#" target="_blank">27 Rue Lucien Langnieux,
                             <br>42300 Roanne
                         </a>
                     </p>

@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "zzgael@gmail.com";
+    $email = "maureen.depresle@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Maureen Depresle - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Simplonien Test</h1>
-                    <h3 class="my-0">Développeur front-end</h3>
+                    <h1 class="display-4 mb-0">Maureen Depresle</h1>
+                    <h3 class="my-0">Développeuse front-end</h3>
                 </div>
             </div>
         </div>
@@ -101,75 +101,76 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+                                        src="img/maureen.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3>Développeuse Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Je suis passionné d'informatique, notamment de programmation
-                                        et de design depuis plus de 10 ans.<br><br>
-                                        J'ai effectué un Bac STG
-                                        Gestion des Systèmes d'Information qui m'appris du droit,
-                                        du management, de la comptabilité, et du SI. Je ne le
-                                        complétai
-                                        malheureusement pas, pour raisons
-                                        personnelles.<br>J'ai des connaissances avancées en anglais
-                                        qui me sont d'un
-                                        réel avantage dans le domaine qui est le nôtre.
+                                    <p>Je suis passionnée par les nouvelles technologies depuis déjà plusieurs années,
+                                        notamment par la technologie mobile et l'informatique.<br><br>
+                                        N'étant pas particulièrement intéressée par le cursus scolaire classique,
+                                        j'ai choisi après ma seconde générale de faire une pause pour tenter l’aventure
+                                        de la vie active.
+                                        Apres quelques années à faire des 'jobs alimentaires' peu stimulant à mon gout,
+                                        j’ai décidée de faire le point et de trouver un métier en lien avec ma passion pour l'informatique.
+
                                     </p>
                                     <p>
-                                        Début février 2019, grâce à mon coach en insertion pro, je
-                                        découvris les formations que proposaient Simplon. Afin de
-                                        maximiser mes chances de réussite, je postulai aux quatre
-                                        coins de la France.
+                                        Depuis le 1er octobre 2018, j'ai entamée une reconversion professionnelle
+                                        pour devenir développeuse web au sein du centre de formation de ma ville.
+                                        Etant un format très court lors de celle-ci, nous avions fait que du survol des compétences
+                                        nécessaires pour faire ce métier.
+                                        Mais Cela m'a permis de me conforter dans l'idée que le codage serait pour moi un "métier passion" !
+                                        J'ai donc naturellement décidée de me relancer dans l’aventure d'une nouvelle formation
+                                        qui enrichirait et développerait les compétences acquises dans la première.
+
                                         <br><br>
-                                        La Grande École du Numérique de Simplon Roanne retint mon
-                                        profil. Je pris donc mon train au départ d'Épinal (Vosges)
-                                        direction
-                                        Roanne, pour rejoindre cette fabuleuse opportunité qui
-                                        m'ouvrait les bras.
+                                        Résultat me voilà ici prête à apprendre et évoluer !
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
+                                            Il n'y a qu'une chose qui puisse rendre un reve impossible,
+                                            c'est la peur d'échouer. <br>
+                                            <cite>Paulo Coelho</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
+                                            Il faut travailler et faire ce que l'on peut, et pour le reste,
+                                            tout prendre avec légèreté et bonne humeur.
+                                            On ne se rend pas la vie meilleure en étant amer. <br>
+                                            <cite>Rosa Luxembourg,
+                                                Rosa la vie</cite>
                                         </div>
                                     </div>
-                                    <div class="blockquote">
+                                  <!--  <div class="blockquote">
                                         <div class="blockquote-footer">
                                             In medio stat virtus.
                                             <cite>Roi Loth (<i>Kaamelott</i>)</cite>
                                         </div>
-                                    </div>
+                                    </div>-->
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/HeathSilcox" class="liens"
+                                        <a href="https://github.com/maureen69170" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
+                                        <a href="https://www.linkedin.com/in/maureen-depresle-8ab839173/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
+                                       <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                             </div>
@@ -187,7 +188,7 @@
                                 <!-- One project -->
                                 <div class="row">
                                     <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
+                                       <!-- <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                                 <h4 class="card-title">SASS Training</h4>
                                                 <p class="card-text">Exercice d'entrainement avec
@@ -197,23 +198,22 @@
                                                     href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
                                                     target="_blank">Voir le projet</a>
                                             </div>
-                                        </div>
+                                        </div>-->
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
+                                                <h4 class="card-title">Ass tram gram</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="../Emilie-Catteau/index.html">Émilie
-                                                        Catteau</a>. L'objectif était de reproduire
-                                                    les fonctionnalités principales d'un jeu de type
-                                                    QCM.
+                                                        href="../Victoria-Lasnon/index.php">Victoria
+                                                        Lasnon</a>. L'objectif était de reproduire
+                                                    les fonctionnalités principales en version web de l'application Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/quizzy"
+                                                    href="https://github.com/maureen69170/insta-clone"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-                                        <div class="bg-dark text-white text-center card">
+                                        <!--<div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                                 <h4 class="card-title">Bootstrap Training</h4>
                                                 <p class="card-text">
@@ -225,7 +225,7 @@
                                                     href="https://github.com/HeathSilcox/OneMillionLines"
                                                     target="_blank">Voir le projet</a>
                                             </div>
-                                        </div>
+                                        </div>-->
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
@@ -237,8 +237,8 @@
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <!--<p class="lead">Utilisation de Docker</p>-->
+                                        <p class="lead">Utilisation de PhpStorm</p>
                                         <h3>Projets personnels</h3>
                                         <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
                                             j'ai plusieurs projets en <span
@@ -279,7 +279,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 06 06 06 06</a>
+                                            <b>Téléphone</b> : <a href="tel:0613204581">06 13 20 45 81</a>
                                         </li>
                                     </ul>
                                 </div>

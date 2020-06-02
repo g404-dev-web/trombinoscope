@@ -105,17 +105,16 @@
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
+                                    <p class="lead">Actuellement en formation Développeur Web et Web Mobile</p>
                                     <p>
                                     Titulaire d'un Bac Professionnel Technicien du Froid et Conditionnement d'Air obtenu en 2014. 
                                     J'ai entamé en 2016 une première année de licence Sciences Pour l'Ingénieur option Informatique à l'université de Roanne. 
                                     Année qui m'a permis de découvrir les bases de l'Algorithmie et de la programmation. 
-                                    Malheureusement je n'ai pas validé mon année universitaire et n'ai pas pu terminer mon cursus scolaire. 
+                                    Grâce à cette année universitaire, j'ai pu repenser mon avenir et établir un nouveau projet professionel. 
                                     </p>
                                     <p>
-                                    En décembre 2019, ne trouvant pas vraiment d'emploi qui me convenait, j'ai donc choisi la reconversion professionnelle par le biais d'une formation. 
-                                    Mon inscription à la Mission Locale en 2019 m'a permis de découvrir l'organisme Simplon et j'ai donc choisi la formation Développeur Web et Mobile.
+                                    J'ai finalement choisi la reconversion professionnelle par le biais d'une formation. 
+                                    Mon inscription à la Mission Locale en 2019 m'a permis de découvrir l'organisme Simplon et j'ai donc choisi la formation Développeur Web et Web Mobile.
 
                                         <br><br>
                                     Simplon Roanne a finalement retenu mon profil pour intégrer la 3ème promotion de l'organisme.
@@ -145,19 +144,13 @@
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
+
+                                        <a href="https://www.linkedin.com/in/hamza-karfa-7aa8121ab/" 
+                                            target="_blank">
+                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
                                         
-                                    <!--Lien Linkedin -->
-                                        <!-- <a href=""
-                                            class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a> -->
-                                        <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
-                                        </a> -->
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -178,11 +171,11 @@
 
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
+                                                <h4 class="card-title">Clone Product Hunt</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a href="../Szucs-Gregory">Gregory Szucs</a>. 
                                                     Le but du projet était de reproduire
-                                                    le site de <a href="../Szucs-Gregory">Product Hunt</a>.
+                                                    le site de <a href="https://www.producthunt.com">Product Hunt</a>.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/HamzaKarfa/simplon-tp-product-hunt"
@@ -196,31 +189,21 @@
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Le projet contient une API faite avec de la POO PHP, cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
+                                            Le projet contient une API faite en Programmation Orientée Object PHP. Cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
                                             <br> 
                                             Les produits sont dynamiquement affichés grâce au requetes Java Script et triés en PHP grâce la base de données MySQL.
                                             <br>
                                             Enfin le design du site est réalisé avec la librairie Bootstrap.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                        <p>Je n'ai pas encore vraiment commencé de projet personnel.
+                                            Je pense débuter prochainement un projet que je présenterai lors de mon examen de fin de formation.
+                                        </p>   
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+
                                             </ul>
                                     </div>
                                 </div>

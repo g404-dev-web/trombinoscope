@@ -119,14 +119,14 @@
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                        La justice de l'intelligence est la sagesse. Le sage n'est pas celui qui sait beaucoup de choses, mais celui qui voit leur juste mesure.
-                                            <cite>Platon</cite>
+                                        L'ignorant affirme, le savant doute, le sage réfléchit.
+                                            <cite>Aristote</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                        La valeur d'un homme tient dans sa capacité à donner et non dans sa capacité à recevoir.
-                                            <cite>Albert Einstein</cite>
+                                        Les routes les plus difficiles mènent aux plus belles destinations.
+                                            <cite>Anonyme</cite>
                                         </div>
                                     </div>
                                     
@@ -144,12 +144,12 @@
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="#"
+                                       <!-- <a href="#"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                             </div>
@@ -169,10 +169,12 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">xxxx</h4>
-                                                <p class="card-text"></p>
+                                                <h4 class="card-title">Site de présentation</h4>
+                                                <p class="card-text">
+                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
+                                                </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="#"
+                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
@@ -180,7 +182,7 @@
                                             <div class="card-body">
                                                 <h4 class="card-title">Product Hunt</h4>
                                                 <p class="card-text">
-                                                    Project effectué en duo avec Oliver Guillemot
+                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
@@ -189,12 +191,12 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">xxxxx</h4>
+                                                <h4 class="card-title">Mini chat</h4>
                                                 <p class="card-text">
-                                                    
+                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="#"
+                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
@@ -204,18 +206,19 @@
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
                                         <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
                                         <p class="lead">Création de pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                                                             
-                                        <p class="lead">Rédaction de users story par la méthode Agile
-                                        </p> 
-                                        <p class="lead">Création de wireframe au moment de la conception de projet
-                                        </p>                                  
-                                        <p class="lead">Dynamisation de sites web par AJAX 
+                                        <p class="lead">Rédaction de users story par la méthode Agile 
                                         </p>
-                                        
+                                        <p>(voir projet Product Hunt)</p>  
+                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
+                                        <p>(voir projet Product Hunt)</p>                                  
+                                        <p class="lead">Dynamisation de sites web par AJAX</p>
+                                        <p>(voir projet mini chat)</p> 
                                         <p class="lead">Programmation Orientée Objet en PHP</p>
-
+                                        <p>(voir projet Product Hunt)</p> 
 
                                        
                                     </div>
