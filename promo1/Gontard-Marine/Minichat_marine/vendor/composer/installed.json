@@ -1,0 +1,44 @@
+[
+    {
+        "name": "mistic100/randomcolor",
+        "version": "1.0.4",
+        "version_normalized": "1.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mistic100/RandomColor.php.git",
+            "reference": "394b2a6f87b7cdc2ae0bfb02dd59b9e35fd08d8a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mistic100/RandomColor.php/zipball/394b2a6f87b7cdc2ae0bfb02dd59b9e35fd08d8a",
+            "reference": "394b2a6f87b7cdc2ae0bfb02dd59b9e35fd08d8a",
+            "shasum": ""
+        },
+        "time": "2018-04-16T19:31:57+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Colors\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Damien \"Mistic\" Sorel",
+                "email": "contact@git.strangeplanet.fr",
+                "homepage": "http://www.strangeplanet.fr"
+            }
+        ],
+        "description": "Generate attractive random colors",
+        "homepage": "https://github.com/mistic100/RandomColor.php",
+        "keywords": [
+            "color",
+            "generator",
+            "random"
+        ]
+    }
+]
