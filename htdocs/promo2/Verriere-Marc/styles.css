@@ -1,0 +1,110 @@
+.section-parallax{
+    background-position:center bottom;
+    background-size:cover;
+}
+.nav-tabs .nav-link.active{
+    background-color: #f3f3f3 !important;
+    border-bottom-color: black;
+}
+
+.capfirst:first-letter {
+    font-variant:small-caps; 
+    font-size:2.5em; 
+    line-height: 0.5em; 
+    margin:7px 5px 0 0; 
+    float:left;
+    color: black;
+}
+
+.img-marc {
+    position: sticky;
+    top: 25vh;
+}
+
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+#liens a i.mylink{
+    color: black !important;
+    box-shadow : 1px 1px 4px blue;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#liens a i.mylink:hover {
+    box-shadow : 1px 1px 10px grey;
+}
+
+#liens a:hover {
+    text-decoration: none;
+}
+    
+#liens {
+    margin-top: 50px;
+}
+
+#image-marc {
+    animation: slide-h1acceuil 3s, rotate 2.5s;
+    box-shadow : 1px 1px 5px grey;
+    text-align: center;
+    padding: 40px;
+    border-radius: 15px;
+    margin-right: 30px;
+}
+
+#image-marc img {
+    border: 1px solid grey;
+    padding: 0 !important;
+    box-shadow : 1px 1px 10px grey;
+}
+
+#image-marc img:hover {
+    box-shadow : 1px 1px 10px blue;
+}
+
+.citation {
+    margin-top: 40px;
+}
+
+.citation h4 {
+    maargin-bottom: 10px;
+}
+.citation cite {
+    text-align: right;
+    display: block;
+    font-size: 0.8em;
+    text-decoration: underline;
+}
+
+
+@keyframes slide-h1acceuil {
+    0%   { right:+105%; top:0;}
+    20%   { right:+105%; top:0;}
+    100%  { right:0; top:0;}
+}
+
+@keyframes rotate {
+    0%   { transform: rotate(0deg);}
+    34%   { transform: rotate(0deg);}
+    66%   { transform: rotate(-5deg);}
+    85%   { transform: rotate(+5deg);}
+    100%  { transform: rotate(0deg);}
+}
+
+@media all and (max-width: 550px){
+    #image-marc{
+	display: none;
+    }
+    #liens {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	text-align: center;
+    }
+    #liens a{
+	margin-bottom: 50px;
+    }
+
+}

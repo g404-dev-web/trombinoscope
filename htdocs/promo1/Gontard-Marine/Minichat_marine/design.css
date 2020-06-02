@@ -1,0 +1,58 @@
+body {
+    background-image: url("http://www.thisiscolossal.com/wp-content/uploads/2016/05/tumblr_o515shCl8I1r4dhkuo1_500.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* bouton envoyer */
+.btn {
+    font-size: 0.6em;
+}
+
+.jumbotron {  
+    background-image: url("https://i.pinimg.com/originals/eb/a2/c4/eba2c4136ca563f6904152068e2587bf.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 30px; 
+    width:70%;
+    margin:auto;
+    min-height:100px;
+    text-shadow: 4px 10px 4px rgb(250, 245, 245);
+    border-radius:25px 25px 25px 25px;
+    }
+    p {
+        font-size: 1em;
+    }
+
+    .badge2 {
+        position: relative;
+        top: -40px;
+        font-size:0.7em;
+        float:right;
+    }
+
+    .display-4 {
+        font-size:1.3em;
+        color: #21051C;
+       
+    }
+
+    .form-control {
+       color: #E8168A;
+    }
+
+    .form-group {
+        font-size: 0.8em;
+        color: #380521;
+    }
+    .pseu {
+        color: white;
+        text-shadow: 10px 9px 10px rgb(88, 1, 1);
+        font-size:1.3em;
+       
+    }
+    #messages {
+        font-size:1em;  
+    }
+       
