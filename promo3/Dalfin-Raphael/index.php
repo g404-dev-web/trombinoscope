@@ -165,6 +165,7 @@
                                                     href="https://github.com/wheelchair69/minijeucombat"
                                                     target="_blank">Voir le projet</a>
                                             </div>
+                                        </div>
                                     </div>
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
