@@ -107,14 +107,15 @@
                                     <h3>Développeur junior Web et Mobile </h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                        <p>Je m'intéresse au monde de l'informatique depuis 10 ans.</p> 
+                                        <p>Je me suis intéressé au monde de l'informatique depuis 10 ans.</p> 
                                         <p>Quand j'ai commencé à travailler à 18 ans, 
-                                        j'ai fais un BEP transport routier par défaut. En parallèle, je me passionne sur l'évolution des métiers de la technologie.</p>
-                                        <p>Après, 12 ans en tant que chauffeur routier.
-                                        j'aimerais m'investir dans un projet/métier qui pourrais plus me correspondre.<br> 
+                                        ne trouvant pas de formation adéquate dans le devellopement web, j'ai effectué un BEP transport routier tout en continuant à être passionné par les nouvelles technologies.</p>
+                                        <p>Après, 12 ans en tant que chauffeur routier.<br>
+                                        Mon employeur ma donné l'opportunité de faire une reconversion professionelle dans le domaine du dévellopement web.
+                                        cela ma permis de m'investire dans un projet/métier qui pourrais d'avantage me correspondre.<br> 
                                         L’expérience que j'ai eu en tant que chauffeur poids lourd m'a appris à être autonome ,
                                         organisé et efficient.</p><br> 
-                                        Grace à cela, j'ai développé la capacité de m'adapter à toute situation, à vivre en communauté et à respecter mes collaborateurs.<br>
+                                        Grace à cela, j'ai développé la capacité à m'adapter à toute situation, à vivre en communauté et à respecter mes collaborateurs.<br>
                                         <p>Ce qui m’intéresse le plus dans ce métier c'est qu'il est en constante évolution.<br> 
                                         Chaque projet est différent selon la demande du client ainsi que la relation clientèle et la participation commune aux projets.</p>
 
@@ -166,49 +167,56 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Instgrame-binome</h4>
+                                                <h4 class="card-title">Instgram-binôme</h4>
                                                 <p class="card-text">
-                                                    Project effectué en duo avec <a
+                                                    Projet effectué en duo avec <a
                                                         href="../Avon-Antonin/index.html">Avon
                                                         Antonin</a>. L'objectif était de reproduire
                                                     les fonctionnalités principales d'Instagram.
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                <a class="btn btn-lg btn-outline-info m-2"
                                                     href="https://github.com/lucasgirard42/Instagram-binome"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Game-Fight</h4>
+                                                <p class="card-text">Exercice qui reproduit un jeu de combat en POO PHP.
+                                                   
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-info m-2"
+                                                    href="https://github.com/lucasgirard42/Comba"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <!--<div class="col-8 text-left">
+                                        <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
+                                            Notre projet instagram-binôme : 
+                                            <br>le Front-end est en HTML, CSS et
+                                            bootstrap. <br> les mots de passes (crypter), les messages et les images sont dynamiquement envoyés
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead"></p>
+                                        <p class="lead">programmation orientée objet (POO)</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
+                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b> et <b>PHP</b>
                                             j'ai plusieurs projets en <span
                                                 title="Work In Progress">W.I.P</span> tels que :
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li>un site vitrine de création de couture et costume.</li>
+                                                <li>un site d'un salon de coiffure avec prise de rendez-vous, espace membre
+                                                    et gestion de stock.
+                                                </li>
+                                                <li>une application mobile dans la gestion et conduite dans le transport routier.</li>
                                             </ul>
-                                    </div>-->
+                                    </div>
                                 </div>
                                 <hr>
                             </section>
