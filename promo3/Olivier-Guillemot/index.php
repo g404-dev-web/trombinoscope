@@ -115,7 +115,7 @@
                                                 target="_blank">
                                                 <i class="fa fa-github d-inline fa-lg mr-3 text-primary "></i>
                                             </a>
-                                            <a href=https://www.linkedin.com/feed/
+                                            <a href="https://www.linkedin.com/in/olivier-guillemot-299057186/"
                                                 class="liens" target="_blank" >
                                                 <i class="fa fa-linkedin d-inline fa-lg mr-3 text-primary"></i>
                                             </a>

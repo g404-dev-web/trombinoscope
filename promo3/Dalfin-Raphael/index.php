@@ -104,24 +104,24 @@
                                         src="../Dalfin-Raphael/img/bildsökning2852.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3>Développeur Web et Web Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
+                                        Web Mobile</p>
                                     <p>
                                         J'ai toujours été très pasionné par le monde de l'informatique qui est pour moi
                                         un univers complet,
-                                        ayant précedement travaillé en tant que technicien informatique de niveau 2, je me lance dans
-                                        le domaine qui me motive le plus.<br>
+                                        ayant précedement travaillé en tant que technicien informatique de niveau 2 pour une grosse societé de Roanne , j'ai décidé de me lancer dans
+                                        le domaine qui me motive le plus : la programmation ! <br>
                                         J'ai des connaissances avancées en anglais (TOEFL iBT 90 Pts 2017) 
-                                        qui me sont un veritable plus dans le domaine du developpement web.
+                                        qui sont un veritable atout dans le domaine du developpement web.
                                     </p>
                                     <p>
-                                        J'ai entendu parler de la formation d'un ami présent dans la promotion 2, 
-                                        étant un passionné d'informatique, et ayant un précédent travail dans ce domaine,
-                                        je tente ma chance en passant les exercices d'application.
+                                        J'ai entendu parler de la formation suite à la réussite profesionnelle d'un ami présent dans la précedente promotion de ce même organisme, 
+                                        ce qui m'a motivé à m'inscrire.
+                                        
                                         <br><br>
-                                        La Grande École du Numérique de Simplon Roanne retint mon
-                                        profil, je fais donc parti de cette formation dans laquelle j'entrepends de continuer à donner mon maximum.
+                                        La Grande École du Numérique de Simplon Roanne a retenu mon
+                                        profil suite aux séléctions et c'est donc avec joie que j'ai pu rejoindre cette nouvelle session. Depuis le début de ma formation au 1er avril, je ne cesse d'approfondir mes connaissances et monter en compètences.
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
@@ -158,33 +158,41 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">SASS Training</h4>
+                                                <h4 class="card-title">Mini jeu de combat</h4>
                                                 <p class="card-text">Exercice d'entrainement avec
-                                                    pour objectif d'obtenir un fichier SASS
-                                                    reproduisant un fichier CSS.</p>
+                                                    pour objectif de realiser un mini jeu de combat</p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
-                                                <p class="card-text">
-                                                    Project effectué en duo avec <a
-                                                        href="../Emilie-Catteau/index.html">Émilie
-                                                        Catteau</a>. L'objectif était de reproduire
-                                                    les fonctionnalités principales d'un jeu de type
-                                                    QCM.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/quizzy"
+                                                    href="https://github.com/wheelchair69/minijeucombat"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                     </div>
+                                    <div class="col-4">
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Instaclone</h4>
+                                                <p class="card-text">Representer Instagram par le biais d'un TP</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/wheelchair69/instaclone"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Minichat</h4>
+                                                <p class="card-text">Exercice d'entrainement avec pour but 
+                                                    de faire un mini chat avec php/js
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/simplon-roanne/minichat-p3"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP, JS et
                                             MySQL</p>
                                         <p>
                                             Le mini chat est composé d'une interface en HTML, CSS et
@@ -192,27 +200,19 @@
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
+                                        <p class="lead">Utilisation de MySQL</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
                                         <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                            j'ai un projet en cours pour le moment : 
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li> Un site avec pour but de pouvoir se mettre a plusieurs sur une vidéo youtube
+                                                    au même moment.
+                                                    </li>
+
                                             </ul>
                                     </div>
-                                </div>
                                 <hr>
                             </section>
                         </div>

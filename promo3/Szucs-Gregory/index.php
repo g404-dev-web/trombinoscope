@@ -90,18 +90,22 @@ $email = "gregory.z.szucs@gmail.com";
                                     <img class="img-fluid rounded-circle p-3" id="szucs-gregory" src="images/szucs-gregory.png" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
+                                    <h3>Développeur Web et Web Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
+                                        Web Mobile</p>
                                     <p class="bio">Précédemment Directeur Artistique dans l'industrie du jeux vidéo (DONTNOD Entertainment, PHOENIX Interactive pour UBISOFT),
-                                       je repackage actuellement toute mon expérience dans le domaine du développement Web !
+                                       je repackage actuellement toute mon expérience dans le domaine du développement Web.
+
+                                       <p class="bio">Je suis fraîchement installé dans la région Roannaise à Charlieu et j'ai directement sauté dans l'aventure Simplon.</p>
+                                       
+                                       <p class="bio">A bientôt !</p>
                                     </p>
-                                    <!-- <div class="blockquote">
+                                    <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                            What time is it ? Game time !
+                                            <cite>90s-era Chicago Bulls</cite>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
