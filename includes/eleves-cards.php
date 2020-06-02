@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- COPIER CE BLOC -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/simplonien-test">
@@ -13,8 +13,7 @@
     </a>
 </div>
 
-=======
->>>>>>> 235caafab364e0fe28da3b6aeee6767e5cdfce8a
+
 <!-- /COPIER CE BLOC -->
 
 <!-- CARD OLIVIER GUILLEMOT -->
