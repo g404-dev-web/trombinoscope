@@ -5,7 +5,7 @@
             <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
-                    <b>Simplonien Test</b>
+                    <b>Simplonien Tests</b>
                 </p>
             </div>
         </div>
@@ -54,7 +54,7 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Céline LEROUX</b>
-                    </p>
+                </p>
             </div>
         </div>
     </a>
@@ -68,7 +68,6 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Girard Lucas</b>
-
                 </p>
             </div>
         </div>
