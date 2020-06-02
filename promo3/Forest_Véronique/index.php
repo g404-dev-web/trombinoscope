@@ -102,7 +102,7 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img id="pictvf" class="img-fluid rounded-circle p-3"
-                                        src="./pictures/vf.jpg" alt="Card image">
+                                        src="./pictures/300vf.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
