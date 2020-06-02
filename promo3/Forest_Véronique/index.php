@@ -101,7 +101,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3"
+                                    <img id="pictvf" class="img-fluid rounded-circle p-3"
                                         src="./pictures/vf.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
@@ -213,9 +213,9 @@
                                                     Bootstrap. L'objectif était de reproduire un
                                                     site fidèle au modèle fourni en png.
                                                 </p>
-                                                <!-- <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/OneMillionLines"
-                                                    target="_blank">Voir le projet</a> -->
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/VEROFOREST/ONE-MILLION.git"
+                                                    target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
