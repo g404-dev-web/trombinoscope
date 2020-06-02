@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "pro.girard.lucas@gmail.com";
+    $email = "pro.lucas.girard@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
