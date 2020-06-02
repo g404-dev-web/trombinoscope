@@ -1,0 +1,23 @@
+.section-parallax{
+    background-position:center bottom;
+    background-size:cover;
+}
+.nav-tabs .nav-link.active{
+    background-color: #f3f3f3 !important;
+    border-bottom-color: rgb(0, 0, 0);
+}
+.hover-me{
+  
+   filter: grayscale(100%);
+   box-shadow: grey -2px -3px 11px ;
+    transition: 200ms all linear
+
+}
+.hover-me:hover{
+    filter: grayscale(0%);
+   box-shadow: grey 2px 3px 7px ;
+
+
+    
+    
+}
