@@ -1,0 +1,43 @@
+.section-parallax {
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.nav-tabs .nav-link {
+    color:#fff;
+}
+.nav-tabs .nav-link.active {
+    background-color: #f3f3f3 !important;
+    border-bottom-color: black;
+}
+
+.liens {
+    margin-top: 2%;
+}
+
+
+.logo {
+    height: 22px;
+    
+}
+li{
+    list-style:  none;
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 100;
+}
+
+i{
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 100;
+}
+.lead{
+    font-size:1.1rem;
+    font-weight: 400;
+    line-height: 1.3;
+    }
+
+
+
+
