@@ -108,7 +108,7 @@
                                 <div class="col-8 text-left">
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Attiré par l'univers du numériquement et plus particulierement au secteur du développement web, 
+                                    <p>Attiré par l'univers du numérique et plus particulierement au secteur du développement web, 
                                         j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
                                     <br>
                                     <br>
@@ -120,6 +120,7 @@
                                         La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
                                         pour changer de direction profetionnel !
                                     </p>
+
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">

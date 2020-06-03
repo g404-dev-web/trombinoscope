@@ -6150,4 +6150,8 @@ body {
     border-color: #F19120;
 }
 
+.modal-body {
+  width: 820px;
+}
+
 /*# sourceMappingURL=style.css.map */
