@@ -102,7 +102,7 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="images\mateo.JPG" alt="Card image" id="balthazard">
+                                        src="images\mateo.jpg" alt="Card image" id="balthazard">
 
 </br>
 
