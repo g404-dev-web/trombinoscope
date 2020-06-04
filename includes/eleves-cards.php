@@ -237,7 +237,7 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Victoria-Lasnon">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3/Victoria-Lasnon/img/victoria.jpg" alt="Card image">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Victoria-Lasnon/victoria.jpg" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Victoria Lasnon</b>
