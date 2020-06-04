@@ -1,19 +1,3 @@
-
-<!-- COPIER CE BLOC -->
-<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-    <a class="img-effect" href="promo3/simplonien-test">
-        <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
-            <div class="card-body p-0">
-                <p class="mt-3 mb-1">
-                    <b>Simplonien Tests</b>
-                </p>
-            </div>
-        </div>
-    </a>
-</div>
-
-
 <!-- /COPIER CE BLOC -->
 
 <!-- CARD OLIVIER GUILLEMOT -->
@@ -55,10 +39,7 @@
                  alt="portrait">
             <div class="card-body p-0 mb-3">
                 <p class="mt-3 mb-1">
-
-                    <b>Céline LEROUX</b>
-
-
+                    <b>Céline Leroux</b>
                 </p>
             </div>
         </div>
@@ -73,6 +54,7 @@
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Girard Lucas</b>
+
                 </p>
             </div>
         </div>
@@ -224,7 +206,7 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5" id="Szucs-Gregory">
     <a class="img-effect" href="promo3/Szucs-Gregory">
     <div class="card project">
-        <img class="card-img img-effect rounded-circle effect" src="promo3/Szucs-Gregory/images/szucs-gregory.png" alt="Card image">
+        <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
         <div class="card-body p-0">
             <p class="mt-3 mb-1">
                 <b>Gregory Z. Szucs</b>
@@ -250,29 +232,19 @@
     </a>
 </div>
 <!-- END CARD Yoan Chalavon -->
+
+<!-- CARD Victoria  -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-    <a class="img-effect" href="promo3/Avon-Antonin">
+    <a class="img-effect" href="promo3/Victoria-Lasnon">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3/Avon-Antonin/img/ExportProfil.jpg" alt="Card image">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Victoria-Lasnon/img/victoria.jpg" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
-                    <b>Antonin Avon</b>
+                    <b>Victoria Lasnon</b>
                 </p>
             </div>
         </div>
     </a>
 </div>
-<!-- TROMBI MATEO -->
-<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-    <a class="img-effect" href="promo3/Matéo-Balthazard">
-        <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3/Matéo-Balthazard/images/mateologo.jpg" alt="Card image">
-            <div class="card-body p-0">
-                <p class="mt-3 mb-1">
-                    <b>Matéo Balthazard</b>
-                </p>
-            </div>
-        </div>
-    </a>
-</div>
-<!-- TROMBI MATEO FIN -->
+<!-- FIN CARD Victoria -->
+
