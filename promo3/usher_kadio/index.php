@@ -164,7 +164,7 @@ $email = "kadiousherxavier@gmail.com";
                                       <h3 class = "animate__animated animate__bounceIn">Développeur Web et Mobile</h3>
                                       <p class = "lead">Actuellement en formation Développeur Web et
                                           Mobile</p>
-                                      <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’as permis de connaître les bases du développement ( en C et C++).
+                                      <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’a permis de connaître les bases du développement ( en C et C++).
                                        <br> <br>Suite à cette formation j’ai travaillé pendant un an  dans un bureau
                                        d’études avant que ma passion pour le développement
                                        web ne soit plus forte. Après une rupture
