@@ -111,7 +111,7 @@
                                         et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
                                         comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
                                         Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
-                                        et ou j'ai acquis une nouvelle dimension.<br><br>
+                                        et ou j'ai continué à développer mon analyse et ma logique.<br><br>
                                         J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
                                         de mes nouveaux savoirs.                     
 
