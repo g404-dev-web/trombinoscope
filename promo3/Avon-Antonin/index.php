@@ -115,7 +115,7 @@
                                     </p>
                                     <p>
                                         Début 2020, j'ai eu l'envie d'apprendre à créer une application mobile via Flutter/Dart. J'ai donc
-                                        suivi un cours sur Udemy, qui je le reconnais, était incompréhensible.
+                                        suivi un cours sur Udemy, mais je reconnais qu'il me manquait les bases en programmation.
                                         Suite à ça et à differentes recherches, il était évident que j'avais d'abord besoin des bases dans le
                                         développement web avant de m'attaquer à ça. Déterminé à changer de carrière professionnelle, j'ai donc postulé
                                         à la formation Dev Web de Simplon.
