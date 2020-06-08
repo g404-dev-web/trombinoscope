@@ -87,7 +87,7 @@ $email = "victoria.lasnon@laposte.net";
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3" id="Victoria-Lasnon" src="images/Victoria-Lasnon.jpg" alt="Card image">
+                                    <img class="img-fluid rounded-circle p-3" id="Victoria-Lasnon" src="victoria.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur back end</h3>
