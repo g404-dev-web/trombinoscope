@@ -106,20 +106,22 @@
                                     <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers le code.<br><br>
+                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers les languages de programmation.<br><br>
                                         J'ai fait un Bac Scientifique
                                         qui m'a permis un peu mieux à appréhender tout ce qui est 
                                         algorithmie et les principes logiques du code.<br>
-                                        Mon niveau assez correct en anglais
+                                        Mon bon niveau en anglais
                                         me permet de comprendre les différentes ressources 
-                                        mises à disposition dans notre domaine.
+                                        mises à disposition dans ce domaine.
                                     </p>
                                     <p>
                                         Début novembre 2019, avec l'aide de la Mission Locale (Roanne), j'ai entendu parler
-                                        de la formation qui était disponible chez Simplon.
+                                        de la formation qui était disponible à Simplon Roanne.
                                         <br><br>
                                         Suite à cela, j'ai passé les tests en ligne, et j'ai reçu la convocation
                                         pour les entretiens que j'ai réussis.
+                                        <br><br>
+                                        Depuis le début de la formation, je prends un réel plaisir à approfondir mes connaissances.
                                     </p>
                                     <!--
                                     <div class="blockquote">
