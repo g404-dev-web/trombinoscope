@@ -5,7 +5,8 @@
 // C'est votre page ! Faites en ce que vous voulez.
 $email = "kadiousherxavier@gmail.com";
 
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
   <html>
 
   <head>
