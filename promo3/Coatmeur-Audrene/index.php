@@ -113,7 +113,10 @@
                                         <b>D'où viens-je?</b> Originellement, j'étais une commerciale qui vendait du 
                                         référencement internet aux professionnels. Entre garder un métier qui ne me 
                                         passionnait pas, et me reconvertir, j'ai choisi. J'ai pris mon temps pour trouver 
-                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé!
+                                        <i>la</i> formation qu'il me fallait, et je l'ai trouvé! C'est un plaisir 
+                                        d'apprendre à écrire un code toujours plus propre, plus optimisé, et rien 
+                                        n'égale la satisfaction de résoudre un problème et de voir le résultat attendu 
+                                        s'afficher à l'écran.
                                     </p>
                                     <p class="lead">
                                         <b>Où vais-je?</b> Vers le dev web full stack apparement. Pour l'instant, tout ce 
@@ -146,6 +149,17 @@
                                     <ul>
                                         <li>
                                             <p>Programmation orientée objet</p>
+                                        </li>
+                                    </ul>
+                                    <h3>
+                                        Soft skills :
+                                    </h3>
+                                    <ul>
+                                        <li>
+                                            <p>Sociable, à l'écoute</p>
+                                            <p>Curieuse</p>
+                                            <p>Patiente</p>
+                                            <p>Sens de l'humour</p>
                                         </li>
                                     </ul>
                                 </div>

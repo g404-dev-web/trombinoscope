@@ -12,19 +12,26 @@
 }
 
 .liens {
-    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 16%
 }
 
 .logo {
     height: 22px;
 }
 
-#matthiasPellacoeur {
-    transform: scale3d(1, 1, 1);
-    transition: ease-in-out 0.4s;
+h3 {
+
+    text-align: center;
 }
 
-#matthiasPellacoeur:hover{
-    transform: scale3d(1.1, 1.1, 1.1);
-    transition: ease-in-out 0.5s;
+.lead {
+
+    margin-left: 10%;
 }
+
+
+
+
+
+

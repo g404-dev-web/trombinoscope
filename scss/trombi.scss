@@ -81,3 +81,15 @@
     text-decoration: none;
 }
 }
+
+#balthazard {
+    width: 300px;
+	-webkit-transform: scale(1.10);
+	transform: scale(1.10);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+#balthazard:hover {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
