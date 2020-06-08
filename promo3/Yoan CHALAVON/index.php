@@ -108,17 +108,22 @@
                                 <div class="col-8 text-left">
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Attiré par l'univers du numérique et plus particulierement au secteur du développement web, 
-                                        j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
+                                    <p>Attiré par l'univers du numérique et plus particulièrement part le secteur du développement web,
+                                        j'ai fait le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
                                     <br>
                                     <br>
-                                        Diplômé d'un CAP Installateur thermique obtenu en 2010. A la suite de ça, mon parcours professionnel c'est tourné dans le secteur de l'industrie en temps que conducteur de ligne puis carriste et enfin conducteur d'angins et de ligne.
+                                        Diplômé d'un CAP installateur thermique obtenu en 2010. A la suite de ça, mon parcours
+                                        professionnel s'est tourné dans le secteur de l'industrie en tant que conducteur de ligne
+                                        puis carriste et enfin conducteur d'engins et de ligne.
                                     </p>
                                     <p>
-                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de developpeur web et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaire pour mon inscription à cette Promo 3.
+                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de développeur web
+                                        et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaires
+                                        pour m'inscrire à cette Promo 3. En décembre 2019, l'école, en partenariat avec pôle emploi proposait 
+                                        une formation de trois jours d'initiation au codage à laquelle j'ai participé, ce qui a confirmé mon choix.
                                     <br><br>
-                                        La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
-                                        pour changer de direction profetionnel !
+                                        La formation a débuté début avril, c'est pour moi l'heure de faire mes preuves et le néssécaire.
+                                        pour changer de direction professionnelle !
                                     </p>
 
                                     <div class="blockquote">
