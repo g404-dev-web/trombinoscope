@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+<?php
+
+    // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
+    // Le reste des infos est à changer manuellement.
+    // C'est votre page ! Faites en ce que vous voulez.
+    $email = "esther.itam@live.fr";
+
+?><!DOCTYPE html>
 <html>
 
 <head>
@@ -6,128 +13,288 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplon Roanne</title>
+    <title>Simplonien Test - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="css/style.css">
-    <!-- scss -->
-    <link rel="stylesheet" href="css/trombi.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        type="text/css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="styles.css">
+    <!-- scss 
+    <link rel="stylesheet" href="styles.css">
+    -->
     <!-- Script: Navbar on-top -->
 
-    <script src="js/navbar-ontop.js"></script>
-
-    <?php if(isset($_GET["send-success"])) : ?>
-        <script>alert('Votre message a bien été envoyé.')</script>
-    <?php elseif(isset($_GET["send-fail"])) : ?>
-        <script>alert("Votre message n'a pas pu être envoyé à cause d'une erreur.")</script>
-    <?php endif; ?>
+    <script src="../../js/navbar-ontop.js"></script>
 </head>
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
+    <nav class="navbar navbar-expand fixed-top navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">Simplon</a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar3SupportedContent" aria-controls="navbar3SupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <a class="navbar-brand" href="http://trombi.simplon-roanne.com">Simplon</a>
+
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbar3SupportedContent" aria-controls="navbar3SupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse text-center justify-content-end" id="navbar3SupportedContent">
-                <ul class="navbar-nav">
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" href="#missions">Missions</a>-->
-<!--                    </li>-->
-                    <li class="nav-item mx-2 mb-2 my-md-0">
-                        <a class="nav-link" href="#team">Equipe</a>
-                    </li>
-                </ul>
-                <a class="btn navbar-btn btn-outline-light" href="#contact">Contact</a>
+            <div class="collapse navbar-collapse text-center justify-content-end"
+                id="navbar3SupportedContent">
+
+                <a class="btn navbar-btn btn-outline-light"
+                    href="http://trombi.simplon-roanne.com">Retour à l'accueil</a>
             </div>
         </div>
     </nav>
     <!-- Navbar end -->
     <!-- First section -->
-    <div class="py-5 text-center cover d-flex flex-column bg-dark text-white">
-        <div class="container my-auto">
+    <div class="py-5 text-center section-parallax filter-dark bg-fixed"
+        style="background-image: url('/assets/promo2/simplon.jpg');">
+        <div class="container py-5">
             <div class="row">
-                <div class="mx-auto col-lg-6 col-md-8">
-                    <h1 class="display-1 mb-0 mt-5 big-title">Promo3</h1>
-                    <h3 class="mb-4">
-                        <b>Ecole Simplon Roanne</b>
-                    </h3>
-
-                    <p>Simplon Roanne est un projet initié par Onevalue en partenarait avec Roannais Agglomération, notre école est hébergée au Numériparc, au plus proche des entreprises de la filière numérique.
-
-                        <br>Nous proposons des formations en développement web, gratuites et intensives.</p>
-                </div>
-            </div>
-        </div>
-        <div class="container mt-auto">
-            <div class="row">
-                <div class="mx-auto col-lg-6 col-md-8 col-10">
-                    <a href="#mission">
-                        <i class="d-block fa fa-angle-down fa-2x"></i>
-                    </a>
+                <div class="col-12">
+                    <h1 class="display-4 mb-0">Esther Itam</h1>
+                    <h3 class="my-0">Développeur web</h3>
                 </div>
             </div>
         </div>
     </div>
-<!--    <div class="py-5 filter-dark cover bg-fixed" style="background-image: url('assets/promo2/simplon.jpg');background-position:center bottom;background-size:cover;" id="mission">-->
-<!--        <div class="container my-auto">-->
-<!--            <div class="row">-->
-<!--                <div class="col-md-8 p-3 text-white">-->
-<!--                    <h2 class="mb-4">Notre mission</h2>-->
-<!--                    <p class="lead">-->
-<!--                        <i>Mené dans une démarche d’innovation sociale,-->
-<!--                            <br>ce projet constitue un double défi</i>-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--                <div class="col-xs-12 col-md-6 p-3 text-white">-->
-<!--                    <h2 class="mb-4">Social</h2>-->
-<!--                    <p class="lead">-->
-<!--                        <i>Agir sur l’emploi et la qualification de publics marginalisés sélectionnés uniquement sur la base-->
-<!--                            de leur motivation et de critères sociaux, et non sur la base des diplômes.</i>-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--                <div class="col-xs-12 col-md-6 p-3 text-white">-->
-<!--                    <h2 class="mb-4">Économique</h2>-->
-<!--                    <p class="lead">-->
-<!--                        <i>Répondre aux besoins de recrutement des entreprises du numérique engagées dans cette démarche citoyenne.</i>-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-    <!-- End first section -->
-    <!-- Trombinoscope -->
-    <div class="py-5 text-center" id="team">
+    <!-- Second Section -->
+    <div class="container-fluid text-center bg-dark">
+        <ul class="nav nav-tabs row">
+            <li class="nav-item col-4 px-0">
+                <a href="javascript:void(0);" data-target="#profile" class="nav-link h3 my-0 active"
+                    aria-controls="profile" aria-selected="true" data-toggle="tab" id="profile-tab"
+                    role="tab">Profil</a>
+            </li>
+            <li class="nav-item col-4 px-0">
+                <a href="javascript:void(0);" data-target="#projects" class="nav-link h3 my-0"
+                    aria-controls="projects" aria-selected="false" data-toggle="tab"
+                    id="projects-tab" role="tab">Projets</a>
+            </li>
+            <li class="nav-item col-4 px-0">
+                <a href="javascript:void(0);" data-target="#contact" class="nav-link h3 my-0"
+                    aria-controls="contact" aria-selected="false" data-toggle="tab" id="contact-tab"
+                    role="tab">Contact</a>
+            </li>
+        </ul>
+    </div>
+    <!-- Third Section -->
+    <div class="bg-light py-4">
         <div class="container">
             <div class="row">
-                <div class="col-md-12"> </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="mb-4">Promotion Roanne _03</h2>
+                <div class="col-12">
+                    <div class="tab-content my-2" id="myTabContent">
+                        <!-- First tab -->
+                        <div class="tab-pane fade show active" id="profile" role="tabpanel"
+                            aria-labelledby="profile-tab">
+                            <div class="row text-center">
+                                <div class="col-12">
+                                    <h2 class="display-4">Mon profil</h2>
+                                    <hr>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <img class="img-fluid rounded-circle p-3"
+                                        src="./images/portrait.jpg" alt="Card image">
+                                </div>
+                                <div class="col-8 text-left">
+                                    <h3>Développeur Web et Mobile</h3>
+                                    <p class="lead">Actuellement en formation Développeur Web et
+                                        Mobile</p>
+                                    <p>Après 9 ans de rigeur et de précision comme technicienne en laboratoire d'Immunologie
+                                        et de Biologie Moléculaire, j'ai naturellement choisi de débuter une nouvelle vie
+                                        comme Développeur web afin d'allier mon esprit d'analyse et de logique à ma créativité.<br><br>
+                                        Depuis toujours passionnée d'informatique, je me suis investie dans cette formation ou je me suis épanouie
+                                        et ou j'ai continué à développer mon analyse et ma logique.<br><br>
+                                        J'ai hâte de replonger dans le monde professionnel, de faire mes preuves et de vous faire profiter
+                                        de mes nouveaux savoirs.                     
+
+                                    </p>
+                                    <div class="blockquote">
+                                        <p class="mb-2">Citations</p>
+                                        <div class="blockquote-footer">
+                                        L'ignorant affirme, le savant doute, le sage réfléchit.
+                                            <cite>Aristote</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                        Les routes les plus difficiles mènent aux plus belles destinations.
+                                            <cite>Anonyme</cite>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                <div class="mb-0">
+                                    <b class="lead">Liens :</b>
+                                    <div class="liens">
+                                        <a href="https://github.com/Esther-Itam" class="liens"
+                                            target="_blank">
+                                            <i
+                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/esther-itam-66116528/"
+                                            class="liens" target="_blank">
+                                            <i
+                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                       <!-- <a href="#"
+                                            class="liens" target="_blank">
+                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
+                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
+                                                    class="logo"></i>
+                                        </a>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Second tab -->
+                        <div class="tab-pane fade" id="projects" role="tabpanel"
+                            aria-labelledby="projects-tab">
+                            <div class="row text-center">
+                                <div class="col-12">
+                                    <h2 class="display-4">Projets</h2>
+                                    <hr>
+                                </div>
+                            </div>
+                            <section class="project py-4">
+                                <!-- One project -->
+                                <div class="row">
+                                    <div class="col-4">
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Site de présentation</h4>
+                                                <p class="card-text">
+                                                    Premier site web réalisé pour l'inscription à l'école Simplon de Roanne
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://fisrtsite-byesther.pagesperso-orange.fr"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Product Hunt</h4>
+                                                <p class="card-text">
+                                                    Projet reproduisant les caractéristiques du site Product Hunt, effectué en duo avec Oliver Guillemot
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Esther-Itam/SIMPLON-Product-Hunt.git"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Mini chat</h4>
+                                                <p class="card-text">
+                                                    Utilisation des cookies. Rafraichissement de la page par AJAX. Manipulation d'une base de donnée.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Esther-Itam/tp_mini-chat.git"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-8 text-left">
+                                        <h3>Compétences acquises</h3>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Apprentissage de divers frameworks (Materialize, Bootstrap).</p>
+                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Réalisation et utilisation d'une base de donnée MySQL</p>
+                                        <p class="lead">Création de pages web en HTML, CSS, PHP7 et
+                                            MySQL</p>
+                                                                            
+                                        <p class="lead">Rédaction de users story par la méthode Agile 
+                                        </p>
+                                        <p>(voir projet Product Hunt)</p>  
+                                        <p class="lead">Création de wireframe au moment de la conception de projet</p>
+                                        <p>(voir projet Product Hunt)</p>                                  
+                                        <p class="lead">Dynamisation de sites web par AJAX</p>
+                                        <p>(voir projet mini chat)</p> 
+                                        <p class="lead">Programmation Orientée Objet en PHP</p>
+                                        <p>(voir projet Product Hunt)</p> 
+
+                                       
+                                    </div>
+                                </div>
+                                <hr>
+                            </section>
+                        </div>
+                        <!-- Third tab -->
+                        <div class="tab-pane fade" id="contact" role="tabpanel"
+                            aria-labelledby="contact-tab">
+                            <div class="row text-center">
+                                <div class="col-12">
+                                    <h2 class="display-4">Contactez-moi</h2>
+                                    <hr>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <h3>Mes coordonnées</h3>
+                                    <ul>
+                                        <li>
+                                            <b>Email</b> : <a
+                                                href="mailto:<?=$email?>"><?=$email?></a>
+                                        </li>
+                                        <li>
+                                            <b>Téléphone</b> : <a href="tel:0678510181">06 78 51 01 81</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-8 text-left">
+                                    <h3>Envoyez un email</h3>
+                                    <!-- Contact form -->
+                                    <form method="post" action="../../api/mail.php">
+                                        <input type="hidden" name="to" value="<?=$email?>">
+                                        <div class="form-group">
+                                            <label for="email">Votre email</label>
+                                            <input type="email"
+                                                   class="form-control form-control-lg"
+                                                   placeholder="Email"
+                                                   required="required"
+                                                   name="email">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="name">Votre nom</label>
+                                            <input type="text"
+                                                   class="form-control form-control-lg"
+                                                   placeholder="Nom"
+                                                   required="required"
+                                                   name="name">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="message">Votre message</label>
+                                            <textarea class="form-control p-1 form-control-lg"
+                                                      rows="3"
+                                                      placeholder="Message"
+                                                      name="message"
+                                                      required="required"></textarea>
+                                        </div>
+                                        <button type="submit"
+                                            class="btn btn-secondary btn-lg">ENVOYER</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row">
 
-                <?php 
-                    include 'includes/eleves-cards.php';
-                ?>
-
-            </div>
         </div>
     </div>
-
-    <!-- End trombinoscope -->
 
     <!-- Footer -->
-    <div class="text-white bg-dark" id="contact">
+    <div class="text-white bg-dark text-center">
         <div class="container">
             <div class="row">
-                <div class="p-5 col-md-6">
+                <div class="p-5 col-8 offset-2">
                     <h3>
                         <b>Smpln</b>
                     </h3>
@@ -152,25 +319,10 @@
                         <i class="fa fa-facebook d-inline fa-lg mr-3 text-white"></i>
                     </a>
                 </div>
-                <div class="p-5 col-md-6">
-                    <h3>Contactez-nous</h3>
-                    <form method="post" action="api/mail.php">
-                        <input type="hidden" name="to" value="zzgael@gmail.com">
-                        <div class="form-group">
-                            <input type="email" class="form-control form-control-sm" placeholder="Votre email" required="required" name="email">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control form-control-sm" id="inlineFormInput" placeholder="Votre nom" required="required" name="name">
-                        </div>
-                        <div class="form-group">
-                            <textarea class="form-control p-1 form-control-sm" id="exampleTextarea" rows="3" placeholder="Votre message" required="required" name="message"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-outline-light btn-sm">ENVOYER</button>
-                    </form>
-                </div>
                 <div class="row">
-                    <div class="col-md-12 mt-3">
-                        <p class="text-center text-muted">© Copyright <?=date('Y')?> Simplon Roanne - Tous droits réservés. </p>
+                    <div class="col-12">
+                        <p class="text-center text-muted">© Copyright 2018 Simplon Roanne - Tous
+                            droits réservés. </p>
                     </div>
                 </div>
             </div>
@@ -179,14 +331,14 @@
 
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
     <!-- Script: Smooth scrolling between anchors in the same page -->
-    <script src="js/smooth-scroll.js"></script>
-
-    <!-- Like Button Challenge
-    <button class="add-like" data-student-id="1">Like</button>
-    <span class="like-count" data-student-id="1"></span>
-    <script src="js/likes.js"></script> -->
+    <script src="/js/smooth-scroll.js"></script>
 </body>
+
 </html>
