@@ -230,8 +230,9 @@
                                         <h3>Projets personnels</h3>
                                         <p>
                                             Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
-                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
-                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
+                                            l'améliore ("restart from scratch" serait plus proche de la vérité!) au fur 
+                                            et à mesure que j'apprends de nouvelles façons de faire. 
+                                            Pour y jeter un coup d'oeil, c'est <a href="https://github.com/Audrene-C/mhw">par ici</a>.
                                         </p>
                                         <p>
                                             Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 
