@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="display-4 mb-0">Perle Mathias</h1>
-                    <h3 class="my-0">Développeuse Back-End</h3>
+                    <h3 class="my-0">Développeuse Web et Mobile</h3>
                 </div>
             </div>
         </div>
@@ -104,46 +104,35 @@
                                         src="./img/perle.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Future Développeuse Back-End</h3>
+                                    <h3>Future Développeuse Web</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
                                     <p>
                                         Passionnée d'informatique depuis 20 ans, j'entretiens une 
                                         relation privilégiée avec cet outil. J'ai occupé un poste de 
-                                        conseillère en dépannage internet, et assuré un rôle de soutien 
-                                        dans un service informatique. Dans ce dernier emploi, j'ai reçu 
-                                        une 1ère initiation à la programmation via des requêtes sur base 
-                                        de données SQL, expérience qui m'a beaucoup plu.
+                                        conseillère en dépannage internet, et assuré un rôle de technicienne 
+                                        assistante en informatique, où j'ai effectué mes premières requêtes SQL.
                                     </p>
                                     <p>
-                                        Durant la période d'inactivité professionnelle qui a suivi, 
-                                        j'ai découvert la programmation via le langage Python.
-                                        Le coup de foudre pour l'algorithmie ayant été aussi immédiat 
-                                        qu'absolu, je me suis initiée aux bases de la programmation en 
-                                        autodidacte. Ayant pris la décision de faire de cette passion mon 
-                                        métier, je me suis alors rapidement tournée vers JavaScript, qui 
-                                        semblait mieux correspondre à mes objectifs professionnels.
+                                        Je me suis par la suite initiée à la programmation par loisir. Le coup 
+                                        de foudre pour l'algorithmie ayant été aussi immédiat qu'absolu, j'ai 
+                                        entrepris d'apprendre les bases du développement en autodidacte. Ayant 
+                                        pris la décision de faire de cette passion mon métier, j'ai choisi
+                                        d'intégrer une formation professionnelle qualifiante.
                                     </p>
                                     <p>
-                                        J'ai récemment eu la chance d'intégrer la 
-                                        fabrique Simplon pour me former au métier de développeuse. En plus 
-                                        des diverses aptitudes techniques, j'ai pu développer des compétences 
-                                        variées telles que la gestion de projet, ou l'utilisation de la 
-                                        documentation et des forums. Mon niveau d'anglais est suffisamment avancé 
-                                        pour exploiter ces ressources, et s'améliore de jour en jour grâce à une 
-                                        pratique intensive. J'ai encore beaucoup à apprendre, mais Simplon m'a 
-                                        enseigné comment apprendre, et cela me sera utile tout au long de ma carrière.
+                                        J'ai alors eu la chance de rejoindre la Fabrique Simplon où je suis formée au 
+                                        métier de développeuse Web et Mobile. En plus des diverses aptitudes techniques, 
+                                        j'y développe des compétences variées telles que la maîtrise des outils de 
+                                        programmation, la gestion de projet, ou le travail en méthode Agile.
                                     </p>
                                     <p>
-                                        Outre ma passion dévorante pour le développement, je possède quelques traits 
-                                        plutôt utiles dans ce métier. Vous l'avez compris, c'est l'instant promo !</br>
-                                        Je suis profondément rigoureuse, et je m'efforce de développer un code 
+                                        Je suis particulièrement rigoureuse, et je m'efforce de développer un code 
                                         clair, cohérent, et respectueux des normes (en un mot : propre). 
                                         J'ai un bon sens de la communication et je suis toujours ravie d'apporter 
-                                        mon aide, je m'intègre donc très bien au travail en équipe. Je suis 
-                                        infiniment curieuse et j'adore apprendre, un trait de caractère plutôt bienvenu 
-                                        dans un domaine en constante évolution. Enfin, je suis dotée d'une persévérance à 
-                                        toute épreuve, un atout certain dans un métier qui exige une grande ténacité. 
+                                        mon aide, je m'intègre donc très bien au travail en équipe. Enfin, je suis dotée 
+                                        d'une persévérance à toute épreuve, et travaille d'arrache-pied pour mener à
+                                        bien mes projets. 
                                         Je fais aussi d'excellents gâteaux.  
                                     </p>
                                     <div class="blockquote">
@@ -157,22 +146,22 @@
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/HeathSilcox" class="liens"
+                                        <a href="https://github.com/Shivalita" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
+                                        <a href="https://fr.linkedin.com/in/perle-mathias-5a08181ab"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
+                                        <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                             </div>
@@ -211,14 +200,14 @@
 
                                         <div class="bg-dark text-white text-center card mt-3">
                                             <div class="card-body">
-                                                <h4 class="card-title">Mini-chat</h4>
+                                                <h4 class="card-title">Fight Game</h4>
                                                 <p class="card-text">
-                                                        L'objectif était de concevoir un chat ayant un affichage dynamique.</br></br>
-                                                        Ce TP a initié mes compétences en programmation asynchrone, et m'a 
-                                                        permis de consolider mes acquis en HTML, CSS, PHP et MySQL.
+                                                        L'objectif était de concevoir un mini-jeu de combat en POO.</br></br>
+                                                        Ce TP a initié mes compétences en Programmation Orientée Objet PHP, 
+                                                        et m'a permis de consolider mes acquis en HTML, CSS et MySQL.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Shivalita/Minichat"
+                                                    href="https://github.com/Shivalita/fight-game"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
@@ -245,9 +234,9 @@
                                             identité visuelle.</br><br>
                                             
                                         </p>
-                                        <p class="lead mt-4">Utilisation de Trello et Wireframe</p>
-                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead mt-4">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Coggle, Trello, Wireframe</p>
                                     </div>
                                 </div>
                                 <hr>
