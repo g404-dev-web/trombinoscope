@@ -3,7 +3,7 @@
 // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
 // Le reste des infos est à changer manuellement.
 // C'est votre page ! Faites en ce que vous voulez.
-$email = "gregory.z.szucs@gmail.com";
+$email = "victoria.lasnon@laposte.net";
 
 ?>
 <!DOCTYPE html>
@@ -51,8 +51,8 @@ $email = "gregory.z.szucs@gmail.com";
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Gregory Z. Szucs</h1>
-                    <h3 class="my-0">Développeur Web</h3>
+                    <h1 class="display-4 mb-0">Victoria Lasnon</h1>
+                    <h3 class="my-0">Développeuse back-end</h3>
                 </div>
             </div>
         </div>
@@ -87,33 +87,43 @@ $email = "gregory.z.szucs@gmail.com";
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img class="img-fluid rounded-circle p-3" id="szucs-gregory" src="images/szucs-gregory.png" alt="Card image">
+                                    <img class="img-fluid rounded-circle p-3" id="Victoria-Lasnon" src="victoria.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Web Mobile</h3>
+                                    <h3>Développeur back end</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
-                                        Web Mobile</p>
-                                    <p class="bio">Précédemment Directeur Artistique dans l'industrie du jeux vidéo (DONTNOD Entertainment, PHOENIX Interactive pour UBISOFT),
-                                       je repackage actuellement toute mon expérience dans le domaine du développement Web.
-
-                                       <p class="bio">Je suis fraîchement installé dans la région Roannaise à Charlieu et j'ai directement sauté dans l'aventure Simplon.</p>
-                                       
-                                       <p class="bio">A bientôt !</p>
+                                        Mobile</p>
+                                    <p class="bio">Je suis passionnée par les nouvelles technologies depuis déjà plusieurs années,
+                                        notamment par la technologie mobile et l'informatique.<br>
+                                        M'étant dirigée précédemment vers la biologie j'ai mis entre parenthèses mon cursus dans le but
+                                        d'obtenir un peu d'expérience professionnelle.<br>
+                                        j'ai donc travaillé pendant 10 mois en tant qu'assistante d'éducation dans un collège, puis pendant 
+                                        un mois en tant qu'assistante ménagère et enfin durant 6 mois au service clientèle d'Enedis<br>
+                                        J'ai depuis eu l'occasion de me retourner vers ma passion du code et de l'informatique afin de continuer
+                                        a apprendre et à progresser dans ce domaine.
                                     </p>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            What time is it ? Game time !
-                                            <cite>90s-era Chicago Bulls</cite>
+                                            Pour réussir, travailler dur, ne jamais abandonner et surtout chérir une obsession magnifique
+                                            <cite>Walt Disney</cite>
+                                        </div>
+                                        <div class="blockquote-footer">
+                                            Le travail d'équipe va dans le bon sens de la cohérence
+                                            <cite>Ali Tagorti</cite>
+                                        </div>
+                                        <div class="blockquote-footer">
+                                            GGGGWAAAAAARRRRGGGGLLLLLLLLLLLLLLL
+                                            <cite>Chewbacca (<i>Star Wars</i>)</cite>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/pozorfluo" class="liens" target="_blank">
+                                        <a href="https://github.com/victorialasnon" class="liens" target="_blank">
                                             <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/gregory-z-szucs-01b0a75/" class="liens" target="_blank">
+                                        <a href="https://www.linkedin.com/in/victoria-lasnon-0790b0153/" class="liens" target="_blank">
                                             <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
@@ -134,18 +144,18 @@ $email = "gregory.z.szucs@gmail.com";
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">clone Product Hunt</h4>
+                                                <h4 class="card-title">clone Instagram</h4>
                                                 <p class="card-text">Exercice mettant en pratique l'ensemble des compétences developpées à Simplon. Effectué en binome avec
-                                                    <a href=../Karfa-Hamza>Hamza Karfa</a>.
+                                                    <a href=../Maureen-Depresle>Maureen Depresle</a>.
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2" href="http://emjjjpl.cluster029.hosting.ovh.net/" target="_blank">Voir le projet</a>
+                                                <a class="btn btn-lg btn-outline-secondary m-2" href="https://github.com/maureen69170/insta-clone" target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-                                        <div class="bg-dark text-white text-center card">
+                                        <!--<div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                                 <h4 class="card-title">Simplony</h4>
                                                 <p class="card-text">
-                                                    Framework lightweight à visée éducative pour application web.
+                                                
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2" href="https://github.com/pozorfluo/simplon-php-skeleton/tree/core/wip" target="_blank">Voir le projet</a>
                                             </div>
@@ -154,23 +164,22 @@ $email = "gregory.z.szucs@gmail.com";
                                             <div class="card-body">
                                                 <h4 class="card-title">showcase Jekyll</h4>
                                                 <p class="card-text">
-                                                    Projet démo d'utilisation de générateur de site statique
+                                                    heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2" href="https://pozorfluo.github.io/index.html" target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>-->
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
                                         <p class="lead bio">Créer une web app ( HTML, CSS, JS, PHP, 
                                             MySQL )</p>
                                         <p>
-                                        <p class="lead bio">Créer une RESTful API ( PHP7, MySQL )</p>
                                         <p class="lead bio">Utilisation de Git</p>
                                         <p class="lead bio">Utilisation de Docker</p>
                                         <p class="lead bio">Utilisation de Visual Studio Code</p>
                                         <h3>Projet personnel</h3>
-                                        <p>Création d'un framework lightweight sur le modèle MVC pour application web (PHP)</p>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <hr>
@@ -192,7 +201,7 @@ $email = "gregory.z.szucs@gmail.com";
                                             <b>Email</b> : <a href="mailto:<?= $email ?>"><?= $email ?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0699201357">06 99 20 13 57</a>
+                                            <b>Téléphone</b> : <a href="tel:0699201357">06 49 78 63 67</a>
                                         </li>
                                     </ul>
                                 </div>

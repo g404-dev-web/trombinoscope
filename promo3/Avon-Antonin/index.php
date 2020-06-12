@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "dalfinraphael@gmail.com";
+    $email = "avon.antonin@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Dalfin Raphael - Simplon Roanne P3</title>
+    <title>Simplonien Test - Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -22,7 +22,7 @@
         type="text/css">
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="styles.css">
-    <!-- scss 
+    <!-- scss
     <link rel="stylesheet" href="styles.css">
     -->
     <!-- Script: Navbar on-top -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Dalfin Raphael</h1>
-                    <h3 class="my-0">Développeur back-end</h3>
+                    <h1 class="display-4 mb-0">Antonin Avon</h1>
+                    <h3 class="my-0">Développeur Junior Full Stack</h3>
                 </div>
             </div>
         </div>
@@ -101,49 +101,65 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="../Dalfin-Raphael/img/bildsökning2852.jpg" alt="Card image">
+                                        src="./img/ExportProfil.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Web Mobile</h3>
+                                    <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
-                                        Web Mobile</p>
-                                    <p>
-                                        J'ai toujours été très pasionné par le monde de l'informatique qui est pour moi
-                                        un univers complet,
-                                        ayant précedement travaillé en tant que technicien informatique de niveau 2 pour une grosse societé de Roanne, j'ai décidé de me lancer dans
-                                        le domaine qui me motive le plus : la programmation ! <br>
-                                        J'ai des connaissances avancées en anglais (TOEFL iBT 90 Pts 2017) 
-                                        qui sont un veritable atout dans le domaine du developpement web.
+                                        Mobile</p>
+                                    <p>Passionné d'informatique depuis mon enfance, c'est avec réel plaisir
+                                        que j'ai intégrer la formation à Simplon Roanne.<br><br>
+                                        Diplomé d'un BAC PRO SEN (Systèmes éléctroniques numériques) et n'ayant pas pu continuer mes études
+                                        , j'ai travaillé plusieurs années dans le commerce.
+                                        <br>
                                     </p>
                                     <p>
-                                        J'ai entendu parler de la formation suite à la réussite profesionnelle d'un ami présent dans la précedente promotion de ce même organisme, 
-                                        ce qui m'a motivé à m'inscrire.
-                                        
+                                        Début 2020, j'ai eu l'envie d'apprendre à créer une application mobile via Flutter/Dart. J'ai donc
+                                        suivi un cours sur Udemy, mais je reconnais qu'il me manquait les bases en programmation.
+                                        Suite à ça et à differentes recherches, il était évident que j'avais d'abord besoin des bases dans le
+                                        développement web avant de m'attaquer à ça. Déterminé à changer de carrière professionnelle, j'ai donc postulé
+                                        à la formation Dev Web de Simplon.
                                         <br><br>
-                                        La Grande École du Numérique de Simplon Roanne a retenu mon
-                                        profil suite aux séléctions et c'est donc avec joie que j'ai pu rejoindre cette nouvelle session. Depuis le début de ma formation au 1er avril, je ne cesse d'approfondir mes connaissances et monter en compètences.
+
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                        Si tu rencontres un homme de valeur, cherche à lui ressembler. Si tu rencontres un homme médiocre, cherche ses défauts en toi-même.
-                                            <cite>Confucius</cite>
+                                            First, solve the problem. Then, write the code.
+                                            <cite>John Johnson</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            Talk is cheap. Show me the code.
+                                            <cite>Linus Torvalds</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            Knowledge is power.
+                                            <cite> Francis Bacon</cite>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/wheelchair69" class="liens"
-                                        
+                                        <a href="https://github.com/Antonin06" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/raphael-dalfin-988a091a8/"
+                                        <a href="https://www.linkedin.com/in/antonin-avon-2a79621a7/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                        <a href="#"
+                                            class="liens" target="_blank">
+                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
+                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
+                                                    class="logo"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -164,42 +180,32 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Mini jeu de combat</h4>
-                                                <p class="card-text">Exercice d'entrainement avec
-                                                    pour objectif de realiser un mini jeu de combat</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/wheelchair69/minijeucombat"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Instaclone</h4>
-                                                <p class="card-text">Representer Instagram par le biais d'un TP</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/wheelchair69/instaclone"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Minichat</h4>
-                                                <p class="card-text">Exercice d'entrainement avec pour but 
-                                                    de faire un mini chat avec php/js
+                                                <h4 class="card-title">Instagram-clone</h4>
+                                                <p class="card-text">
+                                                    Project effectué en duo avec <a
+                                                        href="../Girard-Lucas/">Lucas Girard</a>. L'objectif était de reproduire
+                                                    les fonctionnalités principales d'Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/simplon-roanne/minichat-p3"
+                                                    href="https://github.com/Antonin06/Instagram-binome"
                                                     target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Site perso</h4>
+                                                <p class="card-text">
+                                                    En cours de developpement...
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="http://antoninavon.fr/"
+                                                    target="_blank">Voir le site</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP, JS et
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
                                         <p>
                                             Le mini chat est composé d'une interface en HTML, CSS et
@@ -207,19 +213,17 @@
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de MySQL</p>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Atom</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai un projet en cours pour le moment : 
+                                        <p>Afin d'améliorer mes compétences en <b>FrontEnd</b>
+                                            j'ai plusieurs projets pour mon site personnel, tel que:
                                             <br>
                                             <ul>
-                                                <li> Un site avec pour but de pouvoir se mettre a plusieurs sur une vidéo youtube
-                                                    au même moment.
-                                                    </li>
-
+                                                <li>Plusieurs templates Bootstrap.</li>
+                                                <li>Utilisation de Javascript.</li>
                                             </ul>
                                     </div>
+                                </div>
                                 <hr>
                             </section>
                         </div>
@@ -241,7 +245,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : 06 67 66 17 77
+                                            <b>Téléphone</b> : <a href="tel:0698220698">06 98 22 06 98</a>
                                         </li>
                                     </ul>
                                 </div>

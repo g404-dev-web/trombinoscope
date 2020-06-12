@@ -101,29 +101,23 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="library\img-placeholder.png" alt="Card image">
+                                        src="library\CD-Profile.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3 style="text-align:center;">Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p> Bonjour... Pour me présenter, je vais tout d'abord énoncer mon parcours, un parcours qui n'est pas forcément aytpique, mais qui présente tout de même quelques singularités.<br><br>
-                                        Mon cursus scolaire s'est arrêté à une Terminale Economique et Sociales, suite à laquelle j'ai obtenu mon certificat de fin d'études secondaires (niveau BAC).<br>
-                                        Pour des raisons personelles, je me suis par la suite écarté du système scolaire, enchaînant petits boulots et intérim. Ce n'est que l'année dernière (2019), que je me suis intéressé au domaine
+                                    <p> Bonjour ! Pour me présenter, je vais tout d'abord énoncer mon parcours, un parcours qui n'est pas forcément aytpique, mais qui présente tout de même quelques singularités.<br><br>
+                                        Mon cursus scolaire s'est arrêté à une <strong>Terminale Economique et Sociale</strong>, suite à laquelle j'ai obtenu mon <strong>certificat de fin d'études secondaires (niveau BAC).</strong><br>
+                                        Pour des raisons personelles, je me suis par la suite écarté du système scolaire, enchaînant petits boulots et intérim. J'ai toujours été un passionné de multimédia et d'informatique, mais ce n'est qu'en 2018 que je me suis intéressé au domaine
                                         du développement web. <br><br>
-                                        J'ai donc tenté la Piscine de l'école 42 à Lyon, qui m'a apporté des connaissances de bases en développement, mais qui majoritairement, m'a permis de me "remettre dans le bain" d'un
-                                        système d'apprentissage scolaire.<br><br>
-
-                                        <h3 style="text-align:center;">Compétences</h3>
-                                        Titulaire du TOEIC®, je certifie d'un excellent niveau en anglais, tant à l'oral qu'à l'écrit. La majorité du contenu que je consulte pendant ma formation est en anglais, et dans mon temps
-                                        libre, la majorité du contenu que je consulte est aussi en anglais.
-                                        
-                                    </p>
-                                    <p>
-                                        "Simplon connu"
-                                        <br><br>
-                                        "Opportunité de simplon"<br>
-                                        "Connaissances, acquis en ..."
+                                        J'ai donc tenté la Piscine de l'<strong>école 42</strong> à Lyon, qui m'a apporté des connaissances de bases en développement web, mais qui majoritairement, m'a permis de me remettre sur les rails d'un
+                                        système d'apprentissage de type scolaire.<br>
+                                        Titulaire du <strong>TOEIC®</strong>, je certifie d'un excellent niveau en anglais, tant à l'oral qu'à l'écrit. La majorité du contenu que je consulte pendant ma formation est en anglais, et dans mon temps
+                                        libre, la majorité du contenu que je consulte est aussi en anglais. J'ai déjà donné quelques cours d'anglais à des collégiens et lycéens.<br><br>
+                                        J'ai pris connaissance de <strong>Simplon</strong> en 2018, Fabrique labelisée <strong>Grande Ecole du numérique</strong>, en faisant des recherches personnelles. Ce centre de formation s'est présenté à moi comme une évidence; je n'ai pas hésité une seule secondre à rompre un CDD dans l'alimentaire que j'occupais à l'époque pour postuler à Simplon.<br>
+                                        J'ai donc déposé ma candidature pour faire partie de la Promotion 3 de Simplon Roanne, en passant plusieurs tests et entretiens. Je fais désormais partie intégrante de cette école !<br>
+                                                                                
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
@@ -180,30 +174,31 @@
                                                 <h4 class="card-title">Product-Hunt</h4>
                                                 <p class="card-text">Tout premier projet après 1 mois de formation, réalisé en binôme et en quelques jours, m'ayant permis d'apprendre à travailler sur le même workflow, avec Github. 
                                                     Projet commencé avec le CMS Wordpress, puis recommencé from scratch avec l'aide du Framework Bootstrap et de mes connaissances personelles en front-end et back-end. </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                <a class="btn btn-lg btn-outline-info m-2"
                                                     href="https://github.com/clementdebatisse/CD-MB-ProductHunt"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">.../h4>
+
+                                                <h4 class="card-title">Site internet fonctionnel</h4>
                                                 <p class="card-text">
-                                                    ...</a>. ...
+                                                    Site internet portant sur le domaine de la finance réalisé en l'espace de quelques heures à l'aide du CMS Wordpress, en ne partant d'aucune expérience ni maîtrise de ce CMS. Projet à upload. </a>
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                <a class="btn btn-lg btn-outline-info m-2"
                                                     href="..."
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">...</h4>
+                                                <h4 class="card-title">Jeu de combat</h4>
                                                 <p class="card-text">
-                                                    ...
+                                                    Jeu par naviguateur très basique réalisé en quelques heures à l'aide de la POO, intégrant le concept de classes et respectant les normes PSR. 
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="..."
+                                                <a class="btn btn-lg btn-outline-info m-2"
+                                                    href="https://github.com/clementdebatisse/Fighting-game"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
@@ -212,22 +207,17 @@
                                         <h3>Compétences acquises</h3>
                                         <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                        <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
-                                        </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Wordpress</p>
+                                        <p class="lead">Utilisation de frameworks CSS</p>
                                         <h3>Projets personnels</h3>
-                                        <p>....<span
+                                        <p><span
                                                 title="Work In Progress">W.I.P</span> tels que :
                                             <br>
                                             <ul>
-                                                <li>...</li>
-                                                <li>...</li>
-                                                <li>...</li>
+                                                <li>Site en production pour un ami portant sur le domaine du sport</li>
                                             </ul>
                                     </div>
                                 </div>

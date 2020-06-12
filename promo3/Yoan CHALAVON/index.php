@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "zzgael@gmail.com";
+    $email = "yoanchalavon@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,15 +13,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Simplonien Test - Simplon Roanne P3</title>
+    <title>Yoan CHALAVON Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
+    <link rel="stylesheet" href="../../css/trombi.css">
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../styles.css">
     <!-- scss 
     <link rel="stylesheet" href="styles.css">
     -->
@@ -53,12 +54,12 @@
     <!-- Navbar end -->
     <!-- First section -->
     <div class="py-5 text-center section-parallax filter-dark bg-fixed"
-        style="background-image: url('/assets/promo2/simplon.jpg');">
+        style="background-image: url('desk.jpg');">
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Simplonien Test</h1>
-                    <h3 class="my-0">Développeur front-end</h3>
+                    <h1 class="display-4 mb-0">Yoan CHALAVON</h1>
+                    <h3 class="my-0">Développement web & mobile</h3>
                 </div>
             </div>
         </div>
@@ -83,6 +84,7 @@
             </li>
         </ul>
     </div>
+    
     <!-- Third Section -->
     <div class="bg-light py-4">
         <div class="container">
@@ -101,74 +103,45 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+                                        src="../../img/profil.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Je suis passionné d'informatique, notamment de programmation
-                                        et de design depuis plus de 10 ans.<br><br>
-                                        J'ai effectué un Bac STG
-                                        Gestion des Systèmes d'Information qui m'appris du droit,
-                                        du management, de la comptabilité, et du SI. Je ne le
-                                        complétai
-                                        malheureusement pas, pour raisons
-                                        personnelles.<br>J'ai des connaissances avancées en anglais
-                                        qui me sont d'un
-                                        réel avantage dans le domaine qui est le nôtre.
+                                    <p>Attiré par l'univers du numérique et plus particulierement au secteur du développement web, 
+                                        j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
+                                    <br>
+                                    <br>
+                                        Diplômé d'un CAP Installateur thermique obtenu en 2010. A la suite de ça, mon parcours professionnel c'est tourné dans le secteur de l'industrie en temps que conducteur de ligne puis carriste et enfin conducteur d'angins et de ligne.
                                     </p>
                                     <p>
-                                        Début février 2019, grâce à mon coach en insertion pro, je
-                                        découvris les formations que proposaient Simplon. Afin de
-                                        maximiser mes chances de réussite, je postulai aux quatre
-                                        coins de la France.
-                                        <br><br>
-                                        La Grande École du Numérique de Simplon Roanne retint mon
-                                        profil. Je pris donc mon train au départ d'Épinal (Vosges)
-                                        direction
-                                        Roanne, pour rejoindre cette fabuleuse opportunité qui
-                                        m'ouvrait les bras.
+                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de developpeur web et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaire pour mon inscription à cette Promo 3.
+                                    <br><br>
+                                        La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
+                                        pour changer de direction profetionnel !
                                     </p>
+
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                        Etre libre, ce n'est pas pouvoir faire ce que l'on veut, mais c'est vouloir ce que l'on peut.
+                                        <br>
+                                            <cite>Jean-Paul Sartre</cite>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/HeathSilcox" class="liens"
+                                        <a href="https://github.com/Yoan42" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
+                                        <a href="https://www.linkedin.com/in/yoan-chalavon-1a85861a8/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -189,24 +162,22 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">SASS Training</h4>
+                                                <h4 class="card-title">Mini-game</h4>
                                                 <p class="card-text">Exercice d'entrainement avec
-                                                    pour objectif d'obtenir un fichier SASS
-                                                    reproduisant un fichier CSS.</p>
+                                                    pour objectif l'utilisation de la POO.</p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
+                                                    href="https://github.com/Yoan42/Combat-game"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
+                                                <h4 class="card-title">Instaclone</h4>
                                                 <p class="card-text">
-                                                    Project effectué en duo avec <a
-                                                        href="../Emilie-Catteau/index.html">Émilie
-                                                        Catteau</a>. L'objectif était de reproduire
-                                                    les fonctionnalités principales d'un jeu de type
-                                                    QCM.
+                                                    Project effectué en duo avec Raphael Dalfin
+                                                        <br>
+                                                    L'objectif était de reproduire
+                                                    Une copie de l'application Instagrame sur 3 jours.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/HeathSilcox/quizzy"
@@ -215,46 +186,39 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Bootstrap Training</h4>
+                                                <h4 class="card-title">Projet Perso</h4>
                                                 <p class="card-text">
-                                                    Exercice d'intégration utilisant le framework
-                                                    Bootstrap. L'objectif était de reproduire un
-                                                    site fidèle au model fourni en png.
+                                                    Création d'un site web vitrine pour un projet personnel.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/OneMillionLines"
+                                                    href="https://github.com/Yoan42/Ongles"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
-                                            MySQL</p>
+                                        <h3>Compétences en cours d'acquisitions</h3>
+                                        <p> Utilisation de HTML, CSS, PHP, JavaScript, gestion de base de donnée, SQL, Phpmyadmin. 
+                                        Utilisation de Visual studio Code.
                                         <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
+                                            .
                                         </p>
+                                        <p class="lead">Utilisation de LINUX</p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                        <p>Afin d'améliorer mes compétences, j'ai un projet, je réalise un projet personnel :
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li>Utilisation de CSS, Bootstrap</li>
+                                                <li>Création d'un espace membres</li>
+                                                <li>Création de formulaires</li>
+                                                <li>Espace galerie photos</li>
+                                                <li>Espace Contact</li>
+                                                
+
+
                                             </ul>
                                     </div>
                                 </div>
@@ -279,7 +243,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 06 06 06 06</a>
+                                            <b>Téléphone</b> : <a href="tel:0606060606">06 14 51 27 89</a>
                                         </li>
                                     </ul>
                                 </div>

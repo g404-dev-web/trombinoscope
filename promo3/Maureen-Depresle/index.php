@@ -101,7 +101,7 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="img/avatar-maureen.png" alt="Card image">
+                                        src="img/maureen.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeuse Web et Mobile</h3>
@@ -110,18 +110,18 @@
                                     <p>Je suis passionnée par les nouvelles technologies depuis déjà plusieurs années,
                                         notamment par la technologie mobile et l'informatique.<br><br>
                                         N'étant pas particulièrement intéressée par le cursus scolaire classique,
-                                        j'ai choisi après ma seconde générale de faire une pause pour tenter l’aventure
+                                        j'ai choisi après ma seconde générale de me lancer dans l’aventure
                                         de la vie active.
-                                        Apres quelques années à faire des 'jobs alimentaires' peu stimulant à mon gout,
+                                        Apres quelques années à faire des 'jobs alimentaires' peu stimulant à mon goût,
                                         j’ai décidée de faire le point et de trouver un métier en lien avec ma passion pour l'informatique.
 
                                     </p>
                                     <p>
                                         Depuis le 1er octobre 2018, j'ai entamée une reconversion professionnelle
                                         pour devenir développeuse web au sein du centre de formation de ma ville.
-                                        Etant un format très court lors de celle-ci, nous avions fait que du survol des compétences
+                                        Etant un format très court lors de celle-ci, nous n'avions fait que du survol des compétences
                                         nécessaires pour faire ce métier.
-                                        Mais Cela m'a permis de me conforter dans l'idée que le codage serait pour moi un "métier passion" !
+                                        Cela m'a permis de me conforter dans l'idée que le codage serait pour moi un "métier passion" !
                                         J'ai donc naturellement décidée de me relancer dans l’aventure d'une nouvelle formation
                                         qui enrichirait et développerait les compétences acquises dans la première.
 
@@ -165,12 +165,12 @@
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
+                                       <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
                                                     class="logo"></i>
-                                        </a>
+                                        </a>-->
                                     </div>
                                 </div>
                             </div>

@@ -106,35 +106,24 @@
                                     <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12ans, c'est assez naturellement que je me suis dirigé vers le code.<br><br>
+                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers les languages de programmation.<br><br>
                                         J'ai fait un Bac Scientifique
-                                        qui m'aide à un peu mieux appréhender tout ce qui est 
+                                        qui m'a permis un peu mieux à appréhender tout ce qui est 
                                         algorithmie et les principes logiques du code.<br>
-                                        Mon niveau assez correcte en anglais
+                                        Mon bon niveau en anglais
                                         me permet de comprendre les différentes ressources 
-                                        mis à disposition dans notre domaine.
+                                        mises à disposition dans ce domaine.
                                     </p>
                                     <p>
                                         Début novembre 2019, avec l'aide de la Mission Locale (Roanne), j'ai entendu parler
-                                        de la formation qui était disponible chez Simplon.
+                                        de la formation qui était disponible à Simplon Roanne.
                                         <br><br>
-                                        Suite à cela j'ai fait mon dossier à envoyer puis reçu la convocation
-                                        pour les entretiens qui s'est soldé par succès.
+                                        Suite à cela, j'ai passé les tests en ligne, et j'ai reçu la convocation
+                                        pour les entretiens que j'ai réussis.
+                                        <br><br>
+                                        Depuis le début de la formation, je prends un réel plaisir à approfondir mes connaissances.
                                     </p>
-                                    <!-- <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
-                                        <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                    <div class="blockquote">
-                                        <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
+                                    <!--
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
                                             In medio stat virtus.
@@ -147,13 +136,10 @@
                                     <div class="liens">
                                         <a href="https://github.com/MatthiasPELLACOEUR" class="liens"
                                             target="_blank">
-                                            <i
-                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
+                                            <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i></a>
                                         <a href="https://www.linkedin.com/in/matthias-pellacoeur/"
                                             class="liens" target="_blank">
-                                            <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -176,7 +162,7 @@
                                             <div class="card-body">
                                                 <h4 class="card-title">Minichat</h4>
                                                 <p class="card-text">Exercice qui reproduit un Minichat
-                                                    avec des requêtes Ajax (JS) pour dynamiser le chat.
+                                                    avec des requêtes Ajax (JS) pour le dynamiser.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-info m-2"
                                                     href="https://github.com/MatthiasPELLACOEUR/tp-minichat"
@@ -188,7 +174,7 @@
                                                 <h4 class="card-title">Clone Instagram</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="../Forest_Véronique/">Veronique Forest</a>.<br>
+                                                        href="../Forest_Véronique/">Véronique Forest</a>.<br>
                                                         L'objectif était de reproduire
                                                     les fonctionnalités principales du réseau social Instagram.
                                                 </p>
@@ -204,7 +190,7 @@
                                                     Project effectué en duo avec 
                                                     <a href="https://github.com/LoannBenoit">Loann Benoit</a>. <br>
                                                     Ce projet est une page de download pour un logiciel qui surligne automatique 
-                                                    tout ce qui ressemble a une date dans un fichier texte.
+                                                    tout ce qui ressemble à une date dans un fichier texte.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-info m-2"
                                                     href="https://github.com/LoannBenoit/AutoDate"
@@ -214,20 +200,25 @@
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
-                                            MySQL</p>
+                                        <p class="lead">Créer des pages web en HTML, CSS, JS, PHP</p>
                                         <p>
                                             Le mini chat est composé d'une interface en HTML, CSS et
                                             Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
+                                            et affichés en PHP grâce à la base de données MySQL.
                                         </p>
                                         <p>
-                                            Le clone Instagram est composé lui d'une interface en HTMl et CSS 
+                                            Le clone Instagram est composé lui d'une interface en HTML, CSS 
                                             et de JavaScript aussi. <br> Les photos, les commentaires et les likes sont envoyés 
                                             et affichés en PHP avec une base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Frameworks CSS</p>
+                                        <p>Frameworks utilisés :</p>
+                                        <ul>
+                                            <li>Bootstrap</li>
+                                            <li>Materialize</li>
+                                        </ul>
                                         <h3>Projets personnels</h3>
                                         <p>Afin d'améliorer mes compétences 
                                             j'ai quelques projets en <span
@@ -235,7 +226,7 @@
                                             <br>
                                             <ul>
                                                 <li>
-                                                    un script de calculatrice en reprenant le style d'Apple
+                                                    un script de calculatrice en Javascript et le framework materialize en reprenant le style d'Apple
                                                 </li>
                                                 <li>
                                                     AutoDate (en collaboration) principalement du CSS pour ma part
@@ -261,7 +252,7 @@
                                     <ul>
                                         <li>
                                             <b>Email</b> : <a
-                                                href="mailto:<?=$email?>"><?=$email?></a>
+                                                href="mailto:<?= $email ?>"><?= $email ?></a>
                                         </li>
                                         <li>
                                             <b>Téléphone</b> : <a href="tel:0610454610">06 10 45 46 10</a>
@@ -298,7 +289,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-secondary btn-lg">ENVOYER</button>
+                                            class="btn btn-lg btn-outline-info m-2">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>
@@ -316,7 +307,7 @@
             <div class="row">
                 <div class="p-5 col-8 offset-2">
                     <h3>
-                        <b>Simplon</b>
+                        <b>Smpln</b>
                     </h3>
                     <p class="">
                         <a href="#" target="_blank">27 Rue Lucien Langenieux,

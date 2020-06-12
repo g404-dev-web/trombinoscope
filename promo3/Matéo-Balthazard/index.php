@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "dalfinraphael@gmail.com";
+    $email = "mateo.balthazard@hotmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Dalfin Raphael - Simplon Roanne P3</title>
+    <title>Matéo Balthazard Trombinoscope</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -21,6 +21,7 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
     <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../scss/trombi.scss">
     <link rel="stylesheet" href="styles.css">
     <!-- scss 
     <link rel="stylesheet" href="styles.css">
@@ -57,8 +58,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Dalfin Raphael</h1>
-                    <h3 class="my-0">Développeur back-end</h3>
+                    <h1 class="display-4 mb-0">Matéo Balthazard</h1>
+                    <h3 class="my-0">Apprenti développeur chez Simplon</h3>
                 </div>
             </div>
         </div>
@@ -94,57 +95,72 @@
                             aria-labelledby="profile-tab">
                             <div class="row text-center">
                                 <div class="col-12">
-                                    <h2 class="display-4">Mon profil</h2>
+                                    <h2 class="display-4"> <i class="fa fa-laptop" aria-hidden="true"></i>  à propos de moi  <i class="fa fa-laptop" aria-hidden="true"></i></h2>
                                     <hr>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="../Dalfin-Raphael/img/bildsökning2852.jpg" alt="Card image">
-                                </div>
-                                <div class="col-8 text-left">
-                                    <h3>Développeur Web et Web Mobile</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
-                                        Web Mobile</p>
-                                    <p>
-                                        J'ai toujours été très pasionné par le monde de l'informatique qui est pour moi
-                                        un univers complet,
-                                        ayant précedement travaillé en tant que technicien informatique de niveau 2 pour une grosse societé de Roanne, j'ai décidé de me lancer dans
-                                        le domaine qui me motive le plus : la programmation ! <br>
-                                        J'ai des connaissances avancées en anglais (TOEFL iBT 90 Pts 2017) 
-                                        qui sont un veritable atout dans le domaine du developpement web.
-                                    </p>
-                                    <p>
-                                        J'ai entendu parler de la formation suite à la réussite profesionnelle d'un ami présent dans la précedente promotion de ce même organisme, 
-                                        ce qui m'a motivé à m'inscrire.
-                                        
-                                        <br><br>
-                                        La Grande École du Numérique de Simplon Roanne a retenu mon
-                                        profil suite aux séléctions et c'est donc avec joie que j'ai pu rejoindre cette nouvelle session. Depuis le début de ma formation au 1er avril, je ne cesse d'approfondir mes connaissances et monter en compètences.
-                                    </p>
-                                    <div class="blockquote">
-                                        <p class="mb-2">Citations</p>
-                                        <div class="blockquote-footer">
-                                        Si tu rencontres un homme de valeur, cherche à lui ressembler. Si tu rencontres un homme médiocre, cherche ses défauts en toi-même.
-                                            <cite>Confucius</cite>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="mb-0">
-                                    <b class="lead">Liens :</b>
+                                        src="images\mateo.jpg" alt="Card image" id="balthazard">
+
+</br>
+
+                                        <div class="mb-0">
+                                    <b class="lead">Mes liens professionels :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/wheelchair69" class="liens"
-                                        
+                                        <a href="https://github.com/Mateo-BTZ" class="liens"
                                             target="_blank">
                                             <i
-                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
+                                                class="fa fa-github d-inline fa-lg mr-3 text-dark" id="logogit"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/raphael-dalfin-988a091a8/"
+                                        <a href="https://www.linkedin.com/in/matéo-balthazard-96a4021ab/"
                                             class="liens" target="_blank">
                                             <i
-                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark" id="logolinkedin"></i>
                                         </a>
+                                    </div>
+                                </div>
+                                </div>
+                                <div class="col-8 text-left">
+                                    <h3>Développeur Web et Mobile</h3>
+                                    <p class="lead" style="text-align: center;">Actuellement en formation Développeur Web et
+                                        Mobile</p>
+                                    <p>Je suis un jeune développeur de 21 ans, passionné d'informatique et de nouvelles technologies depuis mon enfance.<br>
+
+                                    <h3>Mon parcours</h3>
+                                        
+                                        Après un BAC Littéraire en 2016 et une année de Faculté d'anglais,
+                                        J'ai enchaîné les jobs alimentaires dans l'industrie pendant près de 3 ans en tant qu'intérimaire.<br>
+                                        Lassé de ne pas pouvoir m'épanouir au travail, je décide alors de mettre fin à plusieurs années de monotonie, 
+                                        et me lance donc dans l'aventure SIMPLON. <br> J'ai eu la chance d'être
+                                        sélectionné pour participer à la promo 3 !
+                                                                            
+                                    </p>
+                                    <p>
+                                        Cela a éclairci mon avenir professionel, qui était jusque là très flou. J'ai commencé à
+                                        m'interesser au métier de Développeur, et depuis, ma principale motivation est d'acquérir un maximum
+                                        d'expérience afin d'en faire mon métier.
+                                        <br><br>
+                                        <h3>Mes qualités</h3>
+                                        <p>
+                                        Je suis un garçon curieux, disponible et très motivé. Je n'ai aucun problème avec l'anglais,
+                                        J'ai le goût de l'effort, et j'adore le café !     
+                                        </p>
+                                        
+                                        </p>
+                                        <h3>Citations</h3>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                            Les choses que l'on possède finissent par nous posséder.
+                                            <cite>Tyler Durden (<i>Fight club</i>)</cite>
+                                        </div>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                         N'abandonnez jamais votre droit à l'erreur, car vous perdriez la capacité d'apprendre des choses nouvelles et d'avancer dans la vie. 
+                                            <cite>David Burns </cite>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -164,62 +180,39 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Mini jeu de combat</h4>
+                                                <h4 class="card-title">Premier projet en binôme (fait en une semaine)</h4>
                                                 <p class="card-text">Exercice d'entrainement avec
-                                                    pour objectif de realiser un mini jeu de combat</p>
+                                                    pour objectif de créer un site type <a href="https://www.producthunt.com/">Product hunt.</a></p>
+                                                    <p>fait en binôme avec Clément Debatisse.<br>
+                                                    Fait avec : </p>
+                                                    <ul style="list-style: none;"> 
+                                                        <li>HTML</li>
+                                                        <li>CSS</li>
+                                                        <li>PHP</li>
+                                                        <li>Bootstrap</li>
+                                                        <li>My SQL</li>
+                                                        <li>PhpMyAdmin</li>
+                                                    </ul>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/wheelchair69/minijeucombat"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Instaclone</h4>
-                                                <p class="card-text">Representer Instagram par le biais d'un TP</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/wheelchair69/instaclone"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Minichat</h4>
-                                                <p class="card-text">Exercice d'entrainement avec pour but 
-                                                    de faire un mini chat avec php/js
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/simplon-roanne/minichat-p3"
+                                                    href="https://github.com/Mateo-BTZ/CD-MB-ProductHunt.git"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP, JS et
+                                        <h3>Compétences acquises / en cours d'acquisition</h3>
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
                                             MySQL</p>
-                                        <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce la base de données MySQL.
-                                        </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de MySQL</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Création de requêtes SQL et gestion de base de données</p>
+                                        <p class="lead">Utilisation de CMS et frameworks (Bootstrap, Wordpress..)</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai un projet en cours pour le moment : 
-                                            <br>
-                                            <ul>
-                                                <li> Un site avec pour but de pouvoir se mettre a plusieurs sur une vidéo youtube
-                                                    au même moment.
-                                                    </li>
-
-                                            </ul>
+                                        <p> (à venir) Création d'un lecteur audio musical qui joue en fonction de l'humeur de l'utilisateur
+                                        </p>
+                                        <p style="text-align: center; color: red;">D'autres projets arrivent bientôt, restez connectés ! </p>
                                     </div>
+                                </div>
                                 <hr>
                             </section>
                         </div>
@@ -241,7 +234,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : 06 67 66 17 77
+                                            <b>Téléphone</b> : <a href="tel:0671463634">06 71 46 36 34</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -306,14 +299,11 @@
                     <p class="mb-3">
                         <a href="tel:0625250591">06 25 25 05 91</a>
                     </p>
-                    <a href="#" target="_blank">
-                        <i class="fa fa-github d-inline fa-lg mr-3 text-white"></i>
+                    <a href="https://github.com/Mateo-BTZ" target="_blank">
+                        <i class="fa fa-github d-inline fa-lg mr-3 text-white" id="logogit"></i>
                     </a>
-                    <a href="#" target="_blank">
-                        <i class="fa d-inline fa-lg mr-3 text-white fa-linkedin"></i>
-                    </a>
-                    <a href="#" target="_blank">
-                        <i class="fa fa-facebook d-inline fa-lg mr-3 text-white"></i>
+                    <a href="https://www.linkedin.com/in/matéo-balthazard-96a4021ab/" target="_blank">
+                        <i class="fa d-inline fa-lg mr-3 text-white fa-linkedin" id="logolinkedin"></i>
                     </a>
                 </div>
                 <div class="row">
