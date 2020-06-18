@@ -104,11 +104,10 @@
                                         src="./img/perle.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Future Développeuse Web</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
-                                        Mobile</p>
+                                    <h3>Développeuse Full-Stack orientée Back-End</h3>
+                                    <p class="lead">Miss JavaScript de la promo</p>
                                     <p>
-                                        Passionnée d'informatique depuis 20 ans, j'entretiens une 
+                                        Férue d'informatique depuis 20 ans, j'entretiens une 
                                         relation privilégiée avec cet outil. J'ai occupé un poste de 
                                         conseillère en dépannage internet, et assuré un rôle de technicienne 
                                         assistante en informatique, où j'ai effectué mes premières requêtes SQL.
@@ -116,26 +115,33 @@
                                     <p>
                                         Je me suis par la suite initiée à la programmation par loisir. Le coup 
                                         de foudre pour l'algorithmie ayant été aussi immédiat qu'absolu, j'ai 
-                                        entrepris d'apprendre les bases du développement en autodidacte. Ayant 
-                                        pris la décision de faire de cette passion mon métier, j'ai choisi
-                                        d'intégrer une formation professionnelle qualifiante.
+                                        entrepris d'apprendre les bases du développement en autodidacte. J'ai 
+                                        rapidement pris la décision de faire de cette passion mon métier, et 
+                                        choisi d'intégrer une formation professionnelle qualifiante.
                                     </p>
                                     <p>
-                                        J'ai alors eu la chance de rejoindre la Fabrique Simplon où je suis formée au 
-                                        métier de développeuse Web et Mobile. En plus des diverses aptitudes techniques, 
-                                        j'y développe des compétences variées telles que la maîtrise des outils de 
+                                        J'ai pu rejoindre la Fabrique Simplon où je suis formée au métier 
+                                        de développeuse Web et Mobile. En plus des diverses aptitudes techniques, 
+                                        j'y développe des compétences annexes comme la maîtrise des outils de 
                                         programmation, la gestion de projet, ou le travail en méthode Agile.
+                                        Passionnée d'algorithmie avant tout, mes langages de prédilection
+                                        sont JavaScript, dont je suis une amoureuse transie notoire, mais aussi PHP.
                                     </p>
                                     <p>
-                                        Je suis particulièrement rigoureuse, et je m'efforce de développer un code 
-                                        clair, cohérent, et respectueux des normes (en un mot : propre). 
-                                        J'ai un bon sens de la communication et je suis toujours ravie d'apporter 
-                                        mon aide, je m'intègre donc très bien au travail en équipe. Enfin, je suis dotée 
-                                        d'une persévérance à toute épreuve, et travaille d'arrache-pied pour mener à
-                                        bien mes projets. 
-                                        Je fais aussi d'excellents gâteaux.  
+                                        let isConvinced = confirm('Are you convinced ?');</br>
+                                        alert(isConvinced);</br>
+                                        if (!isConvinced) {
                                     </p>
-                                    <div class="blockquote">
+                                    <p class="ml-4">
+                                        Je suis particulièrement rigoureuse, et je m'efforce de développer un code clair,</br> 
+                                        cohérent, et respectueux des normes (en un mot : propre). J'ai un bon sens</br> 
+                                        de la communication et je suis toujours ravie d'apporter mon aide, je m'intègre</br> 
+                                        donc très bien au travail en équipe. Enfin, je suis dotée d'une persévérance</br> 
+                                        à toute épreuve, et travaille d'arrache-pied pour mener à bien mes projets.</br> 
+                                        Je fais aussi d'excellents gâteaux.</br>
+                                    </p>
+                                    <span>}</span> 
+                                    <div class="blockquote mt-4">
                                         <p class="mb-2">Citation</p>
                                         <div class="blockquote-footer">
                                             Un problème sans solution est un problème mal posé.
@@ -204,7 +210,7 @@
                                                 <p class="card-text">
                                                         L'objectif était de concevoir un mini-jeu de combat en POO.</br></br>
                                                         Ce TP a initié mes compétences en Programmation Orientée Objet PHP, 
-                                                        et m'a permis de consolider mes acquis en HTML, CSS et MySQL.
+                                                        et m'a permis de développer mes connaissances en HTML, CSS et MySQL.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/Shivalita/fight-game"
@@ -214,7 +220,7 @@
                                     </div>
                         
                                     <div class="col-8 text-left">
-                                        <h3 class="mb-2">Compétences acquises</h3>
+                                        <h3 class="mb-2">Client Deezer - Compétences acquises</h3>
                                         <p class="lead mb-4">Créer des pages web en HTML, CSS, JavaScript, PHP et
                                             MySQL</p>
                                         <p>
@@ -222,18 +228,25 @@
                                             L'affichage est géré dynamiquement par JavaScript, qui effectue des 
                                             requêtes vers l'API Deezer pour récupérer le contenu musical et les 
                                             données associées.<br>
-                                            JavaScript se charge également de faire transiter ces données vers des pages 
-                                            de traitement PHP, qui exécutent des requêtes SQL et renvoient l'affichage 
-                                            de la partie "commentaires" du site.<br>
-                                            Le système de playlists quant à lui est conçu en Programmation Orientée Objet PHP.</br><br>  
+                                            JavaScript se charge également de faire transiter ces dernières vers des pages 
+                                            de traitement PHP, qui exécutent des requêtes SQL et renvoient les données stockées  
+                                            à afficher.<br><br>  
                                             Le tout se déroule de manière asynchrone via des requêtes fetch.<br>
                                             L'ensemble des fonctionnalités se déploie sur une unique page dont le 
                                             contenu est rafraîchi sans rechargement, ce qui permet notamment une 
                                             continuité dans la lecture de la musique.</br><br>
                                             CSS apporte enfin à l'ensemble un design cohérent et une 
-                                            identité visuelle.</br><br>
-                                            
+                                            identité visuelle.</br></br>
                                         </p>
+                                        <p class="mt-2"> Au cours de ce projet j'ai pu développer notamment mes compétences en PHP, et 
+                                            bien plus encore en JavaScript, en prenant en charge :</br></p>
+                                        <ul>
+                                            <li>Les requêtes API, la récupération et l'affichage dynamique des données de chansons</li>
+                                            <li>L'affichage des albums correspondants et de leurs titres, rendus jouables au clic</li>
+                                            <li>La création des comptes utilisateurs</li>
+                                            <li>Le code métier et l'affichage des commentaires</li>
+                                            <li>La gestion et l'affichage dynamique des onglets de navigation</li>
+                                        </ul>
                                         <p class="lead mt-4">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <p class="lead">Utilisation de Coggle, Trello, Wireframe</p>
