@@ -179,21 +179,64 @@
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/HamzaKarfa/simplon-tp-product-hunt"
-                                                    target="_blank">Voir le projet</a>
+                                                    target="_blank">Voir le projet
+                                                </a>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="http://emjjjpl.cluster029.hosting.ovh.net"
+                                                    target="_blank">Voir le site
+                                                </a>
                                             </div>
                                         </div>
-                                       
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Puissance 4 POO JavaScript</h4>
+                                                <p class="card-text">
+                                                    Project effectué dans le cadre d'un TP. 
+                                                    Le but du projet était de prendre en main la POO JavaScript.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HamzaKarfa/jeu-poo-js"
+                                                    target="_blank">Voir le projet
+                                                </a>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="http://hk-puissance-4-poo-js.projets.simplon-roanne.com"
+                                                    target="_blank">Tester le jeu
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">ComparOperator</h4>
+                                                <p class="card-text">
+                                                Project effectué en duo avec <a href="../Yoan Chalavon">Yoan Chalavon</a>. 
+                                                    Le but du projet était de produire
+                                                    un site comparateur de tours opérateurs.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HamzaKarfa/project-compar-oprerator"
+                                                    target="_blank">Voir le projet
+                                                </a>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                        <p class="lead">Créer des pages web en HTML, CSS, JavaScript, PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Le projet contient une API faite en Programmation Orientée Object PHP. Cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
+                                            Le projet Product Hunt contient une API faite en Programmation Orientée Object PHP. Cette API nous permet d'effectuer les requêtes SQL à la base de donnée.
                                             <br> 
-                                            Les produits sont dynamiquement affichés grâce au requetes Java Script et triés en PHP grâce la base de données MySQL.
+                                            Les produits sont dynamiquement affichés grâce au requetes JavaScript et triés en PHP grâce la base de données MySQL.
                                             <br>
                                             Enfin le design du site est réalisé avec la librairie Bootstrap.
+                                        </p>
+                                        <p>
+                                            Le Jeu du puissance 4 est uniquement créé en Programmation Orientée Object JavaScript.
+                                            <br> 
+                                            Le jeu est composé de 2 class: la première initialise le plateau de jeu et instancie les objets de la deuxième class qui sont les Joueurs.
+                                            Toutes les conditions de victoire et les actions du jeu sont des methodes de la class Joueurs.
+                                            <br> 
+                                            Le jeu est hébergé sur le serveur de Simplon Roanne mit à notre disposition le temps de la formation.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
