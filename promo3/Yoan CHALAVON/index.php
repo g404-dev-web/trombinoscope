@@ -191,6 +191,19 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
+                                                <h4 class="card-title">Instaclone</h4>
+                                                <p class="card-text">
+                                                    Project effectué en duo avec Hamza Karfa
+                                                        <br>
+                                                    Création d'un POC d'un comparateur de tours opperateur en POO
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Yoan42/project-compar-oprerator"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
                                                 <h4 class="card-title">Projet Perso</h4>
                                                 <p class="card-text">
                                                     Création d'un site web vitrine pour un projet personnel.
