@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "matthias.pellacoeur@hotmail.com";
+    $email = "mateo.balthazard@hotmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Matthias Pellacoeur - Simplon Roanne P3</title>
+    <title>Matéo Balthazard Trombinoscope</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
@@ -21,7 +21,8 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="../../scss/trombi.scss">
+    <link rel="stylesheet" href="styles.css">
     <!-- scss 
     <link rel="stylesheet" href="styles.css">
     -->
@@ -53,12 +54,12 @@
     <!-- Navbar end -->
     <!-- First section -->
     <div class="py-5 text-center section-parallax filter-dark bg-fixed"
-        style="background-image: url('../../assets/promo2/simplon.jpg');">
+        style="background-image: url('/assets/promo2/simplon.jpg');">
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Matthias Pellacoeur</h1>
-                    <h3 class="my-0">Développeur Web Junior</h3>
+                    <h1 class="display-4 mb-0">Matéo Balthazard</h1>
+                    <h3 class="my-0">Apprenti développeur chez Simplon</h3>
                 </div>
             </div>
         </div>
@@ -94,51 +95,72 @@
                             aria-labelledby="profile-tab">
                             <div class="row text-center">
                                 <div class="col-12">
-                                    <h2 class="display-4">Mon profil</h2>
+                                    <h2 class="display-4"> <i class="fa fa-laptop" aria-hidden="true"></i>  à propos de moi  <i class="fa fa-laptop" aria-hidden="true"></i></h2>
                                     <hr>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img id="matthiasPellacoeur" class="img-fluid rounded-circle p-3" src="images/Matthias300px.png" alt="Card image">
+                                    <img class="img-fluid rounded-circle p-3"
+                                        src="images\mateo.jpg" alt="Card image" id="balthazard">
+
+</br>
+
+                                        <div class="mb-0">
+                                    <b class="lead">Mes liens professionels :</b>
+                                    <div class="liens">
+                                        <a href="https://github.com/Mateo-BTZ" class="liens"
+                                            target="_blank">
+                                            <i
+                                                class="fa fa-github d-inline fa-lg mr-3 text-dark" id="logogit"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/matéo-balthazard-96a4021ab/"
+                                            class="liens" target="_blank">
+                                            <i
+                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark" id="logolinkedin"></i>
+                                        </a>
+                                    </div>
+                                </div>
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
-                                    <p class="lead">Actuellement en formation Développeur Web et
+                                    <p class="lead" style="text-align: center;">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers le code.<br><br>
-                                        J'ai fait un Bac Scientifique
-                                        qui m'a permis un peu mieux à appréhender tout ce qui est 
-                                        algorithmie et les principes logiques du code.<br>
-                                        Mon niveau assez correct en anglais
-                                        me permet de comprendre les différentes ressources 
-                                        mises à disposition dans notre domaine.
+                                    <p>Je suis un jeune développeur de 21 ans, passionné d'informatique et de nouvelles technologies depuis mon enfance.<br>
+
+                                    <h3>Mon parcours</h3>
+                                        
+                                        Après un BAC Littéraire en 2016 et une année de Faculté d'anglais,
+                                        J'ai enchaîné les jobs alimentaires dans l'industrie pendant près de 3 ans en tant qu'intérimaire.<br>
+                                        Lassé de ne pas pouvoir m'épanouir au travail, je décide alors de mettre fin à plusieurs années de monotonie, 
+                                        et me lance donc dans l'aventure SIMPLON. <br> J'ai eu la chance d'être
+                                        sélectionné pour participer à la promo 3 !
+                                                                            
                                     </p>
                                     <p>
-                                        Début novembre 2019, avec l'aide de la Mission Locale (Roanne), j'ai entendu parler
-                                        de la formation qui était disponible chez Simplon.
+                                        Cela a éclairci mon avenir professionel, qui était jusque là très flou. J'ai commencé à
+                                        m'interesser au métier de Développeur, et depuis, ma principale motivation est d'acquérir un maximum
+                                        d'expérience afin d'en faire mon métier.
                                         <br><br>
-                                        Suite à cela, j'ai passé les tests en ligne, et j'ai reçu la convocation
-                                        pour les entretiens que j'ai réussis.
-                                    </p>
-                                    <!--
+                                        <h3>Mes qualités</h3>
+                                        <p>
+                                        Je suis un garçon curieux, disponible et très motivé. Je n'ai aucun problème avec l'anglais,
+                                        J'ai le goût de l'effort, et j'adore le café !     
+                                        </p>
+                                        
+                                        </p>
+                                        <h3>Citations</h3>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                            Les choses que l'on possède finissent par nous posséder.
+                                            <cite>Tyler Durden (<i>Fight club</i>)</cite>
                                         </div>
-                                    </div> -->
-                                </div>
-                                <div class="mb-0">
-                                    <b class="lead">Liens :</b>
-                                    <div class="liens">
-                                        <a href="https://github.com/MatthiasPELLACOEUR" class="liens"
-                                            target="_blank">
-                                            <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i></a>
-                                        <a href="https://www.linkedin.com/in/matthias-pellacoeur/"
-                                            class="liens" target="_blank">
-                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
-                                        </a>
+                                    </div>
+                                    <div class="blockquote">
+                                        <div class="blockquote-footer">
+                                         N'abandonnez jamais votre droit à l'erreur, car vous perdriez la capacité d'apprendre des choses nouvelles et d'avancer dans la vie. 
+                                            <cite>David Burns </cite>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -158,78 +180,37 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Minichat</h4>
-                                                <p class="card-text">Exercice qui reproduit un Minichat
-                                                    avec des requêtes Ajax (JS) pour le dynamiser.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/MatthiasPELLACOEUR/tp-minichat"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Clone Instagram</h4>
-                                                <p class="card-text">
-                                                    Project effectué en duo avec <a
-                                                        href="../Forest_Véronique/">Véronique Forest</a>.<br>
-                                                        L'objectif était de reproduire
-                                                    les fonctionnalités principales du réseau social Instagram.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/MatthiasPELLACOEUR/project-clone-instagram"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Auto Date</h4>
-                                                <p class="card-text">
-                                                    Project effectué en duo avec 
-                                                    <a href="https://github.com/LoannBenoit">Loann Benoit</a>. <br>
-                                                    Ce projet est une page de download pour un logiciel qui surligne automatique 
-                                                    tout ce qui ressemble à une date dans un fichier texte.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/LoannBenoit/AutoDate"
+                                                <h4 class="card-title">Premier projet en binôme (fait en une semaine)</h4>
+                                                <p class="card-text">Exercice d'entrainement avec
+                                                    pour objectif de créer un site type <a href="https://www.producthunt.com/">Product hunt.</a></p>
+                                                    <p>fait en binôme avec Clément Debatisse.<br>
+                                                    Fait avec : </p>
+                                                    <ul style="list-style: none;"> 
+                                                        <li>HTML</li>
+                                                        <li>CSS</li>
+                                                        <li>PHP</li>
+                                                        <li>Bootstrap</li>
+                                                        <li>My SQL</li>
+                                                        <li>PhpMyAdmin</li>
+                                                    </ul>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Mateo-BTZ/CD-MB-ProductHunt.git"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, JS, PHP</p>
-                                        <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce à la base de données MySQL.
-                                        </p>
-                                        <p>
-                                            Le clone Instagram est composé lui d'une interface en HTML, CSS 
-                                            et de JavaScript aussi. <br> Les photos, les commentaires et les likes sont envoyés 
-                                            et affichés en PHP avec une base de données MySQL.
-                                        </p>
+                                        <h3>Compétences acquises / en cours d'acquisition</h3>
+                                        <p class="lead">Créer des pages web en HTML, CSS, PHP7 et
+                                            MySQL</p>
                                         <p class="lead">Utilisation de Git</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Utilisation de Frameworks CSS</p>
-                                        <p>Frameworks utilisés :</p>
-                                        <ul>
-                                            <li>Bootstrap</li>
-                                            <li>Materialize</li>
-                                        </ul>
+                                        <p class="lead">Création de requêtes SQL et gestion de base de données</p>
+                                        <p class="lead">Utilisation de CMS et frameworks (Bootstrap, Wordpress..)</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences 
-                                            j'ai quelques projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
-                                            <br>
-                                            <ul>
-                                                <li>
-                                                    un script de calculatrice en Javascript et le framework materialize en reprenant le style d'Apple
-                                                </li>
-                                                <li>
-                                                    AutoDate (en collaboration) principalement du CSS pour ma part
-                                                </li>
-                                            </ul>
+                                        <p> (à venir) Création d'un lecteur audio musical qui joue en fonction de l'humeur de l'utilisateur
+                                        </p>
+                                        <p style="text-align: center; color: red;">D'autres projets arrivent bientôt, restez connectés ! </p>
                                     </div>
                                 </div>
                                 <hr>
@@ -250,10 +231,10 @@
                                     <ul>
                                         <li>
                                             <b>Email</b> : <a
-                                                href="mailto:<?= $email ?>"><?= $email ?></a>
+                                                href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0610454610">06 10 45 46 10</a>
+                                            <b>Téléphone</b> : <a href="tel:0671463634">06 71 46 36 34</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -287,7 +268,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-lg btn-outline-info m-2">ENVOYER</button>
+                                            class="btn btn-secondary btn-lg">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>
@@ -318,14 +299,11 @@
                     <p class="mb-3">
                         <a href="tel:0625250591">06 25 25 05 91</a>
                     </p>
-                    <a href="#" target="_blank">
-                        <i class="fa fa-github d-inline fa-lg mr-3 text-white"></i>
+                    <a href="https://github.com/Mateo-BTZ" target="_blank">
+                        <i class="fa fa-github d-inline fa-lg mr-3 text-white" id="logogit"></i>
                     </a>
-                    <a href="#" target="_blank">
-                        <i class="fa d-inline fa-lg mr-3 text-white fa-linkedin"></i>
-                    </a>
-                    <a href="#" target="_blank">
-                        <i class="fa fa-facebook d-inline fa-lg mr-3 text-white"></i>
+                    <a href="https://www.linkedin.com/in/matéo-balthazard-96a4021ab/" target="_blank">
+                        <i class="fa d-inline fa-lg mr-3 text-white fa-linkedin" id="logolinkedin"></i>
                     </a>
                 </div>
                 <div class="row">

@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "zzgael@gmail.com";
+    $email = "avon.antonin@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -22,7 +22,7 @@
         type="text/css">
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="styles.css">
-    <!-- scss 
+    <!-- scss
     <link rel="stylesheet" href="styles.css">
     -->
     <!-- Script: Navbar on-top -->
@@ -57,8 +57,8 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Simplonien Test</h1>
-                    <h3 class="my-0">Développeur front-end</h3>
+                    <h1 class="display-4 mb-0">Antonin Avon</h1>
+                    <h3 class="my-0">Développeur Junior Full Stack</h3>
                 </div>
             </div>
         </div>
@@ -101,70 +101,61 @@
                             <div class="row">
                                 <div class="col-4">
                                     <img class="img-fluid rounded-circle p-3"
-                                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+                                        src="./img/ExportProfil.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>Je suis passionné d'informatique, notamment de programmation
-                                        et de design depuis plus de 10 ans.<br><br>
-                                        J'ai effectué un Bac STG
-                                        Gestion des Systèmes d'Information qui m'appris du droit,
-                                        du management, de la comptabilité, et du SI. Je ne le
-                                        complétai
-                                        malheureusement pas, pour raisons
-                                        personnelles.<br>J'ai des connaissances avancées en anglais
-                                        qui me sont d'un
-                                        réel avantage dans le domaine qui est le nôtre.
+                                    <p>Passionné d'informatique depuis mon enfance, c'est avec réel plaisir
+                                        que j'ai intégrer la formation à Simplon Roanne.<br><br>
+                                        Diplomé d'un BAC PRO SEN (Systèmes éléctroniques numériques) et n'ayant pas pu continuer mes études
+                                        , j'ai travaillé plusieurs années dans le commerce.
+                                        <br>
                                     </p>
                                     <p>
-                                        Début février 2019, grâce à mon coach en insertion pro, je
-                                        découvris les formations que proposaient Simplon. Afin de
-                                        maximiser mes chances de réussite, je postulai aux quatre
-                                        coins de la France.
+                                        Début 2020, j'ai eu l'envie d'apprendre à créer une application mobile via Flutter/Dart. J'ai donc
+                                        suivi un cours sur Udemy, qui je le reconnais, était incompréhensible.
+                                        Suite à ça et à differentes recherches, il était évident que j'avais d'abord besoin des bases dans le
+                                        développement web avant de m'attaquer à ça. Déterminé à changer de carrière professionnelle, j'ai donc postulé
+                                        à la formation Dev Web de Simplon.
                                         <br><br>
-                                        La Grande École du Numérique de Simplon Roanne retint mon
-                                        profil. Je pris donc mon train au départ d'Épinal (Vosges)
-                                        direction
-                                        Roanne, pour rejoindre cette fabuleuse opportunité qui
-                                        m'ouvrait les bras.
+
                                     </p>
                                     <div class="blockquote">
                                         <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            Qui ne progresse pas chaque jour, recule chaque jour.
-                                            <cite>Confucius</cite>
+                                            First, solve the problem. Then, write the code.
+                                            <cite>John Johnson</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            L'homme supérieur fait de l'équité et de la justice la
-                                            base de toutes ses actions.
-                                            <cite>Confucius</cite>
+                                            Talk is cheap. Show me the code.
+                                            <cite>Linus Torvalds</cite>
                                         </div>
                                     </div>
                                     <div class="blockquote">
                                         <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                            Knowledge is power.
+                                            <cite> Francis Bacon</cite>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/HeathSilcox" class="liens"
+                                        <a href="https://github.com/Antonin06" class="liens"
                                             target="_blank">
                                             <i
                                                 class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com/in/christophe-chaxel/"
+                                        <a href="https://www.linkedin.com/in/antonin-avon-2a79621a7/"
                                             class="liens" target="_blank">
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <a href="http://www.doyoubuzz.com/christophe-chaxel/"
+                                        <a href="#"
                                             class="liens" target="_blank">
                                             <i class="fa d-inline fa-lg mr-3 text-dark"><img
                                                     src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
@@ -189,41 +180,26 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">SASS Training</h4>
-                                                <p class="card-text">Exercice d'entrainement avec
-                                                    pour objectif d'obtenir un fichier SASS
-                                                    reproduisant un fichier CSS.</p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/sassufit/blob/master/sass/main.scss"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
-                                        <div class="bg-dark text-white text-center card">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Quizzy</h4>
+                                                <h4 class="card-title">Instagram-clone</h4>
                                                 <p class="card-text">
                                                     Project effectué en duo avec <a
-                                                        href="../Emilie-Catteau/index.html">Émilie
-                                                        Catteau</a>. L'objectif était de reproduire
-                                                    les fonctionnalités principales d'un jeu de type
-                                                    QCM.
+                                                        href="../Girard-Lucas/">Lucas Girard</a>. L'objectif était de reproduire
+                                                    les fonctionnalités principales d'Instagram.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/quizzy"
+                                                    href="https://github.com/Antonin06/Instagram-binome"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Bootstrap Training</h4>
+                                                <h4 class="card-title">Site perso</h4>
                                                 <p class="card-text">
-                                                    Exercice d'intégration utilisant le framework
-                                                    Bootstrap. L'objectif était de reproduire un
-                                                    site fidèle au model fourni en png.
+                                                    En cours de developpement...
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/HeathSilcox/OneMillionLines"
-                                                    target="_blank">Voir le projet</a>
+                                                    href="http://antoninavon.fr/"
+                                                    target="_blank">Voir le site</a>
                                             </div>
                                         </div>
                                     </div>
@@ -237,24 +213,14 @@
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
                                         <p class="lead">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Docker</p>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Atom</p>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences en <b>JavaScript</b>
-                                            j'ai plusieurs projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                        <p>Afin d'améliorer mes compétences en <b>FrontEnd</b>
+                                            j'ai plusieurs projets pour mon site personnel, tel que:
                                             <br>
                                             <ul>
-                                                <li>un script utilisant une API météo.
-                                                    (<i>openweathermap</i>)</li>
-                                                <li>un <i>viewer</i> d'images, on importe un dossier
-                                                    de photos et on parcourt les images.</li>
-                                                <li>un script d'image <i>recognition</i> qui
-                                                    parcourt un screenshot à la recherche d'éléments
-                                                    prédéfinis et en extrait des données grâce à
-                                                    plusieurs outils dont : <b>pixfinder</b>,
-                                                    <b>Tesseract.js</b>, <b>Resemble.js</b>, et un
-                                                    outil de <b>crop</b>.</i></li>
+                                                <li>Plusieurs templates Bootstrap.</li>
+                                                <li>Utilisation de Javascript.</li>
                                             </ul>
                                     </div>
                                 </div>
@@ -279,7 +245,7 @@
                                                 href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0606060606">06 06 06 06 06</a>
+                                            <b>Téléphone</b> : <a href="tel:0698220698">06 98 22 06 98</a>
                                         </li>
                                     </ul>
                                 </div>

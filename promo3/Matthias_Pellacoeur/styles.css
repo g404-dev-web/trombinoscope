@@ -18,12 +18,13 @@
 .logo {
     height: 22px;
 }
-/* 
-#matthiasPellacoeur{
-    transition: ;
-} */
+
+#matthiasPellacoeur {
+    transform: scale3d(1, 1, 1);
+    transition: ease-in-out 0.4s;
+}
 
 #matthiasPellacoeur:hover{
-    transform: rotate3d(1, 1, 1, 360deg);
-    transition: ease-in-out 1s;
+    transform: scale3d(1.1, 1.1, 1.1);
+    transition: ease-in-out 0.5s;
 }

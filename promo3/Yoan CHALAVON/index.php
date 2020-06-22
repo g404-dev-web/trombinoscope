@@ -3,7 +3,7 @@
     // Configurez ici votre email qui est utilisé à plusieurs endroits sur la page
     // Le reste des infos est à changer manuellement.
     // C'est votre page ! Faites en ce que vous voulez.
-    $email = "matthias.pellacoeur@hotmail.com";
+    $email = "yoanchalavon@gmail.com";
 
 ?><!DOCTYPE html>
 <html>
@@ -13,15 +13,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- PAGE settings -->
     <link rel="icon">
-    <title>Matthias Pellacoeur - Simplon Roanne P3</title>
+    <title>Yoan CHALAVON Simplon Roanne P3</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <!-- CSS dependencies -->
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         type="text/css">
+    <link rel="stylesheet" href="../../css/trombi.css">
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="../../styles.css">
     <!-- scss 
     <link rel="stylesheet" href="styles.css">
     -->
@@ -53,12 +54,12 @@
     <!-- Navbar end -->
     <!-- First section -->
     <div class="py-5 text-center section-parallax filter-dark bg-fixed"
-        style="background-image: url('../../assets/promo2/simplon.jpg');">
+        style="background-image: url('desk.jpg');">
         <div class="container py-5">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="display-4 mb-0">Matthias Pellacoeur</h1>
-                    <h3 class="my-0">Développeur Web Junior</h3>
+                    <h1 class="display-4 mb-0">Yoan CHALAVON</h1>
+                    <h3 class="my-0">Développement web & mobile</h3>
                 </div>
             </div>
         </div>
@@ -83,6 +84,7 @@
             </li>
         </ul>
     </div>
+    
     <!-- Third Section -->
     <div class="bg-light py-4">
         <div class="container">
@@ -100,44 +102,46 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <img id="matthiasPellacoeur" class="img-fluid rounded-circle p-3" src="images/Matthias300px.png" alt="Card image">
+                                    <img class="img-fluid rounded-circle p-3"
+                                        src="../../img/profil.jpg" alt="Card image">
                                 </div>
                                 <div class="col-8 text-left">
-                                    <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
-                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers le code.<br><br>
-                                        J'ai fait un Bac Scientifique
-                                        qui m'a permis un peu mieux à appréhender tout ce qui est 
-                                        algorithmie et les principes logiques du code.<br>
-                                        Mon niveau assez correct en anglais
-                                        me permet de comprendre les différentes ressources 
-                                        mises à disposition dans notre domaine.
+                                    <p>Attiré par l'univers du numérique et plus particulierement au secteur du développement web, 
+                                        j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
+                                    <br>
+                                    <br>
+                                        Diplômé d'un CAP Installateur thermique obtenu en 2010. A la suite de ça, mon parcours professionnel c'est tourné dans le secteur de l'industrie en temps que conducteur de ligne puis carriste et enfin conducteur d'angins et de ligne.
                                     </p>
                                     <p>
-                                        Début novembre 2019, avec l'aide de la Mission Locale (Roanne), j'ai entendu parler
-                                        de la formation qui était disponible chez Simplon.
-                                        <br><br>
-                                        Suite à cela, j'ai passé les tests en ligne, et j'ai reçu la convocation
-                                        pour les entretiens que j'ai réussis.
+                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de developpeur web et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaire pour mon inscription à cette Promo 3.
+                                    <br><br>
+                                        La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
+                                        pour changer de direction profetionnel !
                                     </p>
-                                    <!--
+
                                     <div class="blockquote">
+                                        <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            In medio stat virtus.
-                                            <cite>Roi Loth (<i>Kaamelott</i>)</cite>
+                                        Etre libre, ce n'est pas pouvoir faire ce que l'on veut, mais c'est vouloir ce que l'on peut.
+                                        <br>
+                                            <cite>Jean-Paul Sartre</cite>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                                 <div class="mb-0">
                                     <b class="lead">Liens :</b>
                                     <div class="liens">
-                                        <a href="https://github.com/MatthiasPELLACOEUR" class="liens"
+                                        <a href="https://github.com/Yoan42" class="liens"
                                             target="_blank">
-                                            <i class="fa fa-github d-inline fa-lg mr-3 text-dark"></i></a>
-                                        <a href="https://www.linkedin.com/in/matthias-pellacoeur/"
+                                            <i
+                                                class="fa fa-github d-inline fa-lg mr-3 text-dark"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/yoan-chalavon-1a85861a8/"
                                             class="liens" target="_blank">
-                                            <i class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
+                                            <i
+                                                class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -158,77 +162,63 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Minichat</h4>
-                                                <p class="card-text">Exercice qui reproduit un Minichat
-                                                    avec des requêtes Ajax (JS) pour le dynamiser.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/MatthiasPELLACOEUR/tp-minichat"
+                                                <h4 class="card-title">Mini-game</h4>
+                                                <p class="card-text">Exercice d'entrainement avec
+                                                    pour objectif l'utilisation de la POO.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Yoan42/Combat-game"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Clone Instagram</h4>
+                                                <h4 class="card-title">Instaclone</h4>
                                                 <p class="card-text">
-                                                    Project effectué en duo avec <a
-                                                        href="../Forest_Véronique/">Véronique Forest</a>.<br>
-                                                        L'objectif était de reproduire
-                                                    les fonctionnalités principales du réseau social Instagram.
+                                                    Project effectué en duo avec Raphael Dalfin
+                                                        <br>
+                                                    L'objectif était de reproduire
+                                                    Une copie de l'application Instagrame sur 3 jours.
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/MatthiasPELLACOEUR/project-clone-instagram"
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/HeathSilcox/quizzy"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Auto Date</h4>
+                                                <h4 class="card-title">Projet Perso</h4>
                                                 <p class="card-text">
-                                                    Project effectué en duo avec 
-                                                    <a href="https://github.com/LoannBenoit">Loann Benoit</a>. <br>
-                                                    Ce projet est une page de download pour un logiciel qui surligne automatique 
-                                                    tout ce qui ressemble à une date dans un fichier texte.
+                                                    Création d'un site web vitrine pour un projet personnel.
                                                 </p>
-                                                <a class="btn btn-lg btn-outline-info m-2"
-                                                    href="https://github.com/LoannBenoit/AutoDate"
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Yoan42/Ongles"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-8 text-left">
-                                        <h3>Compétences acquises</h3>
-                                        <p class="lead">Créer des pages web en HTML, CSS, JS, PHP</p>
+                                        <h3>Compétences en cours d'acquisitions</h3>
+                                        <p> Utilisation de HTML, CSS, PHP, JavaScript, gestion de base de donnée, SQL, Phpmyadmin. 
+                                        Utilisation de Visual studio Code.
                                         <p>
-                                            Le mini chat est composé d'une interface en HTML, CSS et
-                                            Javascript. <br> Les messages sont dynamiquement envoyés
-                                            et affichés en PHP grâce à la base de données MySQL.
+                                            .
                                         </p>
-                                        <p>
-                                            Le clone Instagram est composé lui d'une interface en HTML, CSS 
-                                            et de JavaScript aussi. <br> Les photos, les commentaires et les likes sont envoyés 
-                                            et affichés en PHP avec une base de données MySQL.
-                                        </p>
+                                        <p class="lead">Utilisation de LINUX</p>
                                         <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Docker</p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Utilisation de Frameworks CSS</p>
-                                        <p>Frameworks utilisés :</p>
-                                        <ul>
-                                            <li>Bootstrap</li>
-                                            <li>Materialize</li>
-                                        </ul>
                                         <h3>Projets personnels</h3>
-                                        <p>Afin d'améliorer mes compétences 
-                                            j'ai quelques projets en <span
-                                                title="Work In Progress">W.I.P</span> tels que :
+                                        <p>Afin d'améliorer mes compétences, j'ai un projet, je réalise un projet personnel :
                                             <br>
                                             <ul>
-                                                <li>
-                                                    un script de calculatrice en Javascript et le framework materialize en reprenant le style d'Apple
-                                                </li>
-                                                <li>
-                                                    AutoDate (en collaboration) principalement du CSS pour ma part
-                                                </li>
+                                                <li>Utilisation de CSS, Bootstrap</li>
+                                                <li>Création d'un espace membres</li>
+                                                <li>Création de formulaires</li>
+                                                <li>Espace galerie photos</li>
+                                                <li>Espace Contact</li>
+                                                
+
+
                                             </ul>
                                     </div>
                                 </div>
@@ -250,10 +240,10 @@
                                     <ul>
                                         <li>
                                             <b>Email</b> : <a
-                                                href="mailto:<?= $email ?>"><?= $email ?></a>
+                                                href="mailto:<?=$email?>"><?=$email?></a>
                                         </li>
                                         <li>
-                                            <b>Téléphone</b> : <a href="tel:0610454610">06 10 45 46 10</a>
+                                            <b>Téléphone</b> : <a href="tel:0606060606">06 14 51 27 89</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -287,7 +277,7 @@
                                                       required="required"></textarea>
                                         </div>
                                         <button type="submit"
-                                            class="btn btn-lg btn-outline-info m-2">ENVOYER</button>
+                                            class="btn btn-secondary btn-lg">ENVOYER</button>
                                     </form>
                                 </div>
                             </div>

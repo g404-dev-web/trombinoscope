@@ -5,7 +5,8 @@
 // C'est votre page ! Faites en ce que vous voulez.
 $email = "kadiousherxavier@gmail.com";
 
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
   <html>
 
   <head>
@@ -167,29 +168,42 @@ $email = "kadiousherxavier@gmail.com";
                                       <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’as permis de connaître les bases du développement ( en C et C++).
                                        <br> <br>Suite à cette formation j’ai travaillé pendant un an  dans un bureau
                                        d’études avant que ma passion pour le développement
-                                       web ne soit plus forte .Après une rupture
+                                       web ne soit plus forte. Après une rupture
                                        conventionnelle je décide donc de me lancer
                                        pleinement dans une formation et mon choix se tourne
                                        logiquement vers l’école Simplon au vue du retour
                                        positif des anciens apprenants et après des
-                                       entretiens beaucoup fructueux avec les formateurs.
-                                       <d.
+                                       entretiens fructueux avec les formateurs.
+<<<<<<< HEAD
+
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
-                                       lesquelles nous avons commencé cette formation
-                                       ,chaque jour en
+                                       lesquelles nous avons commencé cette
+                                          formation, chaque jour en
+=======
+                                      
+                                      </p>
+                                      <p>
+                                          Depuis que j’ai été retenu et malgré les conditions particulières dans
+                                       lesquelles nous avons commencé cette formation, chaque jour en
+>>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
                                        formation me
                                        conforte
                                        dans mon
                                        choix et je prend un réel plaisir à acquérir de
-                                       nouvelles connaissances dans ce métier .
+                                       nouvelles connaissances dans ce métier.
                                           <br><br>
                                           Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                       </p>
                                    <br>
+<<<<<<< HEAD
+                                   <p>A part coder, je suis un passionné de danse
+                                      et de Football que je pratique
+=======
                                    <p>A part coder ,je suis un passionné de danse et de Football que je pratique
-                                    beaucoup .</p>
+>>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
+                                    beaucoup.</p>
                                      <div class = "citation text-success">
                                       <div class = "blockquote">
                                           <p class = "mb-2">Citations</p>
@@ -371,7 +385,13 @@ $email = "kadiousherxavier@gmail.com";
                                               <div class = "bg-info text-white text-center py-2">
                                                   <h3><i class = "fa fa-envelope mr-2"></i>Envoyez moi un
                                                    mail</h3>
-                                                  <p class = "m-0">C'est avec plaisir que je vous répondrez</p>
+
+                                                  <p class = "m-0">C'est avec plaisir que je vous répondrai</p>
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
                                               </div>
                                           </div>
                                           <div class = "card-body p-3">
