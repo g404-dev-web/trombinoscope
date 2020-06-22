@@ -58,7 +58,6 @@ $email = "kadiousherxavier@gmail.com";
               </button>
               <div class = "collapse navbar-collapse text-center justify-content-end"
                    id = "navbar3SupportedContent">
-
                   <a class = "btn navbar-btn btn-outline-light"
                      href = "../../index.php">Retour à l'accueil</a>
               </div>
@@ -158,14 +157,11 @@ $email = "kadiousherxavier@gmail.com";
                                       </div>
                                   </div>
                                   </div>
-
-
-
                                   <div class = "col-8 text-left animate__animated animate__backInRight animate__delay-1s">
                                       <h3 class = "animate__animated animate__bounceIn">Développeur Web et Mobile</h3>
                                       <p class = "lead">Actuellement en formation Développeur Web et
                                           Mobile</p>
-                                      <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’as permis de connaître les bases du développement ( en C et C++).
+                                      <p>J'ai effectué une formation de Technicien Supérieur en Automatisme qui m’a permis de connaître les bases du développement ( en C et C++).
                                        <br> <br>Suite à cette formation j’ai travaillé pendant un an  dans un bureau
                                        d’études avant que ma passion pour le développement
                                        web ne soit plus forte. Après une rupture
@@ -174,7 +170,6 @@ $email = "kadiousherxavier@gmail.com";
                                        logiquement vers l’école Simplon au vue du retour
                                        positif des anciens apprenants et après des
                                        entretiens fructueux avec les formateurs.
-
 
                                       </p>
                                       <p>
@@ -187,7 +182,6 @@ $email = "kadiousherxavier@gmail.com";
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
                                        lesquelles nous avons commencé cette formation, chaque jour en
-
                                        formation me
                                        conforte
                                        dans mon
@@ -200,8 +194,8 @@ $email = "kadiousherxavier@gmail.com";
 
                                    <p>A part coder, je suis un passionné de danse
                                       et de Football que je pratique
-                                   <p>A part coder ,je suis un passionné de danse et de Football que je pratique
-
+                                   <p>A part coder ,je suis un passionné de danse
+                                      et de Football que je pratique.
                               </p>
                                      <div class = "citation text-success">
                                       <div class = "blockquote">
@@ -269,7 +263,6 @@ $email = "kadiousherxavier@gmail.com";
                                                        :
                                                        Utilisation d'une API dans la
                                                       conception d'une application</li>
-
                                                      <li class = "list-group-item"><strong> MySQL</strong>
                                                        :
                                                        requête PDO</li>
@@ -278,7 +271,6 @@ $email = "kadiousherxavier@gmail.com";
                                             </div>
                                           </div>
                                     </div>
-
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
                                                  <div class = "col-md-4">
@@ -386,11 +378,6 @@ $email = "kadiousherxavier@gmail.com";
                                                    mail</h3>
 
                                                   <p class = "m-0">C'est avec plaisir que je vous répondrai</p>
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
                                               </div>
                                           </div>
                                           <div class = "card-body p-3">

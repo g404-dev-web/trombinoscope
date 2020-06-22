@@ -108,6 +108,7 @@
                                 <div class="col-8 text-left">
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
+<<<<<<< HEAD
                                     <p>Attiré par l'univers du numérique et plus particulierement au secteur du développement web, 
                                         j'ai fais le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
                                     <br>
@@ -119,6 +120,24 @@
                                     <br><br>
                                         La formation as débuté début Avril. C'est pour moi l'heure de faire mes preuves et le néssécaire
                                         pour changer de direction profetionnel !
+=======
+                                    <p>Attiré par l'univers du numérique et plus particulièrement part le secteur du développement web,
+                                        j'ai fait le choix de me reconvertir dans ce domaine d'activité en pleine croissance.
+                                    <br>
+                                    <br>
+                                        Diplômé d'un CAP installateur thermique obtenu en 2010. A la suite de ça, mon parcours
+                                        professionnel s'est tourné dans le secteur de l'industrie en tant que conducteur de ligne
+                                        puis carriste et enfin conducteur d'engins et de ligne.
+                                    </p>
+                                    <p>
+                                        En Juin 2019, j'ai découvert que Simplon Roanne proposait une formation de développeur web
+                                        et mobile. J'ai donc immédiatement pris contact avec eux et effectué les démarches nécessaires
+                                        pour m'inscrire à cette Promo 3. En décembre 2019, l'école, en partenariat avec pôle emploi proposait 
+                                        une formation de trois jours d'initiation au codage à laquelle j'ai participé, ce qui a confirmé mon choix.
+                                    <br><br>
+                                        La formation a débuté début avril, c'est pour moi l'heure de faire mes preuves et le néssécaire.
+                                        pour changer de direction professionnelle !
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                     </p>
 
                                     <div class="blockquote">
@@ -186,6 +205,22 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
+<<<<<<< HEAD
+=======
+                                                <h4 class="card-title">Instaclone</h4>
+                                                <p class="card-text">
+                                                    Project effectué en duo avec Hamza Karfa
+                                                        <br>
+                                                    Création d'un POC d'un comparateur de tours opperateur en POO
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Yoan42/project-compar-oprerator"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                                 <h4 class="card-title">Projet Perso</h4>
                                                 <p class="card-text">
                                                     Création d'un site web vitrine pour un projet personnel.

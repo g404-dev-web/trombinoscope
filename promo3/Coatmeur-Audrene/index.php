@@ -208,23 +208,27 @@
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
+                                                <h4 class="card-title">Morpion</h4>
                                                 <p class="card-text">
-                                                    Please come back later!
+                                                    Notre premier TP sur l'orienté objet en JS. Idéal 
+                                                    pour animer vos soirées entre amis! (non)
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                    href="https://github.com/Audrene-C/tp-morpion"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">A venir!</h4>
+                                                <h4 class="card-title">Need a boat?</h4>
                                                 <p class="card-text">
-                                                    Please come back later!
+                                                    Notre première intégration avec du SCSS. Ça commence 
+                                                    à faire beaucoup de fichiers et de dossiers à ranger, 
+                                                    ce qui me pousse à faire preuve de rigueur. Vivement les 
+                                                    frameworks!
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href=""
+                                                    href="https://github.com/Audrene-C/tp-yellow"
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
@@ -244,8 +248,9 @@
                                         <h3>Projets personnels</h3>
                                         <p>
                                             Avant Simplon, j'avais commencé un bestiaire de Monster Hunter World, je 
-                                            l'améliore au fur et à mesure que j'apprends de nouvelles façons de faire. 
-                                            Pour y jeter un coup d'oeil, c'est <a href="https://mhwbestiaire.alwaysdata.net">par ici</a>.
+                                            l'améliore ("restart from scratch" serait plus proche de la vérité!) au fur 
+                                            et à mesure que j'apprends de nouvelles façons de faire. 
+                                            Pour y jeter un coup d'oeil, c'est <a href="https://github.com/Audrene-C/mhw">par ici</a>.
                                         </p>
                                         <p>
                                             Le premier cours de programmation orientée objet m'a vraiment inspiré, aussi 

@@ -110,7 +110,11 @@
                                     <p>
                                         J'ai toujours été très pasionné par le monde de l'informatique qui est pour moi
                                         un univers complet,
+<<<<<<< HEAD
                                         ayant précedement travaillé en tant que technicien informatique de niveau 2 pour une grosse societé de Roanne , j'ai décidé de me lancer dans
+=======
+                                        ayant précedement travaillé en tant que technicien informatique de niveau 2 pour une grosse societé de Roanne, j'ai décidé de me lancer dans
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                         le domaine qui me motive le plus : la programmation ! <br>
                                         J'ai des connaissances avancées en anglais (TOEFL iBT 90 Pts 2017) 
                                         qui sont un veritable atout dans le domaine du developpement web.
