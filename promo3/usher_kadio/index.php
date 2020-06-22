@@ -343,8 +343,9 @@ $email = "kadiousherxavier@gmail.com";
                                                       <ul class = "list-group list-group-flush">
                                                           <li class =
                                                               "list-group-item"><strong>POO / MySQL</strong>
-                                                              :
-                                                              requête PDO et CRUD </li>
+                                                              : utilisation de
+                                                              la POO pour le
+                                                              back-end </li>
                                                           <li class = "list-group-item"><strong>
                                                                   BOOTSTRAP</strong>
                                                               :
