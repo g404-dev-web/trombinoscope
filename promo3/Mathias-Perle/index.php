@@ -187,7 +187,23 @@
                                     <div class="col-4">
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
-                                                <h4 class="card-title">Client Deezer</h4>
+                                            <h4 class="card-title">ComparOperator</h4>
+                                                <p class="card-text">
+                                                Projet réalisé en duo avec</br><a
+                                                        href="../Avon-Antonin/index.html">Antonin Avon</a></br></br>
+                                                        L'objectif était de concevoir un comparateur de tours opérateurs.</br> 
+                                                        Ce projet m'a permis de développer mes compétences en Programmation 
+                                                        Orientée Objet PHP, via la prise en charge du développement Back-End du site.
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Shivalita/ComparOperator"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
+
+                                        <div class="bg-dark text-white text-center card mt-3">
+                                            <div class="card-body">
+                                            <h4 class="card-title">Client Deezer</h4>
                                                 <p class="card-text">
                                                     Projet réalisé en duo avec</br><a
                                                         href="../Coatmeur-Audrene/index.html">Audrène 
@@ -203,43 +219,36 @@
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
-
-                                        <div class="bg-dark text-white text-center card mt-3">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Fight Game</h4>
-                                                <p class="card-text">
-                                                        L'objectif était de concevoir un mini-jeu de combat en POO.</br></br>
-                                                        Ce TP a initié mes compétences en Programmation Orientée Objet PHP, 
-                                                        et m'a permis de développer mes connaissances en HTML, CSS et MySQL.
-                                                </p>
-                                                <a class="btn btn-lg btn-outline-secondary m-2"
-                                                    href="https://github.com/Shivalita/fight-game"
-                                                    target="_blank">Voir le projet</a>
-                                            </div>
-                                        </div>
                                     </div>
                         
                                     <div class="col-8 text-left">
-                                        <h3 class="mb-2">Client Deezer - Compétences acquises</h3>
+                                    <h3 class="mb-2 mt-2">ComparOperator - Compétences acquises</h3>
+                                        <p class="lead mb-4">Développer la partie Back-End d'un site en PHP et
+                                            MySQL</p>
+                                        <p>
+                                            Les processus de traitement de l'ensemble du site sont conçus en POO PHP.<br>
+                                            Le site possède un accès utilisateur qui permet de parcourir l'ensemble 
+                                            des tours opérateurs et des destinations disponibles, ainsi que de laisser des reviews.<br>
+                                            Un accès spécifique aux tours opérateurs permet d'ajouter et de modifier des destinations 
+                                            proposées, ainsi que de devenir membre premium.</br>
+                                            Enfin, l'accès administrateur permet d'ajouter ou supprimer des tours opérateurs, de leur 
+                                            attribuer ou retirer le statut premium, ainsi que de supprimer des destinations.</br>
+                                            La création d'une documentation qui répertorie les méthodes mises en places permet au 
+                                            développeur Front-End d'afficher les données de façon simplifiée.</br>
+                                        </p>
+
+                                        <h3 class="mb-2 mt-5">Client Deezer - Compétences acquises</h3>
                                         <p class="lead mb-4">Créer des pages web en HTML, CSS, JavaScript, PHP et
                                             MySQL</p>
                                         <p>
-                                            Les fonctionnalités du lecteur audio sont conçues "from scratch" en JavaScript.<br><br>
-                                            L'affichage est géré dynamiquement par JavaScript, qui effectue des 
-                                            requêtes vers l'API Deezer pour récupérer le contenu musical et les 
-                                            données associées.<br>
-                                            JavaScript se charge également de faire transiter ces dernières vers des pages 
-                                            de traitement PHP, qui exécutent des requêtes SQL et renvoient les données stockées  
-                                            à afficher.<br><br>  
-                                            Le tout se déroule de manière asynchrone via des requêtes fetch.<br>
+                                            Les fonctionnalités du lecteur audio sont conçues "from scratch" en JavaScript.<br>
+                                            L'affichage est géré dynamiquement par JavaScript via des requêtes fetch.<br>
                                             L'ensemble des fonctionnalités se déploie sur une unique page dont le 
                                             contenu est rafraîchi sans rechargement, ce qui permet notamment une 
-                                            continuité dans la lecture de la musique.</br><br>
-                                            CSS apporte enfin à l'ensemble un design cohérent et une 
-                                            identité visuelle.</br></br>
+                                            continuité dans la lecture de la musique.</br>
                                         </p>
-                                        <p class="mt-2"> Au cours de ce projet j'ai pu développer notamment mes compétences en PHP, et 
-                                            bien plus encore en JavaScript, en prenant en charge :</br></p>
+                                        <p class="mt-2"> Au cours de ce projet j'ai pu développer mes compétences en JavaScript, 
+                                        en prenant en charge :</br></p>
                                         <ul>
                                             <li>Les requêtes API, la récupération et l'affichage dynamique des données de chansons</li>
                                             <li>L'affichage des albums correspondants et de leurs titres, rendus jouables au clic</li>
