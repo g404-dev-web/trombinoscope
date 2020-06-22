@@ -185,8 +185,6 @@ $email = "kadiousherxavier@gmail.com";
                                       </p>
                                    <br>
                                    <p>A part coder, je suis un passionné de danse
-                                      et de Football que je pratique
-                                   <p>A part coder ,je suis un passionné de danse
                                       et de Football que je pratique.
                               </p>
                                      <div class = "citation text-success">
@@ -221,9 +219,8 @@ $email = "kadiousherxavier@gmail.com";
                                   </div>
                               </div>
                               <section class = "project py-4">
-                                  <!-- One project -->
                                   <div class = "row">
-
+                                  <!-- One project -->
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
                                                  <div class = "col-md-4">
@@ -263,6 +260,8 @@ $email = "kadiousherxavier@gmail.com";
                                             </div>
                                           </div>
                                     </div>
+                                      <!-- end one project -->
+                                      <!-- two project -->
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
                                                  <div class = "col-md-4">
@@ -311,7 +310,62 @@ $email = "kadiousherxavier@gmail.com";
                                             </div>
                                           </div>
                                     </div>
+                                  <!-- end two project -->
+                                  <!-- third project -->
+                                      <div class = "card mb-4">
+                                          <div class = "row no-gutters">
+                                              <div class = "col-md-4">
+                                                  <div class = "bg-dark text-white text-center card">
+                                                      <div class = "card-body">
+                                                          <h4 class =
+                                                              "card-title">ComparOperator</h4>
+                                                          <p class = "card-text">
+                                                              Project effectué en duo avec <a
+                                                                      href = "../Victoria-Lasnon/
+                                                                    ">Victoria
+                                                                      Lasnon</a>.
+                                                              L'objectif était de
+                                                              reproduire
+                                                              les fonctionnalités principales d'un
+                                                              site de comparateur
+                                                              de Tour Operator
+                                                          </p>
+                                                          <a class = "btn btn-lg
+                                                             btn-outline-warning m-2"
+                                                             href = "https://github.com/Kadev0502/comparoperator"
+                                                             target = "_blank">Voir le projet</a>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                              <div class = "col-md-8">
+                                                  <div class = "card-body">
+                                                      <h5 class = "card-title">Compétences acquises</h5>
+                                                      <ul class = "list-group list-group-flush">
 
+
+                                                          <li class =
+                                                              "list-group-item"><strong>POO / MySQL</strong>
+                                                              :
+                                                              requête PDO et CRUD </li>
+                                                          <li class = "list-group-item"><strong>
+                                                                  BOOTSTRAP</strong>
+                                                              :
+                                                              utilisation
+                                                              approfondie du
+                                                              framework
+                                                          </li>
+                                                          <li class = "list-group-item"><strong>
+                                                                  Git /
+                                                                  Github</strong>
+                                                              :
+                                                              utilisation de Git et Github en binôme
+                                                          </li>
+                                                      </ul>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  <!-- end third project -->
                                     </div>
                                <div class = "more-info">
 
