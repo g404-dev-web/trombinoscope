@@ -174,20 +174,20 @@ $email = "kadiousherxavier@gmail.com";
                                        logiquement vers l’école Simplon au vue du retour
                                        positif des anciens apprenants et après des
                                        entretiens fructueux avec les formateurs.
-<<<<<<< HEAD
+
 
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
                                        lesquelles nous avons commencé cette
                                           formation, chaque jour en
-=======
+
                                       
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
                                        lesquelles nous avons commencé cette formation, chaque jour en
->>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
+
                                        formation me
                                        conforte
                                        dans mon
@@ -197,13 +197,12 @@ $email = "kadiousherxavier@gmail.com";
                                           Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                       </p>
                                    <br>
-<<<<<<< HEAD
+
                                    <p>A part coder, je suis un passionné de danse
                                       et de Football que je pratique
-=======
                                    <p>A part coder ,je suis un passionné de danse et de Football que je pratique
->>>>>>> 3405aedeb5d8c65cc50aba56bd6b43135747a287
-                                    beaucoup.</p>
+
+                              </p>
                                      <div class = "citation text-success">
                                       <div class = "blockquote">
                                           <p class = "mb-2">Citations</p>
