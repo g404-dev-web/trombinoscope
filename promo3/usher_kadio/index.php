@@ -5,7 +5,8 @@
 // C'est votre page ! Faites en ce que vous voulez.
 $email = "kadiousherxavier@gmail.com";
 
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
   <html>
 
   <head>
@@ -57,7 +58,6 @@ $email = "kadiousherxavier@gmail.com";
               </button>
               <div class = "collapse navbar-collapse text-center justify-content-end"
                    id = "navbar3SupportedContent">
-
                   <a class = "btn navbar-btn btn-outline-light"
                      href = "../../index.php">Retour à l'accueil</a>
               </div>
@@ -157,9 +157,6 @@ $email = "kadiousherxavier@gmail.com";
                                       </div>
                                   </div>
                                   </div>
-
-
-
                                   <div class = "col-8 text-left animate__animated animate__backInRight animate__delay-1s">
                                       <h3 class = "animate__animated animate__bounceIn">Développeur Web et Mobile</h3>
                                       <p class = "lead">Actuellement en formation Développeur Web et
@@ -173,7 +170,7 @@ $email = "kadiousherxavier@gmail.com";
                                        logiquement vers l’école Simplon au vue du retour
                                        positif des anciens apprenants et après des
                                        entretiens fructueux avec les formateurs.
-                                      
+
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
@@ -187,8 +184,9 @@ $email = "kadiousherxavier@gmail.com";
                                           Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                       </p>
                                    <br>
-                                   <p>A part coder ,je suis un passionné de danse et de Football que je pratique
-                                    beaucoup.</p>
+                                   <p>A part coder, je suis un passionné de danse
+                                      et de Football que je pratique.
+                              </p>
                                      <div class = "citation text-success">
                                       <div class = "blockquote">
                                           <p class = "mb-2">Citations</p>
@@ -221,9 +219,8 @@ $email = "kadiousherxavier@gmail.com";
                                   </div>
                               </div>
                               <section class = "project py-4">
-                                  <!-- One project -->
                                   <div class = "row">
-
+                                  <!-- One project -->
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
                                                  <div class = "col-md-4">
@@ -255,7 +252,6 @@ $email = "kadiousherxavier@gmail.com";
                                                        :
                                                        Utilisation d'une API dans la
                                                       conception d'une application</li>
-
                                                      <li class = "list-group-item"><strong> MySQL</strong>
                                                        :
                                                        requête PDO</li>
@@ -264,7 +260,8 @@ $email = "kadiousherxavier@gmail.com";
                                             </div>
                                           </div>
                                     </div>
-
+                                      <!-- end one project -->
+                                      <!-- two project -->
                                     <div class = "card mb-4">
                                           <div class = "row no-gutters">
                                                  <div class = "col-md-4">
@@ -313,7 +310,61 @@ $email = "kadiousherxavier@gmail.com";
                                             </div>
                                           </div>
                                     </div>
-
+                                  <!-- end two project -->
+                                  <!-- third project -->
+                                      <div class = "card mb-4">
+                                          <div class = "row no-gutters">
+                                              <div class = "col-md-4">
+                                                  <div class = "bg-dark text-white text-center card">
+                                                      <div class = "card-body">
+                                                          <h4 class =
+                                                              "card-title">ComparOperator</h4>
+                                                          <p class = "card-text">
+                                                              Project effectué en duo avec <a
+                                                                      href = "../Victoria-Lasnon/
+                                                                    ">Victoria
+                                                                      Lasnon</a>.
+                                                              L'objectif était de
+                                                              reproduire
+                                                              les fonctionnalités principales d'un
+                                                              site de comparateur
+                                                              de Tour Operator
+                                                          </p>
+                                                          <a class = "btn btn-lg
+                                                             btn-outline-warning m-2"
+                                                             href = "https://github.com/Kadev0502/comparoperator"
+                                                             target = "_blank">Voir le projet</a>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                              <div class = "col-md-8">
+                                                  <div class = "card-body">
+                                                      <h5 class = "card-title">Compétences acquises</h5>
+                                                      <ul class = "list-group list-group-flush">
+                                                          <li class =
+                                                              "list-group-item"><strong>POO / MySQL</strong>
+                                                              : utilisation de
+                                                              la POO pour le
+                                                              back-end </li>
+                                                          <li class = "list-group-item"><strong>
+                                                                  BOOTSTRAP</strong>
+                                                              :
+                                                              utilisation
+                                                              approfondie du
+                                                              framework
+                                                          </li>
+                                                          <li class = "list-group-item"><strong>
+                                                                  Git /
+                                                                  Github</strong>
+                                                              :
+                                                              utilisation de Git et Github en binôme
+                                                          </li>
+                                                      </ul>
+                                                  </div>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  <!-- end third project -->
                                     </div>
                                <div class = "more-info">
 
@@ -372,6 +423,7 @@ $email = "kadiousherxavier@gmail.com";
                                                    mail</h3>
 
                                                   <p class = "m-0">C'est avec plaisir que je vous répondrai</p>
+<
                                               </div>
                                           </div>
                                           <div class = "card-body p-3">

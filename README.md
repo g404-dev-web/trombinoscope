@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Trombinoscope
 
 
@@ -70,5 +70,4 @@ Ajoutez votre tête au trombinoscope de la promotion sur la page d'accueil exist
 ## Résultat attendu
 * Votre avatar et vos informations s'affichent bien sur la page d'accueil
 * Votre code est mergé avec succès dans le projet
->>>>>>> 9db0347... initial
 * Vous avez créé une page personnelle mergée dans le projet

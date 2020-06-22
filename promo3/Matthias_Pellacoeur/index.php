@@ -106,6 +106,15 @@
                                     <h3>Développeur Web et Mobile</h3>
                                     <p class="lead">Actuellement en formation Développeur Web et
                                         Mobile</p>
+<<<<<<< HEAD
+                                    <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers le code.<br><br>
+                                        J'ai fait un Bac Scientifique
+                                        qui m'a permis un peu mieux à appréhender tout ce qui est 
+                                        algorithmie et les principes logiques du code.<br>
+                                        Mon niveau assez correct en anglais
+                                        me permet de comprendre les différentes ressources 
+                                        mises à disposition dans notre domaine.
+=======
                                     <p>J'ai toujours été intéressé par le monde de l'informatique depuis mes 12 ans, c'est assez naturellement que je me suis dirigé vers les languages de programmation.<br><br>
                                         J'ai fait un Bac Scientifique
                                         qui m'a permis un peu mieux à appréhender tout ce qui est 
@@ -113,6 +122,7 @@
                                         Mon bon niveau en anglais
                                         me permet de comprendre les différentes ressources 
                                         mises à disposition dans ce domaine.
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                     </p>
                                     <p>
                                         Début novembre 2019, avec l'aide de la Mission Locale (Roanne), j'ai entendu parler
@@ -120,8 +130,11 @@
                                         <br><br>
                                         Suite à cela, j'ai passé les tests en ligne, et j'ai reçu la convocation
                                         pour les entretiens que j'ai réussis.
+<<<<<<< HEAD
+=======
                                         <br><br>
                                         Depuis le début de la formation, je prends un réel plaisir à approfondir mes connaissances.
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                     </p>
                                     <!--
                                     <div class="blockquote">

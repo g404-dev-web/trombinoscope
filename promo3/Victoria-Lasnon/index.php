@@ -87,7 +87,11 @@ $email = "victoria.lasnon@laposte.net";
                             </div>
                             <div class="row">
                                 <div class="col-4">
+<<<<<<< HEAD
+                                    <img class="img-fluid rounded-circle p-3" id="Victoria-Lasnon" src="images/Victoria-Lasnon.jpg" alt="Card image">
+=======
                                     <img class="img-fluid rounded-circle p-3" id="Victoria-Lasnon" src="victoria.jpg" alt="Card image">
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
                                 </div>
                                 <div class="col-8 text-left">
                                     <h3>Développeur back end</h3>
@@ -281,4 +285,8 @@ $email = "victoria.lasnon@laposte.net";
     <script src="/js/smooth-scroll.js"></script>
 </body>
 
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> d613964b63b19b5444770b35a6ab18f56764d511
