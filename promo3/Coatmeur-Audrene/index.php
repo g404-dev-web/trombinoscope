@@ -232,6 +232,21 @@
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
+                                        <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">ComparOperateur</h4>
+                                                <p class="card-text">Deuxième projet chez Simplon, 
+                                                    en binôme avec <a href="../../promo3/Depresle-Maureen">Maureen Depresle</a>, 
+                                                    nous avions un cahier des charges à respecter pour créer le POC d'un comparateur 
+                                                    de tour-opérateurs. Nous avons choisi le parti pris de séparer les tâches en deux : 
+                                                    elle s'est occupée exclusivement du front, et moi du back. En plus d'avoir consolidé 
+                                                    mes connaissances en PHP et en POO, ce projet m'a appris à mieux partager et merge mon 
+                                                    travail avec celui de mes collègues.</p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/Audrene-C/comparOperateur"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="col-8 text-left">
                                         <h3>Projets Simplon</h3>
@@ -244,6 +259,19 @@
                                             et les affiche dynamiquement sur notre index, tout se fait sur la même page. 
                                             Nous avons utilisé PHP pour le système de login et de commentaires, et avons 
                                             créé notre base de données en conséquence.
+                                        </p>
+                                        <p class="lead">
+                                            ComparOperateur :
+                                        </p>
+                                        <p>
+                                            Beaucoup de requêtes SQL à manipuler et davantage encore de POO. J'aime ce 
+                                            paradigme de programmation, cette façon de penser me parle, et j'ai pris 
+                                            plaisir à coder et expérimenter (j'ai réalisé ma première injection de dépendances
+                                            dans ma classe Destination, un grand moment). En terme d'organisation, j'ai compris 
+                                            qu'il était important de faire des push moins importants et plus réguliers, et de 
+                                            vérifier tout aussi régulièrement le résultat du merge de nos branches. J'ai aussi dû 
+                                            gérer les problèmes de chemins qui apparaissaient parce que j'étais sous Linux, et ma 
+                                            binôme sous Windows.
                                         </p>
                                         <h3>Projets personnels</h3>
                                         <p>
