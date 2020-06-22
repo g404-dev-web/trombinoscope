@@ -174,13 +174,6 @@ $email = "kadiousherxavier@gmail.com";
                                       </p>
                                       <p>
                                           Depuis que j’ai été retenu et malgré les conditions particulières dans
-                                       lesquelles nous avons commencé cette
-                                          formation, chaque jour en
-
-                                      
-                                      </p>
-                                      <p>
-                                          Depuis que j’ai été retenu et malgré les conditions particulières dans
                                        lesquelles nous avons commencé cette formation, chaque jour en
                                        formation me
                                        conforte
@@ -191,7 +184,6 @@ $email = "kadiousherxavier@gmail.com";
                                           Mon bon niveau d’anglais me permet dans cette formation de chercher facilement des infos lorsque j’ai besoin de me documenter.
                                       </p>
                                    <br>
-
                                    <p>A part coder, je suis un passionné de danse
                                       et de Football que je pratique
                                    <p>A part coder ,je suis un passionné de danse
@@ -378,6 +370,7 @@ $email = "kadiousherxavier@gmail.com";
                                                    mail</h3>
 
                                                   <p class = "m-0">C'est avec plaisir que je vous répondrai</p>
+<
                                               </div>
                                           </div>
                                           <div class = "card-body p-3">
