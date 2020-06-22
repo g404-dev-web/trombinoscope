@@ -140,15 +140,13 @@
                         <a href="mailto:simplonroanne@gmail.com">simplonroanne@gmail.com</a>
                     </p>
                     <p class="mb-3">
-                        <a href="tel:0625250591">06 25 25 05 91</a>
+                        <a href="tel:0625250591">06 15 61 91 66</a>
                     </p>
-                    <a href="#" target="_blank">
-                        <i class="fa fa-github d-inline fa-lg mr-3 text-white"></i>
-                    </a>
-                    <a href="#" target="_blank">
+                    
+                    <a href="https://www.linkedin.com/school/simplon-roanne/?viewAsMember=true" target="_blank">
                         <i class="fa d-inline fa-lg mr-3 text-white fa-linkedin"></i>
                     </a>
-                    <a href="#" target="_blank">
+                    <a href="https://www.facebook.com/SimplonRoanne" target="_blank">
                         <i class="fa fa-facebook d-inline fa-lg mr-3 text-white"></i>
                     </a>
                 </div>
