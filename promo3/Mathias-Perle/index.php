@@ -108,24 +108,30 @@
                                     <p class="lead">Miss JavaScript de la promo</p>
                                     <p>
                                         Férue d'informatique depuis 20 ans, j'entretiens une 
-                                        relation privilégiée avec cet outil. J'ai occupé un poste de 
+                                        relation privilégiée avec cet outil, et j'ai toujours gravité autour 
+                                        de ce monde et de celui d'internet. J'ai occupé un poste de 
                                         conseillère en dépannage internet, et assuré un rôle de technicienne 
-                                        assistante en informatique, où j'ai effectué mes premières requêtes SQL.
+                                        assistante en informatique, où j'ai effectué mes premières requêtes SQL. 
+                                        Plus jeune, je m'amusais à créer de petits scripts sur IRC.
                                     </p>
                                     <p>
-                                        Je me suis par la suite initiée à la programmation par loisir. Le coup 
-                                        de foudre pour l'algorithmie ayant été aussi immédiat qu'absolu, j'ai 
-                                        entrepris d'apprendre les bases du développement en autodidacte. J'ai 
-                                        rapidement pris la décision de faire de cette passion mon métier, et 
-                                        choisi d'intégrer une formation professionnelle qualifiante.
+                                        Bien des années plus tard je me suis initiée à la programmation par loisir, 
+                                        en Python dans un premier temps. Le coup de foudre pour l'algorithmie ayant été 
+                                        aussi immédiat qu'absolu, j'ai entrepris d'apprendre les bases du développement en 
+                                        autodidacte. J'ai rapidement pris la décision de faire de cette passion mon métier, et 
+                                        choisi d'intégrer une formation professionnelle qualifiante. En attendant, j'ai troqué Python 
+                                        contre JavaScript, car ce langage semblait mieux correspondre à mes aspirations professionnelles.
+                                        Je n'y ai rien perdu en émerveillement et en passion, qui n'ont fait que grandir et 
+                                        s'épanouir avec le temps.
                                     </p>
                                     <p>
-                                        J'ai pu rejoindre la Fabrique Simplon où je suis formée au métier 
+                                        Début avril 2020 j'ai pu rejoindre la Fabrique Simplon, où je suis actuellement formée au métier 
                                         de développeuse Web et Mobile. En plus des diverses aptitudes techniques, 
                                         j'y développe des compétences annexes comme la maîtrise des outils de 
                                         programmation, la gestion de projet, ou le travail en méthode Agile.
                                         Passionnée d'algorithmie avant tout, mes langages de prédilection
-                                        sont JavaScript, dont je suis une amoureuse transie notoire, mais aussi PHP.
+                                        sont JavaScript - dont je suis une amoureuse transie notoire - et PHP, 
+                                        mais tout langage de script est chaleureusement invité à les rejoindre.
                                     </p>
                                     <p>
                                         let isConvinced = confirm('Are you convinced ?');</br>
@@ -142,9 +148,17 @@
                                     </p>
                                     <span>}</span> 
                                     <div class="blockquote mt-4">
-                                        <p class="mb-2">Citation</p>
+                                        <p class="mb-2">Citations</p>
                                         <div class="blockquote-footer">
-                                            Un problème sans solution est un problème mal posé.
+                                        C'est en voulant connaître toujours davantage qu'on se rend compte qu'on ne sait pas grand-chose.
+                                            <cite>Pierre Dac</cite>
+                                        </div>
+                                        <div class="blockquote-footer mt-2">
+                                        La joie de regarder et de comprendre est le plus beau cadeau de la nature.
+                                            <cite>Albert Einstein</cite>
+                                        </div>
+                                        <div class="blockquote-footer mt-2">
+                                        Ce n'est pas que je suis si intelligent, c'est que je reste plus longtemps avec les problèmes.
                                             <cite>Albert Einstein</cite>
                                         </div>
                                     </div>
@@ -162,12 +176,6 @@
                                             <i
                                                 class="fa fa-linkedin d-inline fa-lg mr-3 text-dark"></i>
                                         </a>
-                                        <!-- <a href="http://www.doyoubuzz.com/christophe-chaxel/"
-                                            class="liens" target="_blank">
-                                            <i class="fa d-inline fa-lg mr-3 text-dark"><img
-                                                    src="../../promo1/Gauthier-MF/images/logodoyoubuzz.jpeg"
-                                                    class="logo"></i>
-                                        </a> -->
                                     </div>
                                 </div>
                             </div>
@@ -188,12 +196,14 @@
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                             <h4 class="card-title">ComparOperator</h4>
+                                            <i>Deuxième projet effectué</i></br></br>
                                                 <p class="card-text">
-                                                Projet réalisé en duo avec</br><a
+                                                Réalisé en duo avec</br><a
                                                         href="../Avon-Antonin/index.html">Antonin Avon</a></br></br>
-                                                        L'objectif était de concevoir un comparateur de tours opérateurs.</br> 
-                                                        Ce projet m'a permis de développer mes compétences en Programmation 
-                                                        Orientée Objet PHP, via la prise en charge du développement Back-End du site.
+                                                        L'objectif était de concevoir un annuaire comparateur de tours opérateurs.</br></br> 
+                                                        Ce projet m'a permis de développer mes compétences en POO PHP, via la prise en charge du développement Back-End du site. 
+                                                        J'ai ainsi pu apprendre à répartir efficacement les tâches, et découvrir les bonnes pratiques 
+                                                        d'un travail compartimenté mais toujours en lien.
                                                 </p>
                                                 <a class="btn btn-lg btn-outline-secondary m-2"
                                                     href="https://github.com/Shivalita/ComparOperator"
@@ -201,11 +211,12 @@
                                             </div>
                                         </div>
 
-                                        <div class="bg-dark text-white text-center card mt-3">
+                                        <div class="bg-dark text-white text-center card mt-5">
                                             <div class="card-body">
                                             <h4 class="card-title">Client Deezer</h4>
+                                                <i>Premier projet effectué</i></br></br>
                                                 <p class="card-text">
-                                                    Projet réalisé en duo avec</br><a
+                                                    Réalisé en duo avec</br><a
                                                         href="../Coatmeur-Audrene/index.html">Audrène 
                                                         Coatmeur</a></br></br>
                                                         L'objectif était de réaliser une web app de musique offrant un lecteur 
@@ -219,46 +230,61 @@
                                                     target="_blank">Voir le projet</a>
                                             </div>
                                         </div>
+                                        <p class="lead mt-4">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Visual Studio Code</p>
+                                        <p class="lead">Utilisation de Coggle, Trello, et Wireframe</p>
                                     </div>
                         
                                     <div class="col-8 text-left">
-                                    <h3 class="mb-2 mt-2">ComparOperator - Compétences acquises</h3>
-                                        <p class="lead mb-4">Développer la partie Back-End d'un site en PHP et
+                                    <h3 class="mb-2">ComparOperator - Compétences acquises</h3>
+                                        <p class="lead mb-4">Développer la partie Back-End d'un site en PHP7 et
                                             MySQL</p>
                                         <p>
-                                            Les processus de traitement de l'ensemble du site sont conçus en POO PHP.<br>
-                                            Le site possède un accès utilisateur qui permet de parcourir l'ensemble 
-                                            des tours opérateurs et des destinations disponibles, ainsi que de laisser des reviews.<br>
-                                            Un accès spécifique aux tours opérateurs permet d'ajouter et de modifier des destinations 
-                                            proposées, ainsi que de devenir membre premium.</br>
-                                            Enfin, l'accès administrateur permet d'ajouter ou supprimer des tours opérateurs, de leur 
-                                            attribuer ou retirer le statut premium, ainsi que de supprimer des destinations.</br>
-                                            La création d'une documentation qui répertorie les méthodes mises en places permet au 
-                                            développeur Front-End d'afficher les données de façon simplifiée.</br>
+                                            L'ensemble des fonctionnalités du site est conçu en POO PHP, et 
+                                            l'affichage est dynamique.<br>
+                                            Le site possède trois accès : utilisateur, tour opérateur et administrateur, 
+                                            chacun avec ses spécificités et ses codes métiers propres.</br>
+                                            La base de données stocke les tours opérateurs et les destinations proposées, ainsi 
+                                            que les reviews des utilisateurs. Chacune de ces tables est associée à une classe 
+                                            et à un manager de classe correspondant. Toutes les méthodes ont été rigoureusement 
+                                            testées et sont fonctionnelles, seul le système de notation n'a pas été implémenté 
+                                            par manque de temps (réalisation : 1 semaine).</br>
+                                            Une documentation a été créée afin de faciliter au maximum le travail de mon collègue 
+                                            en charge du développement Front-End. Elle répertorie toutes les méthodes mises en place, 
+                                            accompagnées chacune du type des données récupérées, d'explications, et d'un exemple clair 
+                                            sur son utilisation.</br>
                                         </p>
+                                        <p class="mt-2"> Pour ce projet nous avons scrupuleusement réparti les tâches, et la prise 
+                                        en charge de la partie Back-End du site m'a permis :</br></p>
+                                        <ul>
+                                            <li>De développer grandement mes compétences en POO PHP</li>
+                                            <li>D'améliorer mes connaissances en SQL via une complexité accrue des requêtes</li>
+                                            <li>D'apprendre à compartimenter le travail, et rester en liaison constante avec le côté Front-End</li>
+                                            <li>De créer une documentation complète afin d'assurer au mieux mon rôle de Back-End</li>
+                                        </ul>
 
                                         <h3 class="mb-2 mt-5">Client Deezer - Compétences acquises</h3>
-                                        <p class="lead mb-4">Créer des pages web en HTML, CSS, JavaScript, PHP et
+                                        <p class="lead mb-4">Créer des pages web en HTML5, CSS3, JavaScript, PHP7 et
                                             MySQL</p>
                                         <p>
                                             Les fonctionnalités du lecteur audio sont conçues "from scratch" en JavaScript.<br>
-                                            L'affichage est géré dynamiquement par JavaScript via des requêtes fetch.<br>
+                                            L'affichage est géré dynamiquement par JavaScript via des requêtes fetch. JavaScript 
+                                            se charge de récupérer les données auprès de l'API, ainsi que de les envoyer aux pages de 
+                                            traitement PHP lorsque c'est nécessaire. Celles-ci exécutent alors des requêtes SQL sur la base 
+                                            de données, avant de renvoyer les données à afficher à JavaScript.<br>
                                             L'ensemble des fonctionnalités se déploie sur une unique page dont le 
                                             contenu est rafraîchi sans rechargement, ce qui permet notamment une 
                                             continuité dans la lecture de la musique.</br>
                                         </p>
-                                        <p class="mt-2"> Au cours de ce projet j'ai pu développer mes compétences en JavaScript, 
-                                        en prenant en charge :</br></p>
+                                        <p class="mt-2"> Au cours de ce projet j'ai pu développer mes compétences en PHP, et bien 
+                                        davantage encore en JavaScript, en prenant notamment en charge :</br></p>
                                         <ul>
                                             <li>Les requêtes API, la récupération et l'affichage dynamique des données de chansons</li>
                                             <li>L'affichage des albums correspondants et de leurs titres, rendus jouables au clic</li>
-                                            <li>La création des comptes utilisateurs</li>
+                                            <li>La création/gestion des comptes utilisateurs</li>
                                             <li>Le code métier et l'affichage des commentaires</li>
                                             <li>La gestion et l'affichage dynamique des onglets de navigation</li>
                                         </ul>
-                                        <p class="lead mt-4">Utilisation de Git</p>
-                                        <p class="lead">Utilisation de Visual Studio Code</p>
-                                        <p class="lead">Utilisation de Coggle, Trello, Wireframe</p>
                                     </div>
                                 </div>
                                 <hr>
