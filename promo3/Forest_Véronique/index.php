@@ -188,6 +188,23 @@
                                                     target="_blank">Voir le projet</a>
                                             </div> -->
                                         </div>
+                                         <div class="bg-dark text-white text-center card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Compar Operator</h4>
+                                                <p class="card-text">
+                                                    Projet effectué en duo avec Olivier Guillemot.<br> 
+                                                    L'objectif était produire un POC pour un comparateur de tour-operators en réalisant deux accès
+                                                   le côté utilisateur et le côté administrateur: <br>
+                                                    <li>arriver sur site accueillant </li>
+                                                    <li> gérer l'interaction entre la base de données et les apparences du front</li>
+                                                    <li>gérer la gestion de la base de données par le biais de requête</li>
+                                                    
+                                                </p>
+                                                <a class="btn btn-lg btn-outline-secondary m-2"
+                                                    href="https://github.com/VEROFOREST/ComparOperator.git"
+                                                    target="_blank">Voir le projet</a>
+                                            </div>
+                                        </div>
                                         <div class="bg-dark text-white text-center card">
                                             <div class="card-body">
                                                 <h4 class="card-title">Clône Instagram</h4>
@@ -228,7 +245,9 @@
                                             Javascript. <br> Les messages sont dynamiquement envoyés
                                             et affichés en PHP grâce la base de données MySQL.
                                         </p>
-                                        <p class="lead">Utilisation de Git</p>
+                                        <p class="lead">Utilisation de Git
+                                            
+                                        </p>
                                         <p class="lead">Utilisation de Visual Studio Code</p>
                                         <h3>Projets personnels</h3>
                                         <p>Afin d'améliorer mes compétences dans l'ensemble des domaines abordés au cours de la formation, je souhaite créer un site pouvant évoluer à chaque étape de ma formation.
