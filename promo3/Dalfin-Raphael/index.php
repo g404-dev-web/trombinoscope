@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="display-4 mb-0">Dalfin Raphael</h1>
-                    <h3 class="my-0">Développeur back-end</h3>
+                    <h3 class="my-0">Développeur Web et Web-Mobile</h3>
                 </div>
             </div>
         </div>
